@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<list>
+    <cardlist id="1" name="传世神兵" formula="1,2,3,4,5" icon="xltj_btn_chuanshishenbing_png" icon2="xltj_txt_chuanshishenbing_png"/>
+    <cardlist id="2" name="美女如云" formula="6,7,8,9,10" icon="xltj_btn_meinvruyun_png" icon2="xltj_txt_meinvruyun_png"/>
+    <cardlist id="3" name="战神金装" formula="11,12,13,14,15" icon="xltj_btn_zhanshenjinzhuang_png" icon2="xltj_txt_zhanshenjinzhuang_png"/>
+    <cardlist id="4" name="法神金装" formula="16,17,18,19,20" icon="xltj_btn_fashenjinzhuang_png" icon2="xltj_txt_fashenjinzhuang_png"/>
+    <cardlist id="5" name="天尊金装" formula="21,22,23,24,25" icon="xltj_btn_tianzunjinzhuang_png" icon2="xltj_txt_tianzunjinzhuang_png"/>
+    <cardlist id="6" name="至尊神鉴" formula="26,27,28,29,30" icon="xltj_btn_zhizunshenjian_png" icon2="xltj_txt_zhizunshenjian_png"/>
+    <cardlist id="7" name="传奇之路" formula="31,32,33,34,35" icon="xltj_btn_chuanqizhilu_png" icon2="xltj_txt_chuanqizhilu_png"/>
+    <cardlist id="8" name="战无不胜" formula="36,37,38,39,40" icon="xltj_btn_zhanwubusheng_png" icon2="xltj_txt_zhanwubusheng_png"/>
+</list> 

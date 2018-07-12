@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dafuweng>
+	<logic id="1" round="0" cznum="10" cishu="1"/>
+	<logic id="2" round="0" cznum="20" cishu="1"/>
+	<logic id="3" round="0" cznum="50" cishu="1"/>
+	<logic id="4" round="0" cznum="100" cishu="3"/>
+	<logic id="5" round="0" cznum="200" cishu="3"/>
+	<logic id="6" round="0" cznum="500" cishu="5"/>
+	<logic id="7" round="0" cznum="1000" cishu="10"/>
+	<logic id="8" round="0" cznum="1500" cishu="10"/>
+	<logic id="9" round="0" cznum="2000" cishu="20"/>
+	<logic id="10" round="0" cznum="3000" cishu="30"/>
+</dafuweng>

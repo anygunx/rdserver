@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<logic>
+	<logic id="1" round="0" cishu="1" reward="2,7,5#31,0,2000"/>
+	<logic id="2" round="0" cishu="5" reward="2,7,10#31,0,4000"/>
+	<logic id="3" round="0" cishu="9" reward="2,7,15#31,0,6000"/>
+	<logic id="4" round="0" cishu="13" reward="2,7,20#31,0,8000"/>
+	<logic id="5" round="0" cishu="21" reward="2,7,30#31,0,10000"/>
+	<logic id="6" round="0" cishu="29" reward="2,7,40#31,0,12000"/>
+	<logic id="7" round="0" cishu="37" reward="2,7,50#31,0,14000"/>
+	<logic id="8" round="0" cishu="45" reward="2,7,60#31,0,16000"/>
+	<logic id="9" round="0" cishu="57" reward="2,7,80#31,0,18000"/>
+	<logic id="10" round="0" cishu="69" reward="2,7,100#31,0,20000"/>
+	<logic id="11" round="0" cishu="81" reward="2,7,120#31,0,22000"/>
+	<logic id="12" round="0" cishu="93" reward="2,7,140#31,0,24000"/>
+	<logic id="13" round="0" cishu="100" reward="2,7,160#31,0,26000"/>
+</logic>

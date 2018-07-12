@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<equipmentBasevalue>
+	<equipmentBasevalue lv="1" attack="1" Def="1" hp="15" block="7" counter="7" hit="7" dodge="7" crit="7" duct="7"/>
+	<equipmentBasevalue lv="10" attack="2" Def="2" hp="25" block="12" counter="12" hit="12" dodge="12" crit="12" duct="12"/>
+	<equipmentBasevalue lv="20" attack="3" Def="3" hp="37" block="18" counter="18" hit="18" dodge="18" crit="18" duct="18"/>
+	<equipmentBasevalue lv="30" attack="5" Def="5" hp="53" block="26" counter="26" hit="26" dodge="26" crit="26" duct="26"/>
+	<equipmentBasevalue lv="40" attack="6" Def="6" hp="68" block="34" counter="34" hit="34" dodge="34" crit="34" duct="34"/>
+	<equipmentBasevalue lv="50" attack="8" Def="8" hp="84" block="42" counter="42" hit="42" dodge="42" crit="42" duct="42"/>
+	<equipmentBasevalue lv="60" attack="10" Def="10" hp="100" block="50" counter="50" hit="50" dodge="50" crit="50" duct="50"/>
+	<equipmentBasevalue lv="70" attack="11" Def="11" hp="115" block="57" counter="57" hit="57" dodge="57" crit="57" duct="57"/>
+	<equipmentBasevalue lv="80" attack="13" Def="13" hp="131" block="65" counter="65" hit="65" dodge="65" crit="65" duct="65"/>
+	<equipmentBasevalue lv="90" attack="14" Def="14" hp="146" block="73" counter="73" hit="73" dodge="73" crit="73" duct="73"/>
+	<equipmentBasevalue lv="100" attack="16" Def="16" hp="162" block="81" counter="81" hit="81" dodge="81" crit="81" duct="81"/>
+	<equipmentBasevalue lv="110" attack="17" Def="17" hp="178" block="89" counter="89" hit="89" dodge="89" crit="89" duct="89"/>
+	<equipmentBasevalue lv="120" attack="19" Def="19" hp="193" block="96" counter="96" hit="96" dodge="96" crit="96" duct="96"/>
+	<equipmentBasevalue lv="130" attack="20" Def="20" hp="209" block="104" counter="104" hit="104" dodge="104" crit="104" duct="104"/>
+	<equipmentBasevalue lv="140" attack="22" Def="22" hp="225" block="112" counter="112" hit="112" dodge="112" crit="112" duct="112"/>
+	<equipmentBasevalue lv="150" attack="24" Def="24" hp="240" block="120" counter="120" hit="120" dodge="120" crit="120" duct="120"/>
+	<equipmentBasevalue lv="160" attack="25" Def="25" hp="256" block="128" counter="128" hit="128" dodge="128" crit="128" duct="128"/>
+	<equipmentBasevalue lv="170" attack="27" Def="27" hp="271" block="135" counter="135" hit="135" dodge="135" crit="135" duct="135"/>
+	<equipmentBasevalue lv="180" attack="28" Def="28" hp="287" block="143" counter="143" hit="143" dodge="143" crit="143" duct="143"/>
+	<equipmentBasevalue lv="190" attack="30" Def="30" hp="303" block="151" counter="151" hit="151" dodge="151" crit="151" duct="151"/>
+	<equipmentBasevalue lv="200" attack="31" Def="31" hp="318" block="159" counter="159" hit="159" dodge="159" crit="159" duct="159"/>
+</equipmentBasevalue>

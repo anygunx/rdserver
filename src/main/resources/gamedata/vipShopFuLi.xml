@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<logics>
+	<logic id="1" shopType="0" round="0" goods="2,2,5" price="4,0,135" yuanJia="4,0,150" discount="9" vip="3,1;4,2;5,3;6,4;7,5;8,6;9,7;10,8;11,9;12,10;13,11"/>
+	<logic id="2" shopType="0" round="0" goods="2,1,5" price="4,0,160" yuanJia="4,0,200" discount="8" vip="3,1;4,2;5,3;6,4;7,5;8,6;9,7;10,8;11,9;12,10;13,11"/>
+	<logic id="3" shopType="0" round="0" goods="2,31,20" price="4,0,80" yuanJia="4,0,100" discount="8" vip="3,1;4,2;5,3;6,4;7,5;8,6;9,7;10,8;11,9;12,10;13,11"/>
+	<logic id="4" shopType="0" round="0" goods="3,4,5" price="4,0,120" yuanJia="4,0,150" discount="8" vip="3,1;4,2;5,3;6,4;7,5;8,6;9,7;10,8;11,9;12,10;13,11"/>
+</logics>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<logics>
+	<logic id="1" rewards="4,0,888#3,11,8"/>
+	<logic id="2" rewards="4,0,388#3,11,5"/>
+	<logic id="3" rewards="4,0,388#3,11,5"/>
+	<logic id="4" rewards="4,0,388#3,11,5"/>
+	<logic id="5" rewards="4,0,588#3,11,8"/>
+	<logic id="6" rewards="4,0,588#3,11,8"/>
+	<logic id="7" rewards="4,0,688#3,11,15#3,23,1"/>
+</logics>

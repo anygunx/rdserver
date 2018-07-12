@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<copys>
+	<copy id="1" name="个人BOSS" mapid="10007" order="0" type="1" lvlimit="20" viplimit="0" reward="2,7,0" nums="1,0;1,0;1,0;1,0;1,0;1,0;1,0;1,0;1,0;1,0;1,0" price="0" priceAdd="0" time="10"/>
+	<copy id="2" name="宝石副本" mapid="10001" order="4" type="2" lvlimit="40" viplimit="0" reward="2,9,0" nums="1,1;1,2;1,2;1,2;1,3;1,3;1,4;1,4;1,5;1,5;1,5" price="500" priceAdd="0" time="10"/>
+	<copy id="3" name="经脉副本" mapid="10002" order="5" type="2" lvlimit="45" viplimit="0" reward="2,16,0" nums="1,1;1,2;1,2;1,2;1,3;1,3;1,4;1,4;1,5;1,5;1,5" price="500" priceAdd="0" time="10"/>
+	<copy id="4" name="龙纹副本" mapid="10003" order="2" type="2" lvlimit="34" viplimit="0" reward="2,12,0" nums="1,1;1,2;1,2;1,2;1,3;1,3;1,4;1,4;1,5;1,5;1,5" price="500" priceAdd="0" time="10"/>
+	<copy id="5" name="龙鳞副本" mapid="10004" order="1" type="2" lvlimit="32" viplimit="0" reward="2,13,0" nums="1,1;1,2;1,2;1,2;1,3;1,3;1,4;1,4;1,5;1,5;1,5" price="500" priceAdd="0" time="10"/>	
+	<copy id="6" name="闯天关" mapid="10008" order="0" type="3" lvlimit="55" viplimit="0" reward="0" nums="-1,0;-1,0;-1,0;-1,0;-1,0;-1,0;-1,0;-1,0;-1,0;-1,0;-1,0" price="0" priceAdd="0" time="10"/>
+	<copy id="7" name="帮会副本" mapid="10016" order="0" type="4" lvlimit="1" viplimit="0" reward="0" nums="-1,1;-1,1;-1,1;-1,1;-1,1;-1,1;-1,1;-1,1;-1,1;-1,1;-1,1" price="0" priceAdd="0" time="10"/>
+	<copy id="8" name="成就副本" mapid="10018" order="6" type="2" lvlimit="50" viplimit="0" reward="3,3,0" nums="1,1;1,2;1,2;1,2;1,3;1,3;1,4;1,4;1,5;1,5;1,5" price="500" priceAdd="0" time="10"/>
+	<copy id="9" name="羽翼副本" mapid="10023" order="3" type="2" lvlimit="36" viplimit="0" reward="2,17,0" nums="1,1;1,2;1,2;1,2;1,3;1,3;1,4;1,4;1,5;1,5;1,5" price="500" priceAdd="0" time="10"/>
+	<copy id="10" name="镇魔塔" mapid="10008" order="0" type="8" lvlimit="110" viplimit="0" reward="0" nums="-1,0;-1,0;-1,0;-1,0;-1,0;-1,0;-1,0;-1,0;-1,0;-1,0;-1,0" price="0" priceAdd="0" time="10"/>
+	<copy id="11" name="五行副本" mapid="10030" order="0" type="9" lvlimit="1" viplimit="0" reward="0" nums="1,0;1,0;1,0;1,0;1,0;1,0;1,0;1,0;1,0;1,0;1,0" price="0" priceAdd="0" time="10"/>
+	<copy id="12" name="主宰试炼" mapid="10008" order="0" type="10" lvlimit="90" viplimit="0" reward="0" nums="-1,0;-1,0;-1,0;-1,0;-1,0;-1,0;-1,0;-1,0;-1,0;-1,0;-1,0" price="0" priceAdd="0" time="10"/>
+</copys>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<logic>
+	<logic id="1" round="0" cost="1" type="0" diaoluo="10000" reward="2,9,25" prices="5,0,1888" prices2="5,0,8888"/>
+	<logic id="2" round="0" cost="1" type="0" diaoluo="10000" reward="2,10,25" prices="5,0,1888" prices2="5,0,8888"/>
+	<logic id="3" round="0" cost="1" type="0" diaoluo="10000" reward="31,0,5000" prices="5,0,1888" prices2="5,0,8888"/>
+	<logic id="4" round="0" cost="1" type="0" diaoluo="10000" reward="2,16,25" prices="5,0,1888" prices2="5,0,8888"/>
+	<logic id="5" round="0" cost="1" type="0" diaoluo="10000" reward="3,65,1" prices="5,0,1888" prices2="5,0,8888"/>
+	<logic id="6" round="0" cost="1" type="2" diaoluo="50" reward="3,87,1" prices="5,0,1888" prices2="5,0,8888"/>
+	<logic id="7" round="0" cost="1" type="1" diaoluo="50" reward="3,88,1" prices="5,0,1888" prices2="5,0,8888"/>
+	<logic id="8" round="0" cost="1" type="1" diaoluo="1" reward="2,27,1" prices="5,0,1888" prices2="5,0,8888"/>
+	<logic id="9" round="0" cost="1" type="1" diaoluo="50" reward="3,2,1" prices="5,0,1888" prices2="5,0,8888"/>
+	<logic id="10" round="0" cost="1" type="1" diaoluo="1" reward="2,901,1" prices="5,0,1888" prices2="5,0,8888"/>
+	<logic id="11" round="0" cost="5" type="0" diaoluo="10000" reward="2,9,25" prices="5,0,1888" prices2="5,0,8888"/>
+	<logic id="12" round="0" cost="5" type="0" diaoluo="10000" reward="2,10,25" prices="5,0,1888" prices2="5,0,8888"/>
+	<logic id="13" round="0" cost="5" type="0" diaoluo="10000" reward="31,0,5000" prices="5,0,1888" prices2="5,0,8888"/>
+	<logic id="14" round="0" cost="5" type="0" diaoluo="10000" reward="2,16,25" prices="5,0,1888" prices2="5,0,8888"/>
+	<logic id="15" round="0" cost="5" type="0" diaoluo="10000" reward="3,65,1" prices="5,0,1888" prices2="5,0,8888"/>
+	<logic id="16" round="0" cost="5" type="2" diaoluo="5000" reward="3,87,1" prices="5,0,1888" prices2="5,0,8888"/>
+	<logic id="17" round="0" cost="5" type="1" diaoluo="80" reward="3,88,1" prices="5,0,1888" prices2="5,0,8888"/>
+	<logic id="18" round="0" cost="5" type="1" diaoluo="1" reward="2,27,1" prices="5,0,1888" prices2="5,0,8888"/>
+	<logic id="19" round="0" cost="5" type="1" diaoluo="80" reward="3,2,1" prices="5,0,1888" prices2="5,0,8888"/>
+	<logic id="20" round="0" cost="5" type="1" diaoluo="1" reward="2,901,1" prices="5,0,1888" prices2="5,0,8888"/>
+	<logic id="21" round="0" cost="15" type="0" diaoluo="10000" reward="2,9,25" prices="5,0,1888" prices2="5,0,8888"/>
+	<logic id="22" round="0" cost="15" type="0" diaoluo="10000" reward="2,10,25" prices="5,0,1888" prices2="5,0,8888"/>
+	<logic id="23" round="0" cost="15" type="0" diaoluo="10000" reward="31,0,5000" prices="5,0,1888" prices2="5,0,8888"/>
+	<logic id="24" round="0" cost="15" type="0" diaoluo="10000" reward="2,16,25" prices="5,0,1888" prices2="5,0,8888"/>
+	<logic id="25" round="0" cost="15" type="0" diaoluo="10000" reward="3,65,1" prices="5,0,1888" prices2="5,0,8888"/>
+	<logic id="26" round="0" cost="15" type="2" diaoluo="10000" reward="3,87,1" prices="5,0,1888" prices2="5,0,8888"/>
+	<logic id="27" round="0" cost="15" type="1" diaoluo="5000" reward="3,88,1" prices="5,0,1888" prices2="5,0,8888"/>
+	<logic id="28" round="0" cost="15" type="1" diaoluo="1" reward="2,27,1" prices="5,0,1888" prices2="5,0,8888"/>
+	<logic id="29" round="0" cost="15" type="1" diaoluo="3000" reward="3,2,1" prices="5,0,1888" prices2="5,0,8888"/>
+	<logic id="30" round="0" cost="15" type="1" diaoluo="1" reward="2,901,1" prices="5,0,1888" prices2="5,0,8888"/>
+	<logic id="31" round="0" cost="30" type="0" diaoluo="10000" reward="2,9,25" prices="5,0,1888" prices2="5,0,8888"/>
+	<logic id="32" round="0" cost="30" type="0" diaoluo="10000" reward="2,10,25" prices="5,0,1888" prices2="5,0,8888"/>
+	<logic id="33" round="0" cost="30" type="0" diaoluo="10000" reward="31,0,5000" prices="5,0,1888" prices2="5,0,8888"/>
+	<logic id="34" round="0" cost="30" type="0" diaoluo="10000" reward="2,16,25" prices="5,0,1888" prices2="5,0,8888"/>
+	<logic id="35" round="0" cost="30" type="0" diaoluo="10000" reward="3,65,1" prices="5,0,1888" prices2="5,0,8888"/>
+	<logic id="36" round="0" cost="30" type="2" diaoluo="10000" reward="3,87,1" prices="5,0,1888" prices2="5,0,8888"/>
+	<logic id="37" round="0" cost="30" type="1" diaoluo="10000" reward="3,88,1" prices="5,0,1888" prices2="5,0,8888"/>
+	<logic id="38" round="0" cost="30" type="1" diaoluo="1" reward="2,27,1" prices="5,0,1888" prices2="5,0,8888"/>
+	<logic id="39" round="0" cost="30" type="1" diaoluo="5000" reward="3,2,1" prices="5,0,1888" prices2="5,0,8888"/>
+	<logic id="40" round="0" cost="30" type="1" diaoluo="1" reward="2,901,1" prices="5,0,1888" prices2="5,0,8888"/>
+</logic>

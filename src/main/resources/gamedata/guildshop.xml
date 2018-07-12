@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<logic>
+	<logic id="1" cost="16,0,160" reward="2,17,5" xiangou="0"/>
+	<logic id="2" cost="16,0,40" reward="2,67,10" xiangou="0"/>
+	<logic id="3" cost="16,0,40" reward="2,68,10" xiangou="0"/>
+	<logic id="4" cost="16,0,40" reward="2,69,10" xiangou="0"/>
+	<logic id="5" cost="16,0,40" reward="2,70,10" xiangou="0"/>
+	<logic id="6" cost="16,0,40" reward="2,74,10" xiangou="0"/>
+	<logic id="7" cost="16,0,200" reward="2,12,5" xiangou="0"/>
+	<logic id="8" cost="16,0,200" reward="2,13,5" xiangou="0"/>
+	<logic id="9" cost="16,0,400" reward="2,7,5" xiangou="0"/>
+	<logic id="10" cost="16,0,400" reward="2,16,5" xiangou="0"/>
+	<logic id="11" cost="16,0,800" reward="2,14,1" xiangou="2"/>
+	<logic id="12" cost="16,0,800" reward="2,15,1" xiangou="2"/>
+	<logic id="13" cost="16,0,800" reward="3,1,1" xiangou="1"/>
+	<logic id="14" cost="16,0,1600" reward="3,4,1" xiangou="2"/>
+	<logic id="16" cost="16,0,4000" reward="3,87,1" xiangou="1"/>
+	<logic id="15" cost="16,0,16000" reward="3,5,1" xiangou="1"/>
+</logic>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<magicskills>
+	<magicskill id="0_0" name="断魂•壹" ordelv="8" tips="神魄杖的攻击属性额外增加10%" icon="xl_sb_jn_icon_1_1_png"  />
+	<magicskill id="0_1" name="断魂•贰" ordelv="12" tips="神魄杖的攻击属性额外增加20%" icon="xl_sb_jn_icon_1_2_png" />
+	<magicskill id="0_2" name="断魂•弎" ordelv="16" tips="神魄杖的攻击属性额外增加30%" icon="xl_sb_jn_icon_1_3_png" />
+	<magicskill id="0_3" name="断魂•肆" ordelv="18" tips="神魄杖的攻击属性额外增加40%" icon="xl_sb_jn_icon_1_4_png"  />
+	
+	<magicskill id="1_0" name="曲幽•壹" ordelv="8" tips="清幽戒的生命属性额外增加10%" icon="xl_sb_jn_icon_0_1_png" />
+	<magicskill id="1_1" name="曲幽•贰" ordelv="12" tips="清幽戒的生命属性额外增加20%" icon="xl_sb_jn_icon_0_2_png" />
+	<magicskill id="1_2" name="曲幽•弎" ordelv="16" tips="清幽戒的生命属性额外增加30%" icon="xl_sb_jn_icon_0_3_png" />
+	<magicskill id="1_3" name="曲幽•肆" ordelv="18" tips="清幽戒的生命属性额外增加40%" icon="xl_sb_jn_icon_0_4_png" />
+	
+	<magicskill id="2_0" name="苍云•聚" ordelv="8" tips="瀚海盾的魔防属性额外增加10%" icon="xl_sb_jn_icon_2_1_png" />
+	<magicskill id="2_1" name="苍云•固" ordelv="12" tips="瀚海盾的魔防属性额外增加20%" icon="xl_sb_jn_icon_2_2_png" />
+	<magicskill id="2_2" name="苍云•透" ordelv="16" tips="瀚海盾的魔防属性额外增加30%" icon="xl_sb_jn_icon_2_3_png" />
+	<magicskill id="2_3" name="苍云•斗" ordelv="18" tips="瀚海盾的魔防属性额外增加40%" icon="xl_sb_jn_icon_2_4_png" />
+	
+	<magicskill id="3_0" name="烈炎•烬" ordelv="8" tips="陨星甲的物防属性额外增加10%" icon="xl_sb_jn_icon_3_1_png"/>
+	<magicskill id="3_1" name="烈炎•黯" ordelv="12" tips="陨星甲的物防属性额外增加20%" icon="xl_sb_jn_icon_3_2_png"/>
+	<magicskill id="3_2" name="烈炎•灭" ordelv="16" tips="陨星甲的物防属性额外增加30%" icon="xl_sb_jn_icon_3_3_png"/>
+	<magicskill id="3_3" name="烈炎•焚" ordelv="18" tips="陨星甲的物防属性额外增加40%" icon="xl_sb_jn_icon_3_4_png"/>
+</magicskills>

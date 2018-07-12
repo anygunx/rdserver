@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--配置说明
+
+-->
+<activityNews>
+	<group id="1" startTime="server_1" endTime="2018-03-10 00:00:00" />
+	<group id="2" startTime="server_10" endTime="2018-03-10 00:00:00" />
+</activityNews>

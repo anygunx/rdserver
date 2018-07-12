@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<zhulings>
+	<!--5888活动-->
+	<zhuling id="1"  name="传世战尊" zhiye="0" waixing1="50" cost="2,900,1" time="-1" hp="27300" attack="5460" phyDef="2732" magicDef="2732" issuit="1" hit="0" dodge="0" crit="0" duct="0" block="0" counter="0"/>
+	<zhuling id="2"  name="传世战尊" zhiye="1" waixing1="50" cost="2,900,1" time="-1" hp="27300" attack="5460" phyDef="2732" magicDef="2732" issuit="1" hit="0" dodge="0" crit="0" duct="0" block="0" counter="0"/>
+	<zhuling id="3"  name="传世战尊" zhiye="2" waixing1="50" cost="2,900,1" time="-1" hp="27300" attack="5460" phyDef="2732" magicDef="2732" issuit="1" hit="0" dodge="0" crit="0" duct="0" block="0" counter="0"/>
+	<!--180131 欢乐鞭炮-->
+	<zhuling id="4"  name="金龙圣世" zhiye="0" waixing1="51" cost="2,901,1" time="-1" hp="27300" attack="5460" phyDef="2732" magicDef="2732" issuit="1" hit="0" dodge="0" crit="0" duct="0" block="0" counter="0"/>
+	<zhuling id="5"  name="金龙圣世" zhiye="1" waixing1="51" cost="2,901,1" time="-1" hp="27300" attack="5460" phyDef="2732" magicDef="2732" issuit="1" hit="0" dodge="0" crit="0" duct="0" block="0" counter="0"/>
+	<zhuling id="6"  name="金龙圣世" zhiye="2" waixing1="51" cost="2,901,1" time="-1" hp="27300" attack="5460" phyDef="2732" magicDef="2732" issuit="1" hit="0" dodge="0" crit="0" duct="0" block="0" counter="0"/>
+	<zhuling id="7"  name="雪域精灵" zhiye="0" waixing1="52" cost="2,902,1" time="604805" hp="27300" attack="5460" phyDef="2732" magicDef="2732" issuit="1" hit="0" dodge="0" crit="0" duct="0" block="0" counter="0"/>
+	<zhuling id="8"  name="雪域精灵" zhiye="1" waixing1="52" cost="2,902,1" time="604805" hp="27300" attack="5460" phyDef="2732" magicDef="2732" issuit="1" hit="0" dodge="0" crit="0" duct="0" block="0" counter="0"/>
+	<zhuling id="9"  name="雪域精灵" zhiye="2" waixing1="52" cost="2,902,1" time="604805" hp="27300" attack="5460" phyDef="2732" magicDef="2732" issuit="1" hit="0" dodge="0" crit="0" duct="0" block="0" counter="0"/>
+	<zhuling id="10" name="冰火魔王" zhiye="0" waixing1="54" cost="2,903,1" time="-1" hp="27300" attack="5460" phyDef="2732" magicDef="2732" issuit="1" hit="0" dodge="0" crit="0" duct="0" block="0" counter="0"/>
+	<zhuling id="11" name="冰火魔王" zhiye="1" waixing1="54" cost="2,903,1" time="-1" hp="27300" attack="5460" phyDef="2732" magicDef="2732" issuit="1" hit="0" dodge="0" crit="0" duct="0" block="0" counter="0"/>
+	<zhuling id="12" name="冰火魔王" zhiye="2" waixing1="54" cost="2,903,1" time="-1" hp="27300" attack="5460" phyDef="2732" magicDef="2732" issuit="1" hit="0" dodge="0" crit="0" duct="0" block="0" counter="0"/>
+	<zhuling id="13" name="新年套装" zhiye="0" waixing1="53" cost="2,905,1" time="-1" hp="27300" attack="5460" phyDef="2732" magicDef="2732" issuit="1" hit="0" dodge="0" crit="0" duct="0" block="0" counter=""/>
+	<zhuling id="14" name="新年套装" zhiye="1" waixing1="53" cost="2,905,1" time="-1" hp="27300" attack="5460" phyDef="2732" magicDef="2732" issuit="1" hit="0" dodge="0" crit="0" duct="0" block="0" counter="0"/>
+	<zhuling id="15" name="新年套装" zhiye="2" waixing1="53" cost="2,905,1" time="-1" hp="27300" attack="5460" phyDef="2732" magicDef="2732" issuit="1" hit="0" dodge="0" crit="0" duct="0" block="0" counter="0"/>	
+	<!--180122  轮盘-->
+	<zhuling id="19" name="噬血战甲" zhiye="0" waixing1="20" cost="2,906,1" time="-1" hp="7300" attack="1460" phyDef="732" magicDef="732" issuit="0" hit="0" dodge="0" crit="0" duct="0" block="0" counter="0"/>
+	<zhuling id="20" name="噬血战甲" zhiye="1" waixing1="20" cost="2,906,1" time="-1" hp="7300" attack="1460" phyDef="732" magicDef="732" issuit="0" hit="0" dodge="0" crit="0" duct="0" block="0" counter="0"/>
+	<zhuling id="21" name="噬血战甲" zhiye="2" waixing1="20" cost="2,906,1" time="-1" hp="7300" attack="1460" phyDef="732" magicDef="732" issuit="0" hit="0" dodge="0" crit="0" duct="0" block="0" counter="0"/>	
+	<!--商城战绩商店-->
+	<zhuling id="22" name="炎蛇战衣" zhiye="0" waixing1="21" cost="2,907,1" time="604805" hp="7300" attack="1460" phyDef="732" magicDef="732" issuit="0" hit="0" dodge="0" crit="0" duct="0" block="0" counter="0"/>
+	<zhuling id="23" name="炎蛇战衣" zhiye="1" waixing1="21" cost="2,907,1" time="604805" hp="7300" attack="1460" phyDef="732" magicDef="732" issuit="0" hit="0" dodge="0" crit="0" duct="0" block="0" counter="0"/>
+	<zhuling id="24" name="炎蛇战衣" zhiye="2" waixing1="21" cost="2,907,1" time="604805" hp="7300" attack="1460" phyDef="732" magicDef="732" issuit="0" hit="0" dodge="0" crit="0" duct="0" block="0" counter="0"/>	
+	<!--沙城争霸城主-->
+	<zhuling id="25" name="霸王圣甲" zhiye="0" waixing1="22" cost="2,908,1" time="604805" hp="7300" attack="1460" phyDef="732" magicDef="732" issuit="0" hit="0" dodge="0" crit="0" duct="0" block="0" counter="0"/>
+	<zhuling id="26" name="霸王圣甲" zhiye="1" waixing1="22" cost="2,908,1" time="604805" hp="7300" attack="1460" phyDef="732" magicDef="732" issuit="0" hit="0" dodge="0" crit="0" duct="0" block="0" counter="0"/>
+	<zhuling id="27" name="霸王圣甲" zhiye="2" waixing1="22" cost="2,908,1" time="604805" hp="7300" attack="1460" phyDef="732" magicDef="732" issuit="0" hit="0" dodge="0" crit="0" duct="0" block="0" counter="0"/>
+	<zhuling id="28" name="时尚霸业" zhiye="0" waixing1="58" cost="2,904,1" time="-1" hp="27300" attack="5460" phyDef="2732" magicDef="2732" issuit="1" hit="0" dodge="0" crit="0" duct="0" block="0" counter="0"/>
+	<zhuling id="29" name="时尚霸业" zhiye="1" waixing1="58" cost="2,904,1" time="-1" hp="27300" attack="5460" phyDef="2732" magicDef="2732" issuit="1" hit="0" dodge="0" crit="0" duct="0" block="0" counter="0"/>
+	<zhuling id="30" name="时尚霸业" zhiye="2" waixing1="58" cost="2,904,1" time="-1" hp="27300" attack="5460" phyDef="2732" magicDef="2732" issuit="1" hit="0" dodge="0" crit="0" duct="0" block="0" counter="0"/>	
+</zhulings>

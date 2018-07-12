@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--活动说明
+活动1:累计充值
+-->
+<activityGroups>
+	<group id="1">
+		<activity id="1" config="1" keepDay="7" />
+	</group>
+	<group id="2">
+		<activity id="1" config="2" keepDay="100" />
+	</group>
+</activityGroups>

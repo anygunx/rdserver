@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<suitss>
+	<suits id="1" name="疾风斩" lv="1" limit="2" amp="500" des="所有神羽达到2阶"/>
+	<suits id="2" name="疾风斩" lv="2" limit="3" amp="600" des="所有神羽达到3阶"/>
+	<suits id="3" name="疾风斩" lv="3" limit="4" amp="800" des="所有神羽达到4阶"/>
+	<suits id="4" name="疾风斩" lv="4" limit="5" amp="1500" des="所有神羽达到5阶"/>
+</suitss>

@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<fighters>
+    <box id="1" name="高级转生丹" levelLimit="0" vipLimit="0" icon="g_zhuanshengdan_png" Dropicon="g_zhuanshengdan_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="18,0,20000" gainId="0" startTime="0"
+         endTime="0" des="使用后可以获得：\n[#04b70120000点]转生修为" useType="1" haveNum="0" lastTime="0" useful="2" useMax="20"
+         tujing="0"/>
+    <box id="2" name="顶级转生丹" levelLimit="0" vipLimit="0" icon="g_gaojizhuanshengdan_png"
+         Dropicon="g_gaojizhuanshengdan_png" quality="4" level="1" max="99999" consumeId="0" consumeNum="0"
+         rewards="18,0,200000" gainId="0" startTime="0" endTime="0" des="使用后可以获得：\n[#f20f14200000点]转生修为" useType="1"
+         haveNum="0" lastTime="0" useful="2" useMax="4" tujing="0"/>
+    <box id="3" name="成就令" levelLimit="0" vipLimit="0" icon="g_chengjiuling_png" Dropicon="g_chengjiuling_png"
+         quality="2" level="1" max="99999" consumeId="0" consumeNum="0" rewards="23,0,3000" gainId="0" startTime="0"
+         endTime="0" des="开启成就令可以获得：\n[#04b7013000]成就点" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1"
+         tujing="47,9"/>
+    <box id="4" name="中级心法箱" levelLimit="0" vipLimit="0" icon="baiyinbox_png" Dropicon="baiyinbox_png" quality="2"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="27" startTime="0" endTime="0"
+         des="开启后可随机获得：\n[#c419d9中级心法*1],学习可增加8000战力" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1"
+         tujing="0"/>
+    <box id="5" name="高级心法箱" levelLimit="0" vipLimit="0" icon="huangjinbox_png" Dropicon="huangjinbox_png" quality="4"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="28" startTime="0" endTime="0"
+         des="开启后可随机获得：\n[#ffaa00高级心法*1],学习可增加30000战力" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1"
+         tujing="0"/>
+    <box id="6" name="玛法至尊箱" levelLimit="0" vipLimit="0" icon="huangjinbox_png" Dropicon="huangjinbox_png" quality="4"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="2,9,10#2,17,10#2,16,10" gainId="0" startTime="0"
+         endTime="0" des="开启后可获得：\n[#c419d9宝石碎片*10]\n[#c419d9羽毛*10]\n[#c419d9经脉丹*10]" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="7" name="玛法金箱" levelLimit="0" vipLimit="0" icon="huangjinbox_png" Dropicon="huangjinbox_png" quality="2"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="2,17,10#2,16,10" gainId="0" startTime="0"
+         endTime="0" des="开启后可获得：\n[#c419d9羽毛*10]\n[#c419d9经脉丹*10]" useType="0" haveNum="0" lastTime="0" useful="2"
+         useMax="-1" tujing="0"/>
+    <box id="8" name="玛法银箱" levelLimit="0" vipLimit="0" icon="huangjinbox_png" Dropicon="huangjinbox_png" quality="1"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="2,16,10" gainId="0" startTime="0" endTime="0"
+         des="开启后可获得：\n[#c419d9经脉丹*10]" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="9" name="主宰精粹袋" levelLimit="0" vipLimit="0" icon="lidai_png" Dropicon="lidai_png" quality="4" level="1"
+         max="99999" consumeId="0" consumeNum="0" rewards="2,8,2" gainId="0" startTime="0" endTime="0"
+         des="打开可获得：\n[#f20f14主宰精粹*2]" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="10" name="钻石王者" levelLimit="0" vipLimit="0" icon="wangzhebox_png" Dropicon="wangzhebox_png" quality="5"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="3,4,2#3,5,1" gainId="0" startTime="0" endTime="0"
+         des="打开可获得：\n[#c419d9中级心法箱*2]\n[#ffaa00高级心法箱*1]" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1"
+         tujing="0"/>
+    <box id="11" name="钻石2名" levelLimit="0" vipLimit="0" icon="zuanshibox_png" Dropicon="zuanshibox_png" quality="4"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="3,4,4" gainId="0" startTime="0" endTime="0"
+         des="打开可获得：\n[#c419d9中级心法箱*4]" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="12" name="钻石3名" levelLimit="0" vipLimit="0" icon="huangjinbox_png" Dropicon="huangjinbox_png" quality="4"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="3,4,3" gainId="0" startTime="0" endTime="0"
+         des="打开可获得：\n[#c419d9中级心法箱*3]" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="13" name="钻石4名" levelLimit="0" vipLimit="0" icon="baiyinbox_png" Dropicon="baiyinbox_png" quality="4"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="3,4,2" gainId="0" startTime="0" endTime="0"
+         des="打开可获得：\n[#c419d9中级心法箱*2]" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="14" name="钻石5名" levelLimit="0" vipLimit="0" icon="qingtongbox_png" Dropicon="qingtongbox_png" quality="4"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="3,4,1" gainId="0" startTime="0" endTime="0"
+         des="打开可获得：\n[#c419d9中级心法箱*1]" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="15" name="青铜箱" levelLimit="0" vipLimit="0" icon="qingtongbox_png" Dropicon="qingtongbox_png" quality="2"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="3,4,1" gainId="0" startTime="0" endTime="0"
+         des="打开可获得：\n[#c419d9中级心法箱*1]" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="16" name="白银箱" levelLimit="0" vipLimit="0" icon="baiyinbox_png" Dropicon="baiyinbox_png" quality="3"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="3,4,2" gainId="0" startTime="0" endTime="0"
+         des="打开可获得：\n[#c419d9中级心法箱*2]" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="17" name="黄金箱" levelLimit="0" vipLimit="0" icon="huangjinbox_png" Dropicon="huangjinbox_png" quality="4"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="3,4,4" gainId="0" startTime="0" endTime="0"
+         des="打开可获得：\n[#c419d9中级心法箱*4]" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="18" name="钻石箱" levelLimit="0" vipLimit="0" icon="zuanshibox_png" Dropicon="zuanshibox_png" quality="5"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="3,4,2#3,5,1" gainId="0" startTime="0" endTime="0"
+         des="打开可获得：\n[#c419d9中级心法箱*2]\n[#ffaa00高级心法箱*1]" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1"
+         tujing="0"/>
+    <box id="19" name="初级主宰箱" levelLimit="0" vipLimit="0" icon="qingtongbox_png" Dropicon="qingtongbox_png" quality="1"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="2,7,2" gainId="30" startTime="0" endTime="0"
+         des="打开可获得：\n[#ffaa00主宰碎片*2]\n并有概率获得：\n[#f20f14主宰腰带*1]" useType="0" haveNum="0" lastTime="0" useful="2"
+         useMax="-1" tujing="0"/>
+    <box id="20" name="中级主宰箱" levelLimit="0" vipLimit="0" icon="baiyinbox_png" Dropicon="baiyinbox_png" quality="2"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="2,7,3" gainId="31" startTime="0" endTime="0"
+         des="打开可获得：\n[#ffaa00主宰碎片*3]\n并有概率获得：\n[#f20f14主宰腰带*1]\n[#f20f14主宰肩甲*1]" useType="0" haveNum="0" lastTime="0"
+         useful="2" useMax="-1" tujing="0"/>
+    <box id="21" name="高级主宰箱" levelLimit="0" vipLimit="0" icon="huangjinbox_png" Dropicon="huangjinbox_png" quality="3"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="2,7,4" gainId="32" startTime="0" endTime="0"
+         des="打开可获得：\n[#ffaa00主宰碎片*4]\n并有概率获得：\n[#f20f14主宰腰带*1]\n[#f20f14主宰肩甲*1]\n[#f20f14主宰护膝*1]" useType="0"
+         haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="22" name="顶级主宰箱" levelLimit="0" vipLimit="0" icon="zuanshibox_png" Dropicon="zuanshibox_png" quality="4"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="2,7,5" gainId="33" startTime="0" endTime="0"
+         des="打开可获得：\n[#ffaa00主宰碎片*5]\n并有概率获得：\n[#f20f14主宰腰带*1]\n[#f20f14主宰肩甲*1]\n[#f20f14主宰护膝*1]\n[#f20f14主宰饰品*1]"
+         useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="23" name="初级头领箱" levelLimit="0" vipLimit="0" icon="qingtongbox_png" Dropicon="qingtongbox_png" quality="1"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="2,7,3" gainId="34" startTime="0" endTime="0"
+         des="打开可获得：\n[#ffaa00主宰碎片*3]\n并有概率获得：\n[#f20f14主宰精粹]" useType="0" haveNum="0" lastTime="0" useful="2"
+         useMax="-1" tujing="0"/>
+    <box id="24" name="中级头领箱" levelLimit="0" vipLimit="0" icon="baiyinbox_png" Dropicon="baiyinbox_png" quality="2"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="2,7,4" gainId="35" startTime="0" endTime="0"
+         des="打开可获得：\n[#ffaa00主宰碎片4]\n并有概率获得：\n[#f20f14主宰精粹]" useType="0" haveNum="0" lastTime="0" useful="2"
+         useMax="-1" tujing="0"/>
+    <box id="25" name="高级头领箱" levelLimit="0" vipLimit="0" icon="huangjinbox_png" Dropicon="huangjinbox_png" quality="3"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="2,7,5" gainId="36" startTime="0" endTime="0"
+         des="打开可获得：\n[#ffaa00主宰碎片*5]\n并有概率获得：\n[#f20f14主宰精粹]" useType="0" haveNum="0" lastTime="0" useful="2"
+         useMax="-1" tujing="0"/>
+    <box id="26" name="顶级头领箱" levelLimit="0" vipLimit="0" icon="zuanshibox_png" Dropicon="zuanshibox_png" quality="4"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="2,7,6" gainId="37" startTime="0" endTime="0"
+         des="打开可获得：\n[#ffaa00主宰碎片*6]\n并有概率获得：\n[#f20f14主宰精粹]" useType="0" haveNum="0" lastTime="0" useful="2"
+         useMax="-1" tujing="0"/>
+    <box id="27" name="初级击杀箱" levelLimit="0" vipLimit="0" icon="qingtongbox_png" Dropicon="qingtongbox_png" quality="1"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="2,7,3" gainId="34" startTime="0" endTime="0"
+         des="打开可获得：\n[#ffaa00主宰碎片*3]\n并有概率获得：\n[#f20f14主宰精粹]" useType="0" haveNum="0" lastTime="0" useful="2"
+         useMax="-1" tujing="0"/>
+    <box id="28" name="中级击杀箱" levelLimit="0" vipLimit="0" icon="baiyinbox_png" Dropicon="baiyinbox_png" quality="2"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="2,7,4" gainId="35" startTime="0" endTime="0"
+         des="打开可获得：\n[#ffaa00主宰碎片*4]\n并有概率获得：\n[#f20f14主宰精粹]" useType="0" haveNum="0" lastTime="0" useful="2"
+         useMax="-1" tujing="0"/>
+    <box id="29" name="高级击杀箱" levelLimit="0" vipLimit="0" icon="huangjinbox_png" Dropicon="huangjinbox_png" quality="3"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="2,7,5" gainId="36" startTime="0" endTime="0"
+         des="打开可获得：\n[#ffaa00主宰碎片*5]\n并有概率获得：\n[#f20f14主宰精粹]" useType="0" haveNum="0" lastTime="0" useful="2"
+         useMax="-1" tujing="0"/>
+    <box id="30" name="顶级击杀箱" levelLimit="0" vipLimit="0" icon="zuanshibox_png" Dropicon="zuanshibox_png" quality="4"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="2,7,6" gainId="37" startTime="0" endTime="0"
+         des="打开可获得：\n[#ffaa00主宰碎片*6]\n并有概率获得：\n[#f20f14主宰精粹]" useType="0" haveNum="0" lastTime="0" useful="2"
+         useMax="-1" tujing="0"/>
+    <box id="31" name="最强王者" levelLimit="0" vipLimit="0" icon="yiqijuechen_png" Dropicon="dbox_png" quality="4"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="0" startTime="0" endTime="0"
+         des="使用可以获得：\n[#ffaa00称号:最强王者]" useType="2" haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="32" name="巅峰战神" levelLimit="0" vipLimit="0" icon="zhuguangbaoqi_png" Dropicon="dbox_png" quality="4"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="0" startTime="0" endTime="0"
+         des="使用可以获得：\n[#ffaa00称号:巅峰战神]" useType="2" haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="33" name="天下第一" levelLimit="0" vipLimit="0" icon="dengfengzaoji_png" Dropicon="dbox_png" quality="4"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="0" startTime="0" endTime="0"
+         des="使用可以获得：\n[#ffaa00称号:天下第一]" useType="2" haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="34" name="万年护法" levelLimit="0" vipLimit="0" icon="junlintianxia_png" Dropicon="dbox_png" quality="4"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="0" startTime="0" endTime="0"
+         des="使用可以获得：\n[#ffaa00称号:万年护法]" useType="2" haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="35" name="无敌大飞机" levelLimit="0" vipLimit="0" icon="zhengushuojin_png" Dropicon="dbox_png" quality="4"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="0" startTime="0" endTime="0"
+         des="使用可以获得：\n[#ffaa00称号:无敌大飞机]" useType="2" haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="36" name="小蜜蜂" levelLimit="0" vipLimit="0" icon="luhuochunqing_png" Dropicon="dbox_png" quality="4"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="0" startTime="0" endTime="0"
+         des="使用可以获得：\n[#ffaa00称号:小蜜蜂]" useType="2" haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="37" name="刀刀小朋友" levelLimit="0" vipLimit="0" icon="sanshengqingyuan_png" Dropicon="dbox_png" quality="4"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="0" startTime="0" endTime="0"
+         des="使用可以获得：\n[#ffaa00称号:刀刀小朋友]" useType="2" haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="38" name="社会王" levelLimit="0" vipLimit="0" icon="yiqijuechen_png" Dropicon="dbox_png" quality="4" level="1"
+         max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="0" startTime="0" endTime="0"
+         des="使用可以获得：\n[#ffaa00称号:社会王]" useType="2" haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="39" name="珠光宝气" levelLimit="0" vipLimit="0" icon="title_wpicon_hqwz_png" Dropicon="title_wpicon_hqwz_png"
+         quality="4" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="0" startTime="0" endTime="0"
+         des="使用可以获得：\n[#ffaa00称号:珠光宝气]" useType="2" haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="40" name="御龙铭千古" levelLimit="0" vipLimit="0" icon="title_wpicon_ylmqg_png"
+         Dropicon="title_wpicon_ylmqg_png" quality="4" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0"
+         gainId="0" startTime="0" endTime="0" des="使用可以获得：\n称号:御龙铭千古]" useType="2" haveNum="0" lastTime="0" useful="2"
+         useMax="-1" tujing="0"/>
+    <box id="41" name="凤翼天翔" levelLimit="0" vipLimit="0" icon="title_wpicon_fytx_png" Dropicon="title_wpicon_fytx_png"
+         quality="4" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="0" startTime="0" endTime="0"
+         des="使用可以获得：\n[#ffaa00称号:凤翼天翔]" useType="2" haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="42" name="骨骼惊奇" levelLimit="0" vipLimit="0" icon="title_wpicon_zgqwzz_png"
+         Dropicon="title_wpicon_zgqwzz_png" quality="4" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0"
+         gainId="0" startTime="0" endTime="0" des="使用可以获得：\n[#ffaa00称号:骨骼惊奇]" useType="2" haveNum="0" lastTime="0"
+         useful="2" useMax="-1" tujing="0"/>
+    <box id="43" name="登峰造极" levelLimit="0" vipLimit="0" icon="title_wpicon_dfzj_png" Dropicon="title_wpicon_dfzj_png"
+         quality="4" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="0" startTime="0" endTime="0"
+         des="使用可以获得：\n[#ffaa00称号:登峰造极]" useType="2" haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="44" name="霸绝天下" levelLimit="0" vipLimit="0" icon="title_wpicon_bjtxzws_png"
+         Dropicon="title_wpicon_bjtxzws_png" quality="4" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0"
+         gainId="0" startTime="0" endTime="0" des="使用可以获得：\n[#ffaa00称号:霸绝天下]" useType="2" haveNum="0" lastTime="0"
+         useful="2" useMax="-1" tujing="0"/>
+    <box id="45" name="比奇村长" levelLimit="0" vipLimit="0" icon="title_wpicon_bqcz_png" Dropicon="title_wpicon_bqcz_png"
+         quality="4" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="0" startTime="0" endTime="0"
+         des="使用可以获得：\n[#ffaa00称号:比奇村长]" useType="2" haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="46" name="材料礼袋" levelLimit="0" vipLimit="0" icon="lidai_png" Dropicon="lidai_png" quality="2" level="1"
+         max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="38" startTime="0" endTime="0"
+         des="打开可随机获得：\n[#c419d9宝石碎片*1]\n[#c419d9龙鳞碎片*2]\n[#c419d9龙纹碎片*2]\n[#c419d9经脉丹*1]" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="47" name="高级材料礼袋" levelLimit="0" vipLimit="0" icon="lidai_png" Dropicon="lidai_png" quality="3" level="1"
+         max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="39" startTime="0" endTime="0"
+         des="打开可随机获得：\n[#c419d9宝石碎片*5]\n[#c419d9龙鳞碎片*10]\n[#c419d9龙纹碎片*10]\n[#c419d9经脉丹*5]\n[#c419d9羽毛*10]\n[#c419d9麻痹碎片*1]"
+         useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="48" name="全民BOSS令" levelLimit="0" vipLimit="0" icon="g_bossling_png" Dropicon="g_bossling_png" quality="2"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="0" startTime="0" endTime="0"
+         des="全民BOSS专属道具，使用后可免费增加1次BOSS挑战机会" useType="6" haveNum="1" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="49" name="经验直升丹" levelLimit="30" vipLimit="0" icon="g_gaojizhuanshengdan_png"
+         Dropicon="g_gaojizhuanshengdan_png" quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0"
+         gainId="0" startTime="0" endTime="0" des="[#f20f14经验直升丹]：\n30级后可以使用，\n（80级前使用可直接提升1级，80级后使用可获得：30W经验）"
+         useType="5" haveNum="300000" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="50" name="宝石成长礼包" levelLimit="0" vipLimit="0" icon="baoxiang6_png" Dropicon="baoxiang6_png" quality="2"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="2,9,300#2,1,100#2,10,50" gainId="0" startTime="0"
+         endTime="0" des="打开可获得：\n[#c419d9宝石碎片*300]\n[#c419d9强化石*100]\n[#c419d9灵魄*50]" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="51" name="宝石钜惠礼包" levelLimit="0" vipLimit="0" icon="baoxiang5_png" Dropicon="baoxiang5_png" quality="3"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="2,9,600#2,1,300#2,10,80" gainId="0" startTime="0"
+         endTime="0" des="打开可获得：\n[#c419d9宝石碎片*600]\n[#c419d9强化石*300]\n[#c419d9灵魄*80]" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="52" name="龙鳞成长礼包" levelLimit="0" vipLimit="0" icon="baoxiang6_png" Dropicon="baoxiang6_png" quality="2"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="2,13,500#2,11,2" gainId="0" startTime="0"
+         endTime="0" des="打开可获得：\n[#c419d9龙鳞碎片*500]\n[#ffaa00炎龙之魂*2]" useType="0" haveNum="0" lastTime="0" useful="2"
+         useMax="-1" tujing="0"/>
+    <box id="53" name="龙鳞钜惠礼包" levelLimit="0" vipLimit="0" icon="baoxiang5_png" Dropicon="baoxiang5_png" quality="3"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="2,13,800#2,11,3" gainId="0" startTime="0"
+         endTime="0" des="打开可获得：\n[#c419d9龙鳞碎片*800]\n[#ffaa00炎龙之魂*3]" useType="0" haveNum="0" lastTime="0" useful="2"
+         useMax="-1" tujing="0"/>
+    <box id="54" name="羽翼成长礼包" levelLimit="0" vipLimit="0" icon="baoxiang6_png" Dropicon="baoxiang6_png" quality="2"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="2,17,500#2,14,15#2,15,15" gainId="0" startTime="0"
+         endTime="0" des="打开可获得：\n[#c419d9羽毛*500]\n[#ffaa00麻痹碎片*15]\n[#ffaa00护身碎片*15]" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="55" name="羽翼钜惠礼包" levelLimit="0" vipLimit="0" icon="baoxiang5_png" Dropicon="baoxiang5_png" quality="3"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="2,17,800#2,14,30#2,15,30" gainId="0" startTime="0"
+         endTime="0" des="打开可获得：\n[#c419d9羽毛*800]\n[#ffaa00麻痹碎片*30]\n[#ffaa00护身碎片*30]" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="56" name="经脉成长礼包" levelLimit="0" vipLimit="0" icon="baoxiang6_png" Dropicon="baoxiang6_png" quality="2"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="2,16,400#2,1,200#2,10,100" gainId="0" startTime="0"
+         endTime="0" des="打开可获得：\n[#c419d9经脉丹*400]\n[#c419d9强化石*100]\n[#c419d9灵魄*100]" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="57" name="经脉飞升礼包" levelLimit="0" vipLimit="0" icon="baoxiang5_png" Dropicon="baoxiang5_png" quality="3"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="2,16,800#2,1,400#2,10,200" gainId="0" startTime="0"
+         endTime="0" des="打开可获得：\n[#c419d9经脉丹*800]\n[#c419d9强化石*400]\n[#c419d9灵魄*200]" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="58" name="转生成长礼包" levelLimit="0" vipLimit="0" icon="baoxiang6_png" Dropicon="baoxiang6_png" quality="2"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="3,2,2#2,23,2" gainId="0" startTime="0" endTime="0"
+         des="打开可获得：\n[#f20f14超级转生丹*2]\n[#f20f14星·天枢*2]" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1"
+         tujing="0"/>
+    <box id="59" name="转生飞升礼包" levelLimit="0" vipLimit="0" icon="baoxiang5_png" Dropicon="baoxiang5_png" quality="3"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="3,2,3#2,24,2" gainId="0" startTime="0" endTime="0"
+         des="打开可获得：\n[#f20f14超级转生丹*3]\n[#f20f14月·玉衡*2]" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1"
+         tujing="0"/>
+    <box id="60" name="心法成长礼包" levelLimit="0" vipLimit="0" icon="baoxiang6_png" Dropicon="baoxiang6_png" quality="2"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="3,5,2#2,24,1" gainId="0" startTime="0" endTime="0"
+         des="打开可获得：\n[#ffaa00高级心法箱*2]\n[#f20f14月·玉衡*1]" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1"
+         tujing="0"/>
+    <box id="61" name="心法钜惠礼包" levelLimit="0" vipLimit="0" icon="baoxiang5_png" Dropicon="baoxiang5_png" quality="3"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="3,5,4#2,24,1#2,25,1" gainId="0" startTime="0"
+         endTime="0" des="打开可获得：\n[#ffaa00高级心法箱*4]\n[#f20f14圣·开阳*1]\n[#f20f14月·玉衡*1]" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="62" name="5转红装箱" levelLimit="0" vipLimit="0" icon="huangjinbox_png" Dropicon="huangjinbox_png" quality="4"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="40" startTime="0" endTime="0"
+         des="开启后随机获得：\n[#f20f14红装5转*1]" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="63" name="缤纷装备箱" levelLimit="0" vipLimit="0" icon="baiyinbox_png" Dropicon="baiyinbox_png" quality="3"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="41" startTime="0" endTime="0"
+         des="开启后随机获得：\n[#f20f14红装(1-4转)*1]" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="64" name="绚丽装备箱" levelLimit="0" vipLimit="0" icon="zuanshibox_png" Dropicon="zuanshibox_png" quality="4"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="42" startTime="0" endTime="0"
+         des="开启后随机获得：\n[#f20f14红装(5-8转)*1]" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="65" name="神兵礼箱" levelLimit="0" vipLimit="0" icon="zuanshibox_png" Dropicon="zuanshibox_png" quality="4"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="2,67,100#2,68,100#2,69,100#2,70,100" gainId="0"
+         startTime="0" endTime="0"
+         des="开启后可以获得：\n[#ffaa00灵魄石*100]\n[#ffaa00曲幽玉*100]\n[#ffaa00海心铁*100]\n[#ffaa00星陨核*100]" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="66" name="至尊1大礼包" levelLimit="0" vipLimit="1" icon="wangzhebox_png" Dropicon="wangzhebox_png" quality="3"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="2,17,20#3,67,1" gainId="0" startTime="0"
+         endTime="0" des="至尊1可开启，开启后获得：\n[#c419d9羽毛*20]\n[#f20f14至尊2大礼包*1]" useType="0" haveNum="0" lastTime="0"
+         useful="2" useMax="-1" tujing="0"/>
+    <box id="67" name="至尊2大礼包" levelLimit="0" vipLimit="2" icon="wangzhebox_png" Dropicon="wangzhebox_png" quality="3"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="2,9,20#2,17,30#3,68,1" gainId="0" startTime="0"
+         endTime="0" des="至尊2可开启，开启后获得：\n[#c419d9宝石碎片*20]\n[#c419d9羽毛*30]\n[#f20f14至尊3大礼包*1]" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="68" name="至尊3大礼包" levelLimit="0" vipLimit="3" icon="wangzhebox_png" Dropicon="wangzhebox_png" quality="3"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="2,9,40#2,17,30#2,7,5#3,69,1" gainId="0"
+         startTime="0" endTime="0"
+         des="至尊3可开启，开启后获得：\n[#c419d9宝石碎片*40]\n[#c419d9羽毛*30]\n[#ffaa00主宰碎片*5]\n[#f20f14至尊4大礼包*1]" useType="0"
+         haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="69" name="至尊4大礼包" levelLimit="0" vipLimit="4" icon="wangzhebox_png" Dropicon="wangzhebox_png" quality="3"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="2,9,60#2,17,60#2,16,60#2,7,10#3,70,1" gainId="0"
+         startTime="0" endTime="0"
+         des="至尊4可开启，开启后获得：\n[#c419d9宝石碎片*60]\n[#c419d9羽毛*60]\n[#c419d9经脉丹*60]\n[#ffaa00主宰碎片*10]\n[#f20f14至尊5大礼包*1]"
+         useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="70" name="至尊5大礼包" levelLimit="0" vipLimit="5" icon="wangzhebox_png" Dropicon="wangzhebox_png" quality="4"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="2,9,70#2,17,70#2,7,10#2,14,5" gainId="0"
+         startTime="0" endTime="0"
+         des="至尊5可开启，开启后获得：\n[#c419d9宝石碎片*70]\n[#c419d9羽毛*70]\n[#ffaa00主宰碎片*10]\n[#ffaa00麻痹碎片*5]" useType="0"
+         haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="71" name="高级羽翼礼包" levelLimit="0" vipLimit="0" icon="huangjinbox_png" Dropicon="huangjinbox_png" quality="3"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="2,17,15" gainId="0" startTime="0" endTime="0"
+         des="打开可获得：\n[#c419d9羽毛*15]" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="72" name="高级宝石礼包" levelLimit="0" vipLimit="0" icon="huangjinbox_png" Dropicon="huangjinbox_png" quality="3"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="2,9,10" gainId="0" startTime="0" endTime="0"
+         des="打开可获得：\n[#c419d9宝石碎片*10]" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="73" name="高级经脉礼包" levelLimit="0" vipLimit="0" icon="huangjinbox_png" Dropicon="huangjinbox_png" quality="3"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="2,16,10" gainId="0" startTime="0" endTime="0"
+         des="打开可获得：\n[#c419d9经脉丹*10]" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="74" name="高级成就礼包" levelLimit="0" vipLimit="0" icon="huangjinbox_png" Dropicon="huangjinbox_png" quality="3"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="3,3,10" gainId="0" startTime="0" endTime="0"
+         des="打开可获得：\n[#c419d9成就令*10]" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="75" name="高级威望礼包" levelLimit="0" vipLimit="0" icon="huangjinbox_png" Dropicon="huangjinbox_png" quality="3"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="27,0,2000" gainId="0" startTime="0" endTime="0"
+         des="打开可获得：\n[#c419d9威望*2000]" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="76" name="高级公会礼包" levelLimit="0" vipLimit="0" icon="huangjinbox_png" Dropicon="huangjinbox_png" quality="3"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="16,0,250#5,0,1000" gainId="0" startTime="0"
+         endTime="0" des="打开可获得：\n[#c419d9帮贡*250]\n[#ffaa00元宝*1000]" useType="0" haveNum="0" lastTime="0" useful="2"
+         useMax="-1" tujing="0"/>
+    <box id="77" name="至尊称号订制" levelLimit="0" vipLimit="0" icon="zzlb_icon_v10_png" Dropicon="zzlb_icon_v10_png"
+         quality="4" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="0" startTime="0" endTime="0"
+         des="可以联系客服，订制属于自己的[#f20f14专属至尊称号]！" useType="2" haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="78" name="神兵礼包" levelLimit="0" vipLimit="0" icon="hongyunlibao_png" Dropicon="hongyunlibao_png" quality="3"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="2,67,50#2,68,50#2,69,50#2,70,50" gainId="0"
+         startTime="0" endTime="0"
+         des="打开可获得稀有神兵材料\n[#ffaa00灵魄石*100]\n[#ffaa00曲幽玉*100]\n[#ffaa00海心铁*100]\n[#ffaa00星陨核*100]" useType="0"
+         haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="79" name="中级神兵礼包" levelLimit="0" vipLimit="0" icon="huangjinbox_png" Dropicon="huangjinbox_png" quality="3"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="2,67,1100#2,68,1100" gainId="0" startTime="0"
+         endTime="0" des="打开可获得神兵材料\n[#ffaa00灵魄石*1100]\n[#ffaa00曲幽玉*1100]" useType="0" haveNum="0" lastTime="0"
+         useful="2" useMax="-1" tujing="0"/>
+    <box id="80" name="高级神兵礼包" levelLimit="0" vipLimit="0" icon="zuanshibox_png" Dropicon="zuanshibox_png" quality="3"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="2,67,1200#2,68,1200#2,69,1200#2,70,1200" gainId="0"
+         startTime="0" endTime="0"
+         des="打开可获得神兵材料\n[#ffaa00灵魄石*1200]\n[#ffaa00曲幽玉*1200]\n[#ffaa00海心铁*1200]\n[#ffaa00星陨核*1200]" useType="0"
+         haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="81" name="沙城霸主" levelLimit="0" vipLimit="0" icon="title_wpicon_scbz_png" Dropicon="title_wpicon_scbz_png"
+         quality="4" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="0" startTime="0" endTime="0"
+         des="使用可以获得：\n[#f20f14称号:沙城霸主]\n绝对的荣耀，独一无二" useType="2" haveNum="0" lastTime="0" useful="2" useMax="-1"
+         tujing="0"/>
+    <box id="82" name="白色战纹箱" levelLimit="0" vipLimit="0" icon="qingtongbox_png" Dropicon="qingtongbox_png" quality="0"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="59" startTime="0" endTime="0"
+         des="打开可以随机获得：\n白色战纹*1" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="83" name="绿色战纹箱" levelLimit="0" vipLimit="0" icon="baiyinbox_png" Dropicon="baiyinbox_png" quality="1"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="60" startTime="0" endTime="0"
+         des="打开可以随机获得：\n[#04b701绿色战纹*1]，修炼-战纹中装备后秒增战力[#04b701+4800]" useType="0" haveNum="0" lastTime="0" useful="2"
+         useMax="-1" tujing="0"/>
+    <box id="84" name="紫色战纹箱" levelLimit="0" vipLimit="0" icon="huangjinbox_png" Dropicon="huangjinbox_png" quality="2"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="61" startTime="0" endTime="0"
+         des="打开可以随机获得：\n[#c419d9紫色战纹*1]，修炼-战纹中装备后秒增战力[#04b701+8800]" useType="0" haveNum="0" lastTime="0" useful="2"
+         useMax="-1" tujing="0"/>
+    <box id="85" name="金砖" levelLimit="0" vipLimit="0" icon="jinzhuan_png" Dropicon="jinzhuan_png" quality="3" level="1"
+         max="99999" consumeId="0" consumeNum="0" rewards="4,0,1000000" gainId="0" startTime="0" endTime="0"
+         des="百分百纯金金砖，打开可获得：\n[#ffaa001000000金币]" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1"
+         tujing="42"/>
+    <box id="86" name="绿色战纹箱" levelLimit="0" vipLimit="0" icon="baiyinbox_png" Dropicon="baiyinbox_png" quality="1"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="60" startTime="0" endTime="0"
+         des="打开宝箱将获得：\n[#04b701绿色战纹*1]，海量战力开箱即得，修炼-战纹中装备后秒增战力[#04b701+4800]" useType="0" haveNum="0" lastTime="0"
+         useful="2" useMax="-1" tujing="0"/>
+    <box id="87" name="紫色战纹箱" levelLimit="0" vipLimit="0" icon="huangjinbox_png" Dropicon="huangjinbox_png" quality="2"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="61" startTime="0" endTime="0"
+         des="打开宝箱将获得：\n[#c419d9紫色战纹*1]，海量战力开箱即得，修炼-战纹中装备后秒增战力[#04b701+8800]" useType="0" haveNum="0" lastTime="0"
+         useful="2" useMax="-1" tujing="0"/>
+    <box id="88" name="橙色战纹箱" levelLimit="0" vipLimit="0" icon="zuanshibox_png" Dropicon="huangjinbox_png" quality="3"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="62" startTime="0" endTime="0"
+         des="打开宝箱将获得：\n[#ffaa00橙色战纹*1]，海量战力开箱即得，修炼-战纹中装备后秒增战力[#04b701+14400]" useType="0" haveNum="0" lastTime="0"
+         useful="2" useMax="-1" tujing="0"/>
+    <box id="89" name="红色战纹箱" levelLimit="0" vipLimit="0" icon="wangzhebox_png" Dropicon="huangjinbox_png" quality="4"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="63" startTime="0" endTime="0"
+         des="打开宝箱将获得：\n[#f20f14红色战纹*1]，海量战力开箱即得，修炼-战纹中装备后秒增战力[#04b701+24000]" useType="0" haveNum="0" lastTime="0"
+         useful="2" useMax="-1" tujing="0"/>
+    <box id="90" name="战无不胜礼包" levelLimit="0" vipLimit="0" icon="xltj_zwbs_wpicon_png" Dropicon="huangjinbox_png"
+         quality="4" level="1" max="99999" consumeId="0" consumeNum="0"
+         rewards="33,36,1#33,37,1#33,38,1#33,39,1#33,40,1" gainId="0" startTime="0" endTime="0"
+         des="打开礼包将获得：\n[#f20f14骁勇善战*1]\n[#f20f14百战不屈*1]\n[#f20f14战无不胜*1]\n[#f20f14冲锋陷阵*1]\n[#f20f14所向披靡*1]" useType="0"
+         haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="91" name="武器时装礼盒" levelLimit="0" vipLimit="0" icon="shizhuangbox_png" Dropicon="shizhuangbox_png"
+         quality="4" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="80" startTime="0"
+         endTime="0" des="打开礼包将获得：\n]\n[#f20f14武器时装]" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1"
+         tujing="0"/>
+    <box id="92" name="测试宝箱" levelLimit="0" vipLimit="0" icon="xltj_zwbs_wpicon_png" Dropicon="huangjinbox_png"
+         quality="4" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="64" startTime="0"
+         endTime="0" des="测试宝箱" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="93" name="战纹精华箱（小）" levelLimit="0" vipLimit="0" icon="baiyinbox_png" Dropicon="baiyinbox_png" quality="1"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="31,0,10000" gainId="0" startTime="0" endTime="0"
+         des="开启可以获得：\n[#c419d9战纹精华*10000]" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="94" name="战纹精华箱（中）" levelLimit="0" vipLimit="0" icon="huangjinbox_png" Dropicon="huangjinbox_png"
+         quality="2" level="1" max="99999" consumeId="0" consumeNum="0" rewards="31,0,15000" gainId="0" startTime="0"
+         endTime="0" des="开启可以获得：\n[#c419d9战纹精华*15000]" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1"
+         tujing="0"/>
+    <box id="95" name="战纹精华箱（大）" levelLimit="0" vipLimit="0" icon="zuanshibox_png" Dropicon="zuanshibox_png" quality="3"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="31,0,15000" gainId="0" startTime="0" endTime="0"
+         des="开启可以获得：\n[#c419d9战纹精华*20000]" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="96" name="吉祥爆竹" levelLimit="0" vipLimit="0" icon="jixiangbaozhu_png" Dropicon="jixiangbaozhu_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="65" startTime="0"
+         endTime="0" des="打开有概率获得：\n[#c419d9宝石碎片*50]\n[#c419d9灵魄*50]\n[#c419d9经脉丹*50]" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="97" name="吉祥爆竹" levelLimit="0" vipLimit="0" icon="jixiangbaozhu_png" Dropicon="jixiangbaozhu_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="66" startTime="0"
+         endTime="0" des="打开有概率获得：\n[#c419d9紫色战纹宝箱*1]\n[#c419d9战纹精华宝箱（小）]\n[#c419d9宝石碎片*100]" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="98" name="吉祥爆竹" levelLimit="0" vipLimit="0" icon="jixiangbaozhu_png" Dropicon="jixiangbaozhu_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="67" startTime="0"
+         endTime="0" des="打开有概率获得：\n[#c419d9紫色战纹宝箱*1]\n[#c419d9战纹精华宝箱（中）]\n[#c419d9经脉丹*100]" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="99" name="吉祥爆竹" levelLimit="0" vipLimit="0" icon="jixiangbaozhu_png" Dropicon="jixiangbaozhu_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="68" startTime="0"
+         endTime="0" des="打开有概率获得：\n[#ffaa00高级转生丹*3]\n[#c419d9紫色战纹宝箱*1]" useType="0" haveNum="0" lastTime="0" useful="2"
+         useMax="-1" tujing="0"/>
+    <box id="100" name="吉祥爆竹" levelLimit="0" vipLimit="0" icon="jixiangbaozhu_png" Dropicon="jixiangbaozhu_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="69" startTime="0"
+         endTime="0" des="打开有概率获得：\n[#c419d9紫色战纹宝箱*2]\n[#c419d9中级心法宝箱]\n[#c419d9战纹精华宝箱（中）]" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="101" name="吉祥爆竹" levelLimit="0" vipLimit="0" icon="jixiangbaozhu_png" Dropicon="jixiangbaozhu_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="70" startTime="0"
+         endTime="0" des="打开有概率获得：\n[#c419d9紫色战纹宝箱*2]\n[#c419d9中级心法宝箱*2]\n[#ffaa00战纹精华宝箱（大）]" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="102" name="吉祥爆竹" levelLimit="0" vipLimit="0" icon="jixiangbaozhu_png" Dropicon="jixiangbaozhu_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="71" startTime="0"
+         endTime="0" des="打开有概率获得：\n[#f20f14顶级转生丹*1]\n[#c419d9紫色战纹宝箱*2]" useType="0" haveNum="0" lastTime="0" useful="2"
+         useMax="-1" tujing="0"/>
+    <box id="103" name="吉祥爆竹" levelLimit="0" vipLimit="0" icon="jixiangbaozhu_png" Dropicon="jixiangbaozhu_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="72" startTime="0"
+         endTime="0" des="打开有概率获得：\n[#ffaa00橙色战纹宝箱*1]\n[#c419d9紫色战纹宝箱*2]\n[#f20f14顶级转生丹*1]" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="104" name="吉祥爆竹" levelLimit="0" vipLimit="0" icon="jixiangbaozhu_png" Dropicon="jixiangbaozhu_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="73" startTime="0"
+         endTime="0" des="打开有概率获得：\n[#ffaa00橙色战纹宝箱*2]\n[#ffaa00高级心法宝箱*1]\n[#f20f14顶级转生丹*2]" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="105" name="吉祥爆竹" levelLimit="0" vipLimit="0" icon="jixiangbaozhu_png" Dropicon="jixiangbaozhu_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="74" startTime="0"
+         endTime="0" des="打开有概率获得：\n[#f20f14炎龙翎羽（永久）]\n[#ffaa00高级心法宝箱*2]" useType="0" haveNum="0" lastTime="0"
+         useful="2" useMax="-1" tujing="0"/>
+    <box id="106" name="吉祥爆竹" levelLimit="0" vipLimit="0" icon="jixiangbaozhu_png" Dropicon="jixiangbaozhu_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="75" startTime="0"
+         endTime="0" des="打开有概率获得：\n[#f20f14红色战纹宝箱*1]\n[#ffaa00高级心法宝箱*1]\n[#f20f14炎龙翎羽（永久）]" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="107" name="吉祥爆竹" levelLimit="0" vipLimit="0" icon="jixiangbaozhu_png" Dropicon="jixiangbaozhu_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="76" startTime="0"
+         endTime="0" des="打开有概率获得：\n[#f20f14红色战纹宝箱*2]\n[#ffaa00高级心法宝箱*1]\n[#f20f14顶级转生丹*2]" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="108" name="吉祥爆竹" levelLimit="0" vipLimit="0" icon="jixiangbaozhu_png" Dropicon="jixiangbaozhu_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="77" startTime="0"
+         endTime="0" des="打开有概率获得：\n[#f20f14翅膀直升丹*4]\n[#f20f14红色战纹宝箱*2]\n[#ffaa00高级心法宝箱*2]" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="109" name="吉祥爆竹" levelLimit="0" vipLimit="0" icon="jixiangbaozhu_png" Dropicon="jixiangbaozhu_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="78" startTime="0"
+         endTime="0" des="打开有概率获得：\n[#f20f14炎龙翎羽（永久）]\n[#f20f14红色战纹宝箱*2]\n[#f20f14金龙圣世（永久）]" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="110" name="吉祥爆竹" levelLimit="0" vipLimit="0" icon="jixiangbaozhu_png" Dropicon="jixiangbaozhu_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="79" startTime="0"
+         endTime="0" des="打开有概率获得：\n[#f20f14金龙圣世（永久）]\n[#f20f14红色战纹宝箱*2]\n[#f20f14炎龙翎羽（永久）]" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="111" name="幸运礼包" levelLimit="0" vipLimit="0" icon="xingyunlibao_png" Dropicon="xingyunlibao_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="65" startTime="0"
+         endTime="0" des="打开有概率获得：\n[#c419d9宝石碎片*50]\n[#c419d9灵魄*50]\n[#c419d9经脉丹*50]" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="112" name="幸运礼包" levelLimit="0" vipLimit="0" icon="xingyunlibao_png" Dropicon="xingyunlibao_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="66" startTime="0"
+         endTime="0" des="打开有概率获得：\n[#c419d9紫色战纹宝箱*1]\n[#c419d9战纹精华宝箱（小）]\n[#c419d9宝石碎片*100]" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="113" name="幸运礼包" levelLimit="0" vipLimit="0" icon="xingyunlibao_png" Dropicon="xingyunlibao_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="67" startTime="0"
+         endTime="0" des="打开有概率获得：\n[#c419d9紫色战纹宝箱*1]\n[#c419d9战纹精华宝箱（中）]\n[#c419d9经脉丹*100]" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="114" name="幸运礼包" levelLimit="0" vipLimit="0" icon="xingyunlibao_png" Dropicon="xingyunlibao_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="68" startTime="0"
+         endTime="0" des="打开有概率获得：\n[#ffaa00高级转生丹*3]\n[#c419d9紫色战纹宝箱*1]" useType="0" haveNum="0" lastTime="0" useful="2"
+         useMax="-1" tujing="0"/>
+    <box id="115" name="幸运礼包" levelLimit="0" vipLimit="0" icon="xingyunlibao_png" Dropicon="xingyunlibao_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="69" startTime="0"
+         endTime="0" des="打开有概率获得：\n[#c419d9紫色战纹宝箱*2]\n[#c419d9中级心法宝箱]\n[#c419d9战纹精华宝箱（中）]" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="116" name="幸运礼包" levelLimit="0" vipLimit="0" icon="xingyunlibao_png" Dropicon="xingyunlibao_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="70" startTime="0"
+         endTime="0" des="打开有概率获得：\n[#c419d9紫色战纹宝箱*2]\n[#c419d9中级心法宝箱*2]\n[#ffaa00战纹精华宝箱（大）]" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="117" name="幸运礼包" levelLimit="0" vipLimit="0" icon="xingyunlibao_png" Dropicon="xingyunlibao_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="71" startTime="0"
+         endTime="0" des="打开有概率获得：\n[#f20f14顶级转生丹*1]\n[#c419d9紫色战纹宝箱*2]" useType="0" haveNum="0" lastTime="0" useful="2"
+         useMax="-1" tujing="0"/>
+    <box id="118" name="幸运礼包" levelLimit="0" vipLimit="0" icon="xingyunlibao_png" Dropicon="xingyunlibao_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="72" startTime="0"
+         endTime="0" des="打开有概率获得：\n[#ffaa00橙色战纹宝箱*1]\n[#c419d9紫色战纹宝箱*2]\n[#f20f14顶级转生丹*1]" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="119" name="幸运礼包" levelLimit="0" vipLimit="0" icon="xingyunlibao_png" Dropicon="xingyunlibao_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="73" startTime="0"
+         endTime="0" des="打开有概率获得：\n[#ffaa00橙色战纹宝箱*2]\n[#ffaa00高级心法宝箱*1]\n[#f20f14顶级转生丹*2]" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="120" name="幸运礼包" levelLimit="0" vipLimit="0" icon="xingyunlibao_png" Dropicon="xingyunlibao_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="74" startTime="0"
+         endTime="0" des="打开有概率获得：\n[#f20f14红色图鉴包*1]\n[#ffaa00高级心法宝箱*2]" useType="0" haveNum="0" lastTime="0" useful="2"
+         useMax="-1" tujing="0"/>
+    <box id="121" name="幸运礼包" levelLimit="0" vipLimit="0" icon="xingyunlibao_png" Dropicon="xingyunlibao_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="75" startTime="0"
+         endTime="0" des="打开有概率获得：\n[#f20f14红色战纹宝箱*1]\n[#ffaa00高级心法宝箱*1]\n[#f20f14红色图鉴包*2]" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="122" name="幸运礼包" levelLimit="0" vipLimit="0" icon="xingyunlibao_png" Dropicon="xingyunlibao_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="76" startTime="0"
+         endTime="0" des="打开有概率获得：\n[#f20f14红色战纹宝箱*2]\n[#ffaa00高级心法宝箱*1]\n[#f20f14顶级转生丹*2]" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="123" name="幸运礼包" levelLimit="0" vipLimit="0" icon="xingyunlibao_png" Dropicon="xingyunlibao_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="77" startTime="0"
+         endTime="0" des="打开有概率获得：\n[#f20f14翅膀直升丹*4]\n[#f20f14红色战纹宝箱*2]\n[#ffaa00高级心法宝箱*2]" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="124" name="幸运礼包" levelLimit="0" vipLimit="0" icon="xingyunlibao_png" Dropicon="xingyunlibao_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="78" startTime="0"
+         endTime="0" des="打开有概率获得：\n[#f20f14红色图鉴包*2]\n[#f20f14红色战纹宝箱*2]\n[#f20f14战无不胜套包*1]" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="125" name="幸运礼包" levelLimit="0" vipLimit="0" icon="xingyunlibao_png" Dropicon="xingyunlibao_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="79" startTime="0"
+         endTime="0" des="打开有概率获得：\n[#f20f14红色图鉴包*2]\n[#f20f14红色战纹宝箱*2]\n[#f20f14战无不胜套包*2]" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="126" name="至尊经验卡" levelLimit="0" vipLimit="0" icon="vipjingyanka_png" Dropicon="vipjingyanka_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="" gainId="0" startTime="0" endTime="0"
+         des="使用可以获得：\n1000vip经验" useType="11" haveNum="1000" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="127" name="200元充值包" levelLimit="0" vipLimit="0" icon="wangzhebox_png" Dropicon="wangzhebox_png" quality="3"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="5,0,20000#3,126,20" gainId="0" startTime="0"
+         endTime="0" des="使用可获得：\n20个vip经验卡（使用可获得：\n20000至尊经验），元宝*20000" useType="0" haveNum="0" lastTime="0" useful="2"
+         useMax="-1" tujing="0"/>
+    <box id="128" name="2000元充值包" levelLimit="0" vipLimit="0" icon="wangzhebox_png" Dropicon="wangzhebox_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="5,0,200000#3,126,200" gainId="0"
+         startTime="0" endTime="0" des="使用可获得：\n200个vip经验卡（使用可获得：\n200000至尊经验），元宝*200000" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="129" name="白色图鉴包" levelLimit="0" vipLimit="0" icon="kp_wp_tujianbai_png" Dropicon="kp_wp_tujianbai_png"
+         quality="0" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="81" startTime="0"
+         endTime="0" des="打开可随机获得：\n白色品质图鉴*1" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="130" name="绿色图鉴包" levelLimit="0" vipLimit="0" icon="kp_wp_tujianlv_png" Dropicon="kp_wp_tujianlv_png"
+         quality="1" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="82" startTime="0"
+         endTime="0" des="打开可随机获得：\n[#04b701绿色品质图鉴*1]" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1"
+         tujing="0"/>
+    <box id="131" name="紫色图鉴包" levelLimit="0" vipLimit="0" icon="kp_wp_tujianzi_png" Dropicon="kp_wp_tujianzi_png"
+         quality="2" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="83" startTime="0"
+         endTime="0" des="打开可随机获得：\n[#c419d9紫色品质图鉴*1]" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1"
+         tujing="0"/>
+    <box id="132" name="橙色图鉴包" levelLimit="0" vipLimit="0" icon="kp_wp_tujianhuang_png" Dropicon="kp_wp_tujianhuang_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="84" startTime="0"
+         endTime="0" des="打开可随机获得：\n[#ffaa00橙色品质图鉴*1]" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1"
+         tujing="0"/>
+    <box id="133" name="红色图鉴包" levelLimit="0" vipLimit="0" icon="kp_wp_tujianhong_png" Dropicon="kp_wp_tujianhong_png"
+         quality="4" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="85" startTime="0"
+         endTime="0" des="打开可随机获得：\n[#f20f14红色品质图鉴*1]" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1"
+         tujing="0"/>
+    <box id="134" name="传世神兵套包" levelLimit="0" vipLimit="0" icon="kp_wp_taobaocssb_png" Dropicon="kp_wp_taobaocssb_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="33,1,1#33,2,1#33,3,1#33,4,1#33,5,1"
+         gainId="0" startTime="0" endTime="0" des="打开可以获得：\n[#f20f14传世神兵图鉴*1套]" useType="0" haveNum="0" lastTime="0"
+         useful="2" useMax="-1" tujing="0"/>
+    <box id="135" name="美女如云套包" levelLimit="0" vipLimit="0" icon="kp_wp_taobaomvry_png" Dropicon="kp_wp_taobaomvry_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="33,6,1#33,7,1#33,8,1#33,9,1#33,10,1"
+         gainId="0" startTime="0" endTime="0" des="打开可以获得：\n[#f20f14美女如云图鉴*1套]" useType="0" haveNum="0" lastTime="0"
+         useful="2" useMax="-1" tujing="0"/>
+    <box id="136" name="战神金装套包" levelLimit="0" vipLimit="0" icon="kp_wp_taobaozsjz_png" Dropicon="kp_wp_taobaozsjz_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0"
+         rewards="33,11,1#33,12,1#33,13,1#33,14,1#33,15,1" gainId="0" startTime="0" endTime="0"
+         des="打开可以获得：\n[#f20f14战神金装图鉴*1套]" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="137" name="法神金装套包" levelLimit="0" vipLimit="0" icon="kp_wp_taobaofsjz_png" Dropicon="kp_wp_taobaofsjz_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0"
+         rewards="33,16,1#33,17,1#33,18,1#33,19,1#33,20,1" gainId="0" startTime="0" endTime="0"
+         des="打开可以获得：\n[#f20f14法神金装图鉴*1套]" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="138" name="天尊金装套包" levelLimit="0" vipLimit="0" icon="kp_wp_taobaotzjz_png" Dropicon="kp_wp_taobaotzjz_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0"
+         rewards="33,21,1#33,22,1#33,23,1#33,24,1#33,25,1" gainId="0" startTime="0" endTime="0"
+         des="打开可以获得：\n[#f20f14天尊金装图鉴*1套]" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="139" name="至尊神鉴套包" levelLimit="0" vipLimit="0" icon="kp_wp_taobaozjsj_png" Dropicon="kp_wp_taobaozjsj_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0"
+         rewards="33,26,1#33,27,1#33,28,1#33,29,1#33,30,1" gainId="0" startTime="0" endTime="0"
+         des="打开可以获得：\n[#f20f14至尊神鉴图鉴*1套]" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="140" name="传奇之路套包" levelLimit="0" vipLimit="0" icon="kp_wp_taobaocqzl_png" Dropicon="kp_wp_taobaocqzl_png"
+         quality="4" level="1" max="99999" consumeId="0" consumeNum="0"
+         rewards="33,31,1#33,32,1#33,33,1#33,34,1#33,35,1" gainId="0" startTime="0" endTime="0"
+         des="打开可以获得：\n[#f20f14传奇之路图鉴*1套]" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="141" name="战无不胜套包" levelLimit="0" vipLimit="0" icon="kp_wp_taobaozwbs_png" Dropicon="kp_wp_taobaozwbs_png"
+         quality="4" level="1" max="99999" consumeId="0" consumeNum="0"
+         rewards="33,36,1#33,37,1#33,38,1#33,39,1#33,40,1" gainId="0" startTime="0" endTime="0"
+         des="打开可以获得：\n[#f20f14战无不胜图鉴*1套]" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="142" name="战无不胜" levelLimit="0" vipLimit="0" icon="kp_wp_tujianzwbs_png" Dropicon="kp_wp_tujianzwbs_png"
+         quality="4" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="86" startTime="0"
+         endTime="0" des="打开可随机获得：\n[#f20f14战无不胜图鉴包*1]" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1"
+         tujing="0"/>
+    <box id="143" name="鸿运礼包" levelLimit="0" vipLimit="0" icon="hongyunlibao_png" Dropicon="hongyunlibao_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="87" startTime="0"
+         endTime="0" des="打开随机获得以下物品之一：\n[#c419d9宝石碎片*50]\n[#c419d9灵魄*50]\n[#c419d9经脉丹*50]" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="144" name="鸿运礼包" levelLimit="0" vipLimit="0" icon="hongyunlibao_png" Dropicon="hongyunlibao_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="88" startTime="0"
+         endTime="0" des="打开随机获得以下物品之一：\n[#ffaa00高级转生丹*3]\n[#c419d9战纹精华*15000]\n[#c419d9经脉丹*100]" useType="0"
+         haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="145" name="鸿运礼包" levelLimit="0" vipLimit="0" icon="hongyunlibao_png" Dropicon="hongyunlibao_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="89" startTime="0"
+         endTime="0" des="打开随机获得以下物品之一：\n[#c419d9中级心法宝箱*1]\n[#f20f14战无不胜礼包]\n[#c419d9战纹精华*15000]" useType="0"
+         haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="146" name="鸿运礼包" levelLimit="0" vipLimit="0" icon="hongyunlibao_png" Dropicon="hongyunlibao_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="90" startTime="0"
+         endTime="0" des="打开随机获得以下物品之一：\n[#c419d9中级心法宝箱*2]\n[#04b701绿色图鉴包]\n[#f20f14顶级转生丹*1]" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="147" name="鸿运礼包" levelLimit="0" vipLimit="0" icon="hongyunlibao_png" Dropicon="hongyunlibao_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="91" startTime="0"
+         endTime="0" des="打开随机获得以下物品之一：\n[#c419d9紫色战纹宝箱*2]\n[#c419d9紫色图鉴包]\n[#f20f14顶级转生丹*2]" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="148" name="鸿运礼包" levelLimit="0" vipLimit="0" icon="hongyunlibao_png" Dropicon="hongyunlibao_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="92" startTime="0"
+         endTime="0" des="打开随机获得以下物品之一：\n[#f20f14红色战纹宝箱*1]\n[#ffaa00橙色图鉴包\n[#f20f14顶级转生丹*2]" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="149" name="鸿运礼包" levelLimit="0" vipLimit="0" icon="hongyunlibao_png" Dropicon="hongyunlibao_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="93" startTime="0"
+         endTime="0" des="打开随机获得以下物品之一：\n[#ffaa00高级心法宝箱*1]\n[#f20f14红色图鉴包]\n[#f20f14顶级转生丹*2]" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="150" name="鸿运礼包" levelLimit="0" vipLimit="0" icon="hongyunlibao_png" Dropicon="hongyunlibao_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="94" startTime="0"
+         endTime="0" des="打开随机获得以下物品之一：\n[#f20f14永久时装：冰火魔王*1]\n[#f20f14战无不胜套包]\n[#ffaa00高级心法宝箱*3]" useType="0"
+         haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="151" name="拼图礼包" levelLimit="0" vipLimit="0" icon="jrhd_pt_wp_1_png" Dropicon="jrhd_pt_wp_1_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="95" startTime="0"
+         endTime="0" des="打开随机获得以下物品之一：\n一张1-9号拼图" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1"
+         tujing="7,9,11,48"/>
+    <box id="152" name="拼图宝箱" levelLimit="0" vipLimit="0" icon="jrhd_pt_wp_2_png" Dropicon="jrhd_pt_wp_2_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="96" startTime="0"
+         endTime="0" des="打开随机获得以下物品之一：\n两张1-9号拼图" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1"
+         tujing="0"/>
+    <box id="153" name="五行宝箱" levelLimit="0" vipLimit="0" icon="zuanshibox_png" Dropicon="zuanshibox_png" quality="3"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="2,74,2000" gainId="0" startTime="0" endTime="0"
+         des="消耗10000元宝开启，开启后可获得：\n[#c419d9进阶丹*2000],可用于五行-灵阵进阶" useType="9" haveNum="10000" lastTime="0" useful="2"
+         useMax="-1" tujing="0"/>
+    <box id="154" name="1阶神羽箱" levelLimit="0" vipLimit="0" icon="xingyunlibao_png" Dropicon="xingyunlibao_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="97" startTime="0"
+         endTime="0"
+         des="打开随机获得(1阶)神羽装备：\n[#f20f14飞羽(1阶)*1]\n[#f20f14纤羽(1阶)*1]\n[#f20f14绒羽(1阶)*1]\n[#f20f14翎羽(1阶)*1]\n翅膀-神羽中使用[#ffaa00战力提升+34000]"
+         useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="155" name="2阶神羽箱" levelLimit="0" vipLimit="0" icon="xingyunlibao_png" Dropicon="xingyunlibao_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="98" startTime="0"
+         endTime="0"
+         des="打开随机获得(2阶)神羽装备：\n[#f20f14飞羽(2阶)*1]\n[#f20f14纤羽(2阶)*1]\n[#f20f14绒羽(2阶)*1]\n[#f20f14翎羽(2阶)*1]\n翅膀-神羽中使用[#ffaa00战力提升+70000]"
+         useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="156" name="挖矿锄" levelLimit="0" vipLimit="0" icon="wakuangchu_png" Dropicon="wakuangchu_png" quality="3"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="0" startTime="0" endTime="0"
+         des="使用可以获得：\n比奇矿洞 挖掘次数*1" useType="7" haveNum="1" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="157" name="劫矿令" levelLimit="0" vipLimit="0" icon="jiekuangling_png" Dropicon="jiekuangling_png" quality="3"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="0" startTime="0" endTime="0"
+         des="使用后可以获得：\n比奇矿洞 劫矿次数*1" useType="8" haveNum="1" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="158" name="神兵守护礼" levelLimit="0" vipLimit="0" icon="hongyunlibao_png" Dropicon="hongyunlibao_png"
+         quality="4" level="1" max="99999" consumeId="0" consumeNum="0" rewards="2,69,500#2,70,500" gainId="0"
+         startTime="0" endTime="0" des="打开可得绝世神兵成长材料：\n[#c419d9海心铁*500]\n[#c419d9星陨核*500]" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="159" name="神兵成长礼" levelLimit="0" vipLimit="0" icon="hongyunlibao_png" Dropicon="hongyunlibao_png"
+         quality="4" level="1" max="99999" consumeId="0" consumeNum="0" rewards="2,67,500#2,68,500" gainId="0"
+         startTime="0" endTime="0" des="打开可得绝世神兵成长材料：\n[#c419d9灵魄石*500]\n[#c419d9曲幽玉*500]" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="160" name="神兵碎片包" levelLimit="0" vipLimit="0" icon="huangjinbox_png" Dropicon="huangjinbox_png" quality="3"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="99" startTime="0" endTime="0"
+         des="打开有概率获得神兵材料：灵魄石*100、曲幽玉*100、海心铁*100、星陨核*100中的一件" useType="0" haveNum="0" lastTime="0" useful="2"
+         useMax="-1" tujing="0"/>
+    <box id="161" name="主宰装备箱" levelLimit="0" vipLimit="0" icon="box5_png" Dropicon="zuanshibox_png" quality="4"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="33" startTime="0" endTime="0"
+         des="打开有概率获得：\n[#f20f14主宰腰带*1]\n[#f20f14主宰肩甲*1]\n[#f20f14主宰护膝*1]\n[#f20f14主宰饰品*1]" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="162" name="神兵进阶包" levelLimit="0" vipLimit="0" icon="box5_png" Dropicon="zuanshibox_png" quality="4"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="100" startTime="0" endTime="0"
+         des="打开有概率获得神兵材料：灵魄石*1000、曲幽玉*1000、海心铁*1000、星陨核*1000中的一件" useType="0" haveNum="0" lastTime="0" useful="2"
+         useMax="-1" tujing="0"/>
+    <box id="163" name="五行突破包" levelLimit="0" vipLimit="0" icon="box4_png" Dropicon="huangjinbox_png" quality="3"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="2,74,1000" gainId="0" startTime="0" endTime="0"
+         des="打开可获得：\n[#c419d9进阶丹*1000]，可用于五行-灵阵进阶" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1"
+         tujing="0"/>
+    <box id="164" name="矿洞占领包" levelLimit="0" vipLimit="0" icon="huangjinbox_png" Dropicon="huangjinbox_png" quality="3"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="3,156,3#3,157,5" gainId="0" startTime="0"
+         endTime="0" des="打开可获得：\n[#ffaa00挖矿锄*3]\n[#ffaa00劫矿令*5]" useType="0" haveNum="0" lastTime="0" useful="2"
+         useMax="-1" tujing="0"/>
+    <box id="165" name="五行飞升箱" levelLimit="0" vipLimit="0" icon="wangzhebox_png" Dropicon="wangzhebox_png" quality="4"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="2,74,3200" gainId="0" startTime="0" endTime="0"
+         des="打开可获得：\n[#c419d9进阶丹*3200]，可用于五行-灵阵进阶" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1"
+         tujing="0"/>
+    <box id="166" name="灵髓箱(1级)" levelLimit="0" vipLimit="0" icon="xingyunlibao_png" Dropicon="zuanshibox_png"
+         quality="4" level="1" max="99999" consumeId="0" consumeNum="0" rewards="34,21,1" gainId="0" startTime="0"
+         endTime="0" des="打开随机获得以下奖励：\n[#c419d9强击1级*1]\n[#c419d9元魄1级*1]\n灵髓-镶嵌后[#ffaa00战力秒增+2400]" useType="0"
+         haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="167" name="灵髓箱(1级)" levelLimit="0" vipLimit="0" icon="xingyunlibao_png" Dropicon="zuanshibox_png"
+         quality="4" level="1" max="99999" consumeId="0" consumeNum="0" rewards="34,1,1" gainId="0" startTime="0"
+         endTime="0" des="打开随机获得以下奖励：\n[#c419d9强击1级*1]\n[#c419d9元魄1级*1]\n灵髓-镶嵌后[#ffaa00战力秒增+2400]" useType="0"
+         haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="168" name="灵髓助力宝箱" levelLimit="0" vipLimit="0" icon="box1_png" Dropicon="huangjinbox_png" quality="4"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="34,4,1#34,24,1" gainId="0" startTime="0"
+         endTime="0" des="消耗5000元宝开启，开启后可获得：\n[#f20f14强击4级*1]\n[#f20f14元魄4级*1]\n灵髓-镶嵌后[#ffaa00战力秒增+24000]" useType="9"
+         haveNum="5000" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="169" name="玫瑰花束" levelLimit="0" vipLimit="0" icon="jrhd_qrj_wp_0_png" Dropicon="jrhd_qrj_wp_0_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="105" startTime="0"
+         endTime="0" des="打开随机获得以下物品之一：\n[#f20f14蓝色妖姬*1]\n[#c419d9红玫瑰*2]\n[#04b701白玫瑰*3]" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="170" name="镇魂箱" levelLimit="0" vipLimit="0" icon="box2_png" Dropicon="huangjinbox_png" quality="4"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="102" startTime="0" endTime="0"
+         des="打开后有一定几率可以获得超级战力提升专属：[#f20f14镇魂装备]" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1"
+         tujing="0"/>
+    <box id="171" name="镇魂箱" levelLimit="0" vipLimit="0" icon="box2_png" Dropicon="huangjinbox_png" quality="4"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="103" startTime="0" endTime="0"
+         des="打开后有一定几率可以获得超级战力提升专属：[#f20f14镇魂装备]" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1"
+         tujing="0"/>
+    <box id="172" name="镇魂箱" levelLimit="0" vipLimit="0" icon="box2_png" Dropicon="huangjinbox_png" quality="4"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="104" startTime="0" endTime="0"
+         des="打开后有一定几率可以获得超级战力提升专属：[#f20f14镇魂装备]" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1"
+         tujing="0"/>
+    <box id="173" name="镇魂至宝" levelLimit="0" vipLimit="0" icon="lt_zh_wp_zhzb_png" Dropicon="lt_zh_wp_zhzb_png"
+         quality="4" level="1" max="99999" consumeId="0" consumeNum="0" rewards="2,86,1#2,87,1#2,94,600" gainId="0"
+         startTime="0" endTime="0" des="打开后可在以下物品中选择一种：\n[#f20f14星·镇魂之刃]\n[#f20f14星·镇魂神甲]\n[#ffaa00镇魂晶石*600]"
+         useType="10" haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="174" name="灵髓箱(2级)" levelLimit="0" vipLimit="0" icon="xingyunlibao_png" Dropicon="zuanshibox_png"
+         quality="4" level="1" max="99999" consumeId="0" consumeNum="0" rewards="34,2,1" gainId="0" startTime="0"
+         endTime="0" des="打开随机获得以下奖励：\n[#c419d9强击2级*1]\n[#c419d9元魄2级*1]\n灵髓-镶嵌后[#ffaa00战力秒增+5600]" useType="0"
+         haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="175" name="灵髓箱(2级)" levelLimit="0" vipLimit="0" icon="xingyunlibao_png" Dropicon="zuanshibox_png"
+         quality="4" level="1" max="99999" consumeId="0" consumeNum="0" rewards="34,22,1" gainId="0" startTime="0"
+         endTime="0" des="打开随机获得以下奖励：\n[#c419d9强击2级*1]\n[#c419d9元魄2级*1]\n灵髓-镶嵌后[#ffaa00战力秒增+5600]" useType="0"
+         haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="176" name="羽翼飞升箱" levelLimit="0" vipLimit="0" icon="box4_png" Dropicon="zuanshibox_png" quality="2"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="101" startTime="0" endTime="0"
+         des="打开随机获得以下物品之一：\n[#ffaa00翅膀直升丹*1]\n[#c419d9羽毛*10]\n[#c419d9羽毛*5]\n[#c419d9羽毛*3]" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="177" name="强攻10级" levelLimit="0" vipLimit="0" icon="red_qianggong_png" Dropicon="zuanshibox_png"
+         quality="4" level="1" max="99999" consumeId="0" consumeNum="0" rewards="30,90,1#31,0,1000" gainId="0"
+         startTime="0" endTime="0" des="打开后可获得：\n[#f20f14战纹：强攻10级*1]\n[#c419d9战纹精华*1000]" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="178" name="强攻8级" levelLimit="0" vipLimit="0" icon="red_qianggong_png" Dropicon="zuanshibox_png" quality="4"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="30,88,1#31,0,1000" gainId="0" startTime="0"
+         endTime="0" des="打开后可获得：\n[#f20f14战纹：强攻8级*1]\n[#c419d9战纹精华*1000]" useType="0" haveNum="0" lastTime="0"
+         useful="2" useMax="-1" tujing="0"/>
+    <box id="179" name="神兵飞跃礼" levelLimit="0" vipLimit="0" icon="hongyunlibao_png" Dropicon="hongyunlibao_png"
+         quality="4" level="1" max="99999" consumeId="0" consumeNum="0"
+         rewards="2,67,1000#2,68,1000#2,69,1000#2,70,1000" gainId="0" startTime="0" endTime="0"
+         des="打开可得绝世神兵成长材料：\n[#c419d9灵魄石*1000]\n[#c419d9曲幽玉*1000]\n[#c419d9海心铁*1000]\n[#c419d9星陨核*1000]" useType="0"
+         haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="180" name="强攻5级" levelLimit="0" vipLimit="0" icon="red_qianggong_png" Dropicon="zuanshibox_png" quality="4"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="30,85,1#31,0,1000" gainId="0" startTime="0"
+         endTime="0" des="打开后可获得：\n[#f20f14红色战纹：强攻5级*1]\n[#c419d9战纹精华*1000]" useType="0" haveNum="0" lastTime="0"
+         useful="2" useMax="-1" tujing="0"/>
+    <box id="181" name="物防5级" levelLimit="0" vipLimit="0" icon="red_qianggong_png" Dropicon="zuanshibox_png" quality="4"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="30,185,1#31,0,1000" gainId="0" startTime="0"
+         endTime="0" des="打开后可获得：\n[#f20f14红色战纹：物防5级*1]\n[#c419d9战纹精华*1000]" useType="0" haveNum="0" lastTime="0"
+         useful="2" useMax="-1" tujing="0"/>
+    <box id="182" name="珍宝宝箱" levelLimit="0" vipLimit="0" icon="xingyunlibao_png" Dropicon="xingyunlibao_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="106" startTime="0"
+         endTime="0"
+         des="打开有概率获得：\n[#f20f14宝石碎片*10]\n[#f20f14经脉丹*10]\n[#f20f14龙鳞碎片*10]\n[#f20f14龙纹碎片*10]\n[#f20f14羽毛*10]"
+         useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="183" name="幸运元宝箱" levelLimit="0" vipLimit="0" icon="yuanbaoxiang_png" Dropicon="yuanbaoxiang_png"
+         quality="4" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="107" startTime="0"
+         endTime="0" des="打开后随机可获得：\n[#f20f14幸运元宝：2000-10000]" useType="0" haveNum="0" lastTime="0" useful="2"
+         useMax="-1" tujing="0"/>
+    <box id="184" name="2000元宝" levelLimit="0" vipLimit="0" icon="yuanbao1_png" Dropicon="yuanbao1_png" quality="4"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="5,0,2000" gainId="0" startTime="0" endTime="0"
+         des="美丽可爱的元宝大礼打开可获得：\n[#f20f14元宝：2000]" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1"
+         tujing="0"/>
+    <box id="185" name="2500元宝" levelLimit="0" vipLimit="0" icon="yuanbao1_png" Dropicon="yuanbao1_png" quality="4"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="5,0,2500" gainId="0" startTime="0" endTime="0"
+         des="美丽可爱的元宝大礼打开可获得：\n[#f20f14元宝：2500]" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1"
+         tujing="0"/>
+    <box id="186" name="3000元宝" levelLimit="0" vipLimit="0" icon="yuanbao1_png" Dropicon="yuanbao1_png" quality="4"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="5,0,3000" gainId="0" startTime="0" endTime="0"
+         des="美丽可爱的元宝大礼打开可获得：\n[#f20f14元宝：3000]" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1"
+         tujing="0"/>
+    <box id="187" name="3500元宝" levelLimit="0" vipLimit="0" icon="yuanbao1_png" Dropicon="yuanbao1_png" quality="4"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="5,0,3500" gainId="0" startTime="0" endTime="0"
+         des="美丽可爱的元宝大礼打开可获得：\n[#f20f14元宝：3500]" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1"
+         tujing="0"/>
+    <box id="188" name="4000元宝" levelLimit="0" vipLimit="0" icon="yuanbao1_png" Dropicon="yuanbao1_png" quality="4"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="5,0,4000" gainId="0" startTime="0" endTime="0"
+         des="美丽可爱的元宝大礼打开可获得：\n[#f20f14元宝：4000]" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1"
+         tujing="0"/>
+    <box id="189" name="4500元宝" levelLimit="0" vipLimit="0" icon="yuanbao1_png" Dropicon="yuanbao1_png" quality="4"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="5,0,4500" gainId="0" startTime="0" endTime="0"
+         des="美丽可爱的元宝大礼打开可获得：\n[#f20f14元宝：4500]" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1"
+         tujing="0"/>
+    <box id="190" name="灵髓箱(1级)" levelLimit="0" vipLimit="0" icon="xingyunlibao_png" Dropicon="xingyunlibao_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="34,1,1#34,21,1" gainId="0"
+         startTime="0" endTime="0" des="开后可在以下物品中选择一种：\n[#f20f14强击1级*1]\n[#f20f14元魄1级*1]" useType="10" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="191" name="灵髓箱(2级)" levelLimit="0" vipLimit="0" icon="xingyunlibao_png" Dropicon="xingyunlibao_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="34,2,1#34,22,1" gainId="0"
+         startTime="0" endTime="0" des="开后可在以下物品中选择一种：\n[#f20f14强击2级*1]\n[#f20f14元魄2级*1]" useType="10" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="192" name="灵髓箱(4级)" levelLimit="0" vipLimit="0" icon="xingyunlibao_png" Dropicon="xingyunlibao_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="34,4,1#34,24,1" gainId="0"
+         startTime="0" endTime="0" des="开后可在以下物品中选择一种：\n[#f20f14强击4级*1]\n[#f20f14元魄4级*1]" useType="10" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="193" name="公会副本箱" levelLimit="0" vipLimit="0" icon="xingyunlibao_png" Dropicon="xingyunlibao_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="108" startTime="0"
+         endTime="0" des="打开随机获得以下物品之一：\n[#f20f14随机品质图鉴*1]\n[#f20f14进阶丹*25]" useType="0" haveNum="0" lastTime="0"
+         useful="2" useMax="-1" tujing="0"/>
+    <box id="194" name="惊喜图鉴箱" levelLimit="0" vipLimit="0" icon="xingyunlibao_png" Dropicon="xingyunlibao_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="109" startTime="0"
+         endTime="0" des="打开后可获得：\n[#f20f14随机品质图鉴*1]" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1"
+         tujing="0"/>
+    <box id="195" name="秒升80级" levelLimit="0" vipLimit="0" icon="xingyunlibao_png" Dropicon="xingyunlibao_png"
+         quality="4" level="1" max="99999" consumeId="0" consumeNum="0" rewards="3,49,60" gainId="0" startTime="0"
+         endTime="0" des="开后可获得：\n[#f20f14经验直升丹]*60]\n（80级前每颗直升丹使用秒升1级，80级后使用可获得：30W经验）" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="196" name="传世神兵机遇包" levelLimit="0" vipLimit="0" icon="kp_wp_taobaocssb_png" Dropicon="kp_wp_taobaocssb_png"
+         quality="4" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="110" startTime="0"
+         endTime="0" des="打开可以获得：\n[#f20f14传世神兵图鉴*1]" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1"
+         tujing="0"/>
+    <box id="197" name="美女如云机遇包" levelLimit="0" vipLimit="0" icon="kp_wp_taobaomvry_png" Dropicon="kp_wp_taobaomvry_png"
+         quality="4" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="111" startTime="0"
+         endTime="0" des="打开可以获得：\n[#f20f14美女如云图鉴*1]" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1"
+         tujing="0"/>
+    <box id="198" name="战神金装机遇包" levelLimit="0" vipLimit="0" icon="kp_wp_taobaozsjz_png" Dropicon="kp_wp_taobaozsjz_png"
+         quality="4" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="112" startTime="0"
+         endTime="0" des="打开可以获得：\n[#f20f14战神金装图鉴*1]" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1"
+         tujing="0"/>
+    <box id="199" name="法神金装机遇包" levelLimit="0" vipLimit="0" icon="kp_wp_taobaofsjz_png" Dropicon="kp_wp_taobaofsjz_png"
+         quality="4" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="113" startTime="0"
+         endTime="0" des="打开可以获得：\n[#f20f14法神金装图鉴*1]" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1"
+         tujing="0"/>
+    <box id="200" name="天尊金装机遇包" levelLimit="0" vipLimit="0" icon="kp_wp_taobaotzjz_png" Dropicon="kp_wp_taobaotzjz_png"
+         quality="4" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="114" startTime="0"
+         endTime="0" des="打开可以获得：\n[#f20f14天尊金装图鉴*1]" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1"
+         tujing="0"/>
+    <box id="201" name="至尊神鉴机遇包" levelLimit="0" vipLimit="0" icon="kp_wp_taobaozjsj_png" Dropicon="kp_wp_taobaozjsj_png"
+         quality="4" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="115" startTime="0"
+         endTime="0" des="打开可以获得：\n[#f20f14至尊神鉴图鉴*1]" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1"
+         tujing="0"/>
+    <box id="202" name="传奇之路机遇包" levelLimit="0" vipLimit="0" icon="kp_wp_taobaocqzl_png" Dropicon="kp_wp_taobaocqzl_png"
+         quality="4" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="116" startTime="0"
+         endTime="0" des="打开可以获得：\n[#f20f14传奇之路图鉴*1]" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1"
+         tujing="0"/>
+    <box id="203" name="30级秒送至尊" levelLimit="0" vipLimit="0" icon="title_wpicon_ylmqg_png"
+         Dropicon="title_wpicon_ylmqg_png" quality="4" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0"
+         gainId="0" startTime="0" endTime="0" des="新手专属称号，到达30级就可以领取本称号啦！！" useType="2" haveNum="0" lastTime="0"
+         useful="2" useMax="-1" tujing="0"/>
+    <box id="204" name="专属宝箱" levelLimit="0" vipLimit="0" icon="zuanshibox_png" Dropicon="zuanshibox_png" quality="3"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="2,9,500" gainId="0" startTime="0" endTime="0"
+         des="[#04b701幸运玩家专属超值特价宝箱]\n消耗30000元宝开启可获得：\n[#c419d9宝石碎片]*500" useType="9" haveNum="30000" lastTime="259200"
+         useful="2" useMax="-1" tujing="0"/>
+    <box id="205" name="灵髓箱(12级)" levelLimit="0" vipLimit="0" icon="xingyunlibao_png" Dropicon="xingyunlibao_png"
+         quality="5" level="1" max="99999" consumeId="0" consumeNum="0" rewards="34,12,1#34,32,1#34,52,1" gainId="0"
+         startTime="0" endTime="0" des="开后可以获得以下所有道具：\n[#f20f14强击12级*1]\n[#f20f14元魄12级*1]\n[#f20f14舍利12级*1]" useType="0"
+         haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="206" name="三阶盛世装备箱" levelLimit="0" vipLimit="0" icon="xingyunlibao_png" Dropicon="xingyunlibao_png"
+         quality="5" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0,3,5,5#0,13,5,5" gainId="0"
+         startTime="0" endTime="0" des="开后可以获得以下所有道具：\n[#f20f14盛世神剑（三阶）*1]\n[#f20f14盛世神甲（三阶）*1]" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="207" name="6阶灵髓礼包" levelLimit="0" vipLimit="0" icon="xingyunlibao_png" Dropicon="xingyunlibao_png"
+         quality="4" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="117" startTime="0"
+         endTime="0" des="打开随机获得6阶灵髓：\n[#f20f14强击6阶*1]\n[#f20f14元魄6阶*1]\n[#f20f14舍利6阶*1]\n装备后[#ffaa00战力提升+20000]"
+         useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="208" name="幸运神羽箱" levelLimit="0" vipLimit="0" icon="xingyunlibao_png" Dropicon="xingyunlibao_png"
+         quality="4" level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="118" startTime="0"
+         endTime="0" des="打开随机获得：\n[#f20f141阶神羽*1]\n[#f20f142阶神羽*1]\n[#f20f143阶神羽*1]" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="209" name="极品战纹箱" levelLimit="0" vipLimit="0" icon="wangzhebox_png" Dropicon="wangzhebox_png" quality="4"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="119" startTime="0" endTime="0"
+         des="打开随机获得极品战纹：\n[#f20f14狂战*1]\n[#f20f14利刃*1]" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1"
+         tujing="0"/>
+    <box id="210" name="盛世装备箱" levelLimit="0" vipLimit="0" icon="wangzhebox_png" Dropicon="wangzhebox_png" quality="5"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="0" gainId="120" startTime="0" endTime="0"
+         des="打开随机获得盛世装备：\n[#f20f14二阶盛世神冠*1]\n[#f20f14二阶盛世神靴*1]" useType="0" haveNum="0" lastTime="0" useful="2"
+         useMax="-1" tujing="0"/>
+    <box id="211" name="极品红色战纹箱" levelLimit="0" vipLimit="0" icon="xingyunlibao_png" Dropicon="xingyunlibao_png"
+         quality="3" level="1" max="99999" consumeId="0" consumeNum="0" rewards="30,901,1#30,921,1" gainId="0"
+         startTime="0" endTime="0" des="开后可在以下物品中选择一种：\n[#f20f14利刃*1]\n[#f20f14狂战*1]\n装备后[#ffaa00战力提升+80000]"
+         useType="10" haveNum="0" lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="1001" name="金榜新手礼包" levelLimit="0" vipLimit="0" icon="wangzhebox_png" Dropicon="wangzhebox_png" quality="1"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="5,0,200#4,0,300000#2,1,100#2,10,20" gainId="0"
+         startTime="0" endTime="0" des="传世霸业新手礼包：元宝*200，强化石*100，金币*300000，灵魄*20" useType="0" haveNum="0" lastTime="0"
+         useful="2" useMax="-1" tujing="0"/>
+    <box id="1002" name="金榜删档测试礼包" levelLimit="0" vipLimit="0" icon="wangzhebox_png" Dropicon="wangzhebox_png"
+         quality="2" level="1" max="99999" consumeId="0" consumeNum="0" rewards="5,0,500#4,0,500000#2,13,50#2,12,50"
+         gainId="0" startTime="0" endTime="0" des="传世霸业删测试专属礼包：元宝*500，金币*500000，龙鳞碎片*50，龙纹碎片*50" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="1003" name="4177预约礼包" levelLimit="0" vipLimit="0" icon="wangzhebox_png" Dropicon="wangzhebox_png"
+         quality="2" level="1" max="99999" consumeId="0" consumeNum="0" rewards="5,0,300#4,0,300000#2,7,1" gainId="0"
+         startTime="0" endTime="0" des="传世霸业删测试专属礼包：元宝*300，金币*300000，主宰碎片*1" useType="0" haveNum="0" lastTime="0"
+         useful="2" useMax="-1" tujing="0"/>
+    <box id="1004" name="4177加群礼包" levelLimit="0" vipLimit="0" icon="wangzhebox_png" Dropicon="wangzhebox_png"
+         quality="2" level="1" max="99999" consumeId="0" consumeNum="0" rewards="5,0,200#4,0,240000#2,10,20" gainId="0"
+         startTime="0" endTime="0" des="传世霸业删测试专属礼包：元宝*200，金币*240000，灵魄*20" useType="0" haveNum="0" lastTime="0"
+         useful="2" useMax="-1" tujing="0"/>
+    <box id="1005" name="4177新手礼包" levelLimit="0" vipLimit="0" icon="wangzhebox_png" Dropicon="wangzhebox_png"
+         quality="2" level="1" max="99999" consumeId="0" consumeNum="0" rewards="5,0,200#4,0,200000#2,1,100" gainId="0"
+         startTime="0" endTime="0" des="传世霸业删测试专属礼包：元宝*200，金币*200000，强化石*100" useType="0" haveNum="0" lastTime="0"
+         useful="2" useMax="-1" tujing="0"/>
+    <box id="1006" name="4177进阶礼包" levelLimit="0" vipLimit="0" icon="wangzhebox_png" Dropicon="wangzhebox_png"
+         quality="2" level="1" max="99999" consumeId="0" consumeNum="0" rewards="5,0,200#4,0,300000#2,13,50" gainId="0"
+         startTime="0" endTime="0" des="传世霸业删测试专属礼包：元宝*200，金币*300000，龙鳞碎片*50" useType="0" haveNum="0" lastTime="0"
+         useful="2" useMax="-1" tujing="0"/>
+    <box id="1007" name="4177专属礼包" levelLimit="0" vipLimit="0" icon="wangzhebox_png" Dropicon="wangzhebox_png"
+         quality="2" level="1" max="99999" consumeId="0" consumeNum="0" rewards="5,0,200#4,0,200000#2,12,50" gainId="0"
+         startTime="0" endTime="0" des="传世霸业删测试专属礼包：元宝*200，金币*200000，龙纹碎片*50" useType="0" haveNum="0" lastTime="0"
+         useful="2" useMax="-1" tujing="0"/>
+    <box id="1008" name="新手礼包" levelLimit="0" vipLimit="0" icon="wangzhebox_png" Dropicon="wangzhebox_png" quality="1"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="5,0,200#4,0,300000#2,1,100#2,10,20" gainId="0"
+         startTime="0" endTime="0" des="新手礼包：元宝*200，强化石*100，金币*300000，灵魄*20" useType="0" haveNum="0" lastTime="0"
+         useful="2" useMax="-1" tujing="0"/>
+    <box id="1009" name="进阶礼包" levelLimit="0" vipLimit="0" icon="wangzhebox_png" Dropicon="wangzhebox_png" quality="2"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="5,0,500#4,0,500000#2,13,50#2,12,50" gainId="0"
+         startTime="0" endTime="0" des="进阶礼包：元宝*500，金币*500000，龙鳞碎片*50，龙纹碎片*50" useType="0" haveNum="0" lastTime="0"
+         useful="2" useMax="-1" tujing="0"/>
+    <box id="1010" name="豪华礼包" levelLimit="0" vipLimit="0" icon="wangzhebox_png" Dropicon="wangzhebox_png" quality="2"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="5,0,300#4,0,300000#2,23,1" gainId="0" startTime="0"
+         endTime="0" des="豪华礼包：元宝*300，金币*300000，星·天枢*1" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1"
+         tujing="0"/>
+    <box id="1011" name="神秘礼包" levelLimit="0" vipLimit="0" icon="wangzhebox_png" Dropicon="wangzhebox_png" quality="2"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="5,0,200#3,85,1#2,24,1" gainId="0" startTime="0"
+         endTime="0" des="神秘礼包：元宝*200，金砖*1，月·玉衡*1" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1"
+         tujing="0"/>
+    <box id="1012" name="专属礼包" levelLimit="0" vipLimit="0" icon="wangzhebox_png" Dropicon="wangzhebox_png" quality="2"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="5,0,1000#3,85,2#2,25,1" gainId="0" startTime="0"
+         endTime="0" des="专属礼包：元宝*1000，金砖*2，圣·开阳*1" useType="0" haveNum="0" lastTime="0" useful="2" useMax="-1"
+         tujing="0"/>
+    <box id="1013" name="公众号礼包" levelLimit="0" vipLimit="0" icon="wangzhebox_png" Dropicon="wangzhebox_png" quality="2"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="5,0,200#4,0,300000#2,13,50" gainId="0"
+         startTime="0" endTime="0" des="公众号礼包：元宝*200，金币*300000，龙鳞碎片*50" useType="0" haveNum="0" lastTime="0" useful="2"
+         useMax="-1" tujing="0"/>
+    <box id="1014" name="加群礼包" levelLimit="0" vipLimit="0" icon="wangzhebox_png" Dropicon="wangzhebox_png" quality="2"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="5,0,200#4,0,300000#2,12,50" gainId="0"
+         startTime="0" endTime="0" des="加群礼包：元宝*200，金币*300000，龙纹碎片*50" useType="0" haveNum="0" lastTime="0" useful="2"
+         useMax="-1" tujing="0"/>
+    <box id="1015" name="豪华礼包" levelLimit="0" vipLimit="0" icon="wangzhebox_png" Dropicon="wangzhebox_png" quality="2"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="2,23,1#2,16,20#4,0,300000#2,13,30" gainId="0"
+         startTime="0" endTime="0" des="豪华礼包：星·天枢*1，经脉丹*20，金币*300000，龙鳞碎片*30[充值1000元感恩回馈]" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="1016" name="神秘礼包" levelLimit="0" vipLimit="0" icon="wangzhebox_png" Dropicon="wangzhebox_png" quality="3"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="2,24,1#2,16,20#2,17,50#2,13,30" gainId="0"
+         startTime="0" endTime="0" des="神秘礼包：月·玉衡*1，经脉丹*20，羽毛*50，龙鳞碎片*30[充值3000元感恩回馈]" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="1017" name="专属礼包" levelLimit="0" vipLimit="0" icon="wangzhebox_png" Dropicon="wangzhebox_png" quality="4"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="2,25,1#2,24,1#2,16,20#2,17,50#2,13,30" gainId="0"
+         startTime="0" endTime="0" des="专属礼包：圣·开阳*1，月·玉衡*1，经脉丹*20，羽毛*50，龙鳞碎片*30[充值6000元感恩回馈]" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="1018" name="至尊礼包" levelLimit="0" vipLimit="0" icon="wangzhebox_png" Dropicon="wangzhebox_png" quality="5"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="2,25,2#2,24,2#2,16,40#2,17,80#2,13,60" gainId="0"
+         startTime="0" endTime="0" des="至尊礼包：圣·开阳*2，月·玉衡*2，经脉丹*40，羽毛*80，龙鳞碎片*60[充值10000元感恩回馈]" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="1019" name="6周年独家礼包" levelLimit="0" vipLimit="0" icon="wangzhebox_png" Dropicon="wangzhebox_png"
+         quality="4" level="1" max="99999" consumeId="0" consumeNum="0" rewards="2,9,30#2,16,20#2,17,10#2,13,30"
+         gainId="0" startTime="0" endTime="0" des="6周年独家礼包：宝石碎片*30，经脉丹*20，羽毛*10，龙鳞碎片*30" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="1020" name="6周年庆典礼包" levelLimit="0" vipLimit="0" icon="wangzhebox_png" Dropicon="wangzhebox_png"
+         quality="5" level="1" max="99999" consumeId="0" consumeNum="0" rewards="3,4,1#2,16,30#2,17,20#2,13,40"
+         gainId="0" startTime="0" endTime="0" des="6周年庆典礼包：中级心法*1，经脉丹*30，羽毛*20，龙鳞碎片*40" useType="0" haveNum="0"
+         lastTime="0" useful="2" useMax="-1" tujing="0"/>
+    <box id="1021" name="新手礼包1" levelLimit="0" vipLimit="0" icon="wangzhebox_png" Dropicon="wangzhebox_png" quality="2"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="5,0,200#4,0,300000#2,1,100#2,9,5" gainId="0"
+         startTime="0" endTime="0" des="新手礼包1：元宝*200，强化石*100，金币*300000，宝石碎片*5" useType="0" haveNum="0" lastTime="0"
+         useful="2" useMax="-1" tujing="0"/>
+    <box id="1022" name="新手礼包2" levelLimit="0" vipLimit="0" icon="wangzhebox_png" Dropicon="wangzhebox_png" quality="2"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="5,0,200#4,0,300000#2,1,100#2,13,10" gainId="0"
+         startTime="0" endTime="0" des="新手礼包2：元宝*200，强化石*100，金币*300000，龙鳞*10" useType="0" haveNum="0" lastTime="0"
+         useful="2" useMax="-1" tujing="0"/>
+    <box id="1023" name="新手礼包3" levelLimit="0" vipLimit="0" icon="wangzhebox_png" Dropicon="wangzhebox_png" quality="2"
+         level="1" max="99999" consumeId="0" consumeNum="0" rewards="5,0,200#4,0,300000#2,1,100#2,12,10" gainId="0"
+         startTime="0" endTime="0" des="新手礼包3：元宝*200，强化石*100，金币*300000，龙纹*10" useType="0" haveNum="0" lastTime="0"
+         useful="2" useMax="-1" tujing="0"/>
+</fighters>

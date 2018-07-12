@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<biqiscores>
+	<biqiscore score="50" feats="11,0,50"/>
+	<biqiscore score="120" feats="11,0,60"/>
+	<biqiscore score="200" feats="11,0,70"/>
+	<biqiscore score="300" feats="11,0,80"/>
+	<biqiscore score="450" feats="11,0,90"/>
+	<biqiscore score="600" feats="11,0,100"/>
+	<biqiscore score="800" feats="11,0,100"/>
+	<biqiscore score="1050" feats="11,0,100"/>
+	<biqiscore score="1300" feats="11,0,100"/>
+	<biqiscore score="1600" feats="11,0,100"/>
+</biqiscores>

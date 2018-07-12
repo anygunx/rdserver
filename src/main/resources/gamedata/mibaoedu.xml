@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xinfahc>
+	<xinfahc id="1" cost="1" reward="35,0,1000"/>
+	<xinfahc id="2" cost="5000" reward="35,0,6000"/>
+	<xinfahc id="3" cost="10000" reward="35,0,6000"/>
+	<xinfahc id="4" cost="20000" reward="35,0,12000"/>
+	<xinfahc id="5" cost="40000" reward="35,0,36000"/>
+	<xinfahc id="6" cost="100000" reward="35,0,60000"/>
+	<xinfahc id="7" cost="200000" reward="35,0,120000"/>
+	<xinfahc id="8" cost="400000" reward="35,0,120000"/>
+	<xinfahc id="9" cost="600000" reward="35,0,120000"/>
+	<xinfahc id="10" cost="800000" reward="35,0,120000"/>
+</xinfahc>

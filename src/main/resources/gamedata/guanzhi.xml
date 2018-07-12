@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<list>
+	<data id="1" name="卫兵" icon="gz_icon_1weibing_png" quality="1" income="0" need="0" level="0" hp="0" attack="0" bossinch="0" gotype="17,18"/>
+	<data id="2" name="哨官" icon="gz_icon_2shaoguan_png" quality="1" income="0" need="10000" title="一阶" level="1" hp="3000" attack="240" bossinch="100" gotype="17,18"/>
+	<data id="3" name="伍长" icon="gz_icon_3wuzhang_png" quality="1" income="0" need="35000" title="二阶" level="2" hp="7000" attack="560" bossinch="200" gotype="17,18"/>
+	<data id="4" name="什长" icon="gz_icon_4shenzhang_png" quality="2" income="0" need="85000" title="三阶" level="3" hp="12000" attack="960" bossinch="350" gotype="17,18"/>
+	<data id="5" name="都尉" icon="gz_icon_5duwei_png" quality="2" income="5000" need="165000" title="四阶" level="4" hp="18000" attack="1440" bossinch="500" gotype="17,18"/>
+	<data id="6" name="校尉" icon="gz_icon_6xiaowei_png" quality="3" income="7500" need="285000" title="五阶" level="5" hp="26000" attack="2080" bossinch="700" gotype="17,18"/>
+	<data id="7" name="参将" icon="gz_icon_7canjiang_png" quality="3" income="10000" need="465000" title="六阶" level="6" hp="36000" attack="2880" bossinch="950" gotype="17,18"/>
+	<data id="8" name="总兵" icon="gz_icon_8zongbing_png" quality="4" income="13000" need="715000" title="七阶" level="7" hp="49000" attack="3920" bossinch="1200" gotype="17,18"/>
+	<data id="9" name="都统" icon="gz_icon_9dutong_png" quality="4" income="16000" need="1065000" title="八阶" level="8" hp="64000" attack="5120" bossinch="1450" gotype="17,18"/>
+	<data id="10" name="将军" icon="gz_icon_10jiangjun_png" quality="5" income="22000" need="1615000" title="九阶" level="9" hp="81000" attack="6480" bossinch="1700" gotype="17,18"/>
+	<data id="11" name="元帅" icon="gz_icon_11yuanshuai_png" quality="5" income="28000" need="2415000" title="十阶" level="10" hp="100000" attack="8000" bossinch="2000" gotype="17,18"/>
+</list>

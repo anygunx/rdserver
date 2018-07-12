@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bossRewards>
+	<bossReward id="1" min="1" max="1" reward="3,128,1#3,129,3#2,31,75#2,39,37#2,7,50" title="跨服第1名" content="恭喜您在本次跨服竞技场中拔得头筹，以下是您的排位奖励"/>
+	<bossReward id="2" min="2" max="2" reward="3,129,2#2,31,70#2,39,35#2,7,45" title="跨服第2名" content="恭喜您在本次跨服竞技场中获得亚军，以下是您的排位奖励"/>
+	<bossReward id="3" min="3" max="3" reward="3,129,1#2,31,65#2,39,32#2,7,40" title="跨服第3名" content="恭喜您在本次跨服竞技场中获得季军，以下是您的排位奖励"/>
+	<bossReward id="4" min="4" max="4" reward="2,31,60#2,39,30#2,7,35" title="跨服第4名" content="恭喜您在本次跨服竞技场中获得第四名，以下是您的排位奖励"/>
+	<bossReward id="5" min="5" max="5" reward="2,31,55#2,39,27#2,7,30" title="跨服第5名" content="恭喜您在本次跨服竞技场中获得第五名，以下是您的排位奖励"/>
+	<bossReward id="6" min="6" max="10" reward="2,31,45#2,39,25#2,7,25" title="跨服6~10名" content="恭喜您在本次跨服竞技场中挤进前10名，以下是您的排位奖励"/>
+	<bossReward id="7" min="11" max="20" reward="2,31,40#2,39,22#2,7,22" title="跨服11~20名" content="恭喜您在本次跨服竞技场中挤进前20名，以下是您的排位奖励"/>
+	<bossReward id="8" min="21" max="30" reward="2,31,35#2,39,20#2,7,20" title="跨服21~30名" content="恭喜您在本次跨服竞技场中挤进前30名，以下是您的排位奖励"/>
+	<bossReward id="9" min="31" max="40" reward="2,31,30#2,39,17#2,7,17" title="跨服31~40名" content="恭喜您在本次跨服竞技场中挤进前40名，以下是您的排位奖励"/>
+	<bossReward id="10" min="41" max="50" reward="2,31,25#2,39,15#2,7,15" title="跨服41~50名" content="恭喜您在本次跨服竞技场中挤进前50名，以下是您的排位奖励"/>
+	<bossReward id="11" min="51" max="70" reward="2,31,20#2,39,12#2,7,12" title="跨服51~70名" content="恭喜您在本次跨服竞技场中挤进前70名，以下是您的排位奖励"/>
+	<bossReward id="12" min="71" max="100" reward="2,31,15#2,39,10#2,7,10" title="跨服71~100名" content="恭喜您在本次跨服竞技场中挤进前100名，以下是您的排位奖励"/>
+</bossRewards>

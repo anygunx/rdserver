@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+	name	玩法名字
+	type	分类
+	functionId	对应funcionLv表解锁条件，0为无解锁条件
+	hint	页面提示	有字段显示，无functionId大于0显示funcionLv表中提示开启字段
+	banner	玩法的易拉宝，资源如：banner.jpg	填写	banner_jpg
+-->
+<methods>
+	<method id="1" name="材料副本" type="1" functionId="7" hint="" banner="wf_bj_cailiao_jpg"/>
+	<method id="2" name="闯天关" type="1" functionId="12" hint="" banner="wf_bj_chuangtianguan_jpg"/>
+	<method id="3" name="挖矿" type="1" functionId="19" hint="" banner=""/>
+	<method id="4" name="天梯" type="1" functionId="18" hint="" banner="wf_bj_tianti_jpg"/>
+	<method id="5" name="限时玩法" type="2" functionId="1" hint="每周一至周五，20：30-20：45（开服第二天后开启）" banner="wf_bj_yezhann_jpg"/>
+	<method id="6" name="护送" type="1" functionId="19" hint="" banner="wf_bj_yajieqiufan_jpg"/>
+</methods>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<logics>
+	<logic id="0" round="0" gain="25" cost1="2,51,1" cost2="5,0,30" time1="15,30" reward1="2,48,1" time2="40,50" reward2="2,49,1" time3="70,75" reward3="2,50,1" time4="90,100" reward4="2,47,1" show="2,48,0#2,49,0#2,50,0#2,47,0#2,24,0#2,22,0"/>
+</logics>

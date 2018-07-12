@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<fights>
+	<boss id="1" name="魔化令羽" icon="boss_02_headIcon_png" mapid="10010" point="265,410,485,417,386" monsterId="21003" bossId="21000" num="5" reward="16,0,10;4,0,70000" nandu="1"/>
+	<boss id="2" name="魔化令羽" icon="boss_02_headIcon_png" mapid="10011" point="265,410,485,417,387" monsterId="21003" bossId="21000" num="5" reward="16,0,10;4,0,70000" nandu="1"/>
+	<boss id="3" name="魔化令羽" icon="boss_02_headIcon_png" mapid="10012" point="265,410,485,417,388" monsterId="21003" bossId="21000" num="5" reward="16,0,10;4,0,70000" nandu="1"/>
+	<boss id="4" name="鬼魅玄女" icon="boss_04_headIcon_png" mapid="10013" point="265,410,485,417,389" monsterId="21003" bossId="21001" num="5" reward="16,0,15;4,0,210000" nandu="2"/>
+	<boss id="5" name="鬼魅玄女" icon="boss_04_headIcon_png" mapid="10014" point="265,410,485,417,390" monsterId="21003" bossId="21001" num="5" reward="16,0,15;4,0,210000" nandu="2"/>
+	<boss id="6" name="翼族离怨" icon="boss_16_headIcon_png" mapid="10015" point="265,410,485,417,391" monsterId="21003" bossId="21002" num="5" reward="16,0,20;4,0,500000" nandu="3"/>
+</fights>

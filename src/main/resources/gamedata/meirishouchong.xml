@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<logics>
+	<logic id="1" round="0" cost="3800" reward="3,183,1#3,170,1#3,156,2#2,9,20"/>
+	<logic id="2" round="1" cost="3800" reward="3,183,1#3,171,1#3,156,2#2,9,20"/>
+	<logic id="3" round="2" cost="3800" reward="3,183,1#3,172,1#3,156,2#2,9,20"/>
+</logics>

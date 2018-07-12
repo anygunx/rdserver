@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<guildTasks>
+	<guildTask id="1" guildExp="10" banggong="10" cost="4,0,200000"/>
+	<guildTask id="2" guildExp="100" banggong="100" cost="5,0,100"/>
+</guildTasks>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<fights>
+	<map id="1" tongyongReward="3,110,10" tongyongTitle="帮战冠军奖" tongyongContent="恭喜您所在的帮会在本次帮会战中拔得头筹，获得冠军，这是您的帮会战冠军奖！" cangkuReward="3,111,5#3,112,7#3,113,9"/>
+	<map id="2" tongyongReward="3,110,9" tongyongTitle="帮战亚军奖" tongyongContent="恭喜您所在的帮会在本次帮会战中全民作战，获得亚军，这是您的帮会战亚军奖！" cangkuReward="3,111,3#3,112,6#3,113,8"/>
+	<map id="3" tongyongReward="3,110,7" tongyongTitle="帮战季军奖" tongyongContent="恭喜您所在的帮会在本次帮会战中挤进前三甲，获得季军，这是您的帮会战季军奖！" cangkuReward="3,111,2#3,112,5#3,113,7"/>
+	<map id="4" tongyongReward="3,110,5" tongyongTitle="帮战第四名" tongyongContent="恭喜您所在的帮会在本次帮会战中挤进前五名，这是您的帮会战第四名奖励！" cangkuReward="3,112,4#3,113,6"/>
+	<map id="5" tongyongReward="3,110,4" tongyongTitle="帮战第五名" tongyongContent="恭喜您所在的帮会在本次帮会战中挤进前五名，这是您帮会战第五名的奖励！" cangkuReward="3,112,3#3,113,5"/>
+</fights>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<activities>
+	<activity id="1" buff="8,5,5;9,5,5" type="1" time="10" effect="leitingwanjun" hurtpos="1"/>
+	<activity id="2" buff="6,2,2;7,2,2" type="1" time="10" effect="0" hurtpos="0"/>
+	<activity id="3" buff="4,2,2;5,2,2" type="1" time="10" effect="0" hurtpos="0"/>
+</activities>

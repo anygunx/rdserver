@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<vipbosstipss>
+	<vipbosstips id="1" viplv="1" iconb="boss_bg_bosszhijia1" icons="boss_bg_bosszhijiaxiao1" tops="30级~1转" show="0,55,4,4#0,49,4,4#0,43,4,4#0,37,4,4#0,31,4,4"/>
+	<vipbosstips id="2" viplv="2" iconb="boss_bg_bosszhijia2" icons="boss_bg_bosszhijiaxiao2" tops="1转~6转" show="0,85,4,4#0,79,4,4#0,73,4,4#0,67,4,4#0,61,4,4"/>
+	<vipbosstips id="3" viplv="3" iconb="boss_bg_bosszhijia3" icons="boss_bg_bosszhijiaxiao3" tops="6转~12转" show="0,121,4,4#0,115,4,4#0,109,4,4#0,103,4,4#0,97,4,4"/>
+</vipbosstipss>

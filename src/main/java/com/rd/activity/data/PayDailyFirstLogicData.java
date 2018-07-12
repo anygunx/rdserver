@@ -1,0 +1,83 @@
+package com.rd.activity.data;
+
+import com.rd.bean.drop.DropData;
+import com.rd.util.StringUtil;
+import com.rd.util.XmlUtils;
+import org.w3c.dom.Element;
+
+import java.util.List;
+
+/**
+ * 累计充值逻辑数据
+ *
+ * @author Created by U-Demon on 2016年12月26日 下午3:23:45
+ * @version 1.0.0
+ */
+public class PayDailyFirstLogicData extends BaseActivityLogicData {
+
+    private int id;
+
+    private List<DropData> goods;
+
+    private int cost;
+
+    private String title;
+
+    private String content;
+
+    @Override
+    public String getKey() {
+        return String.valueOf(id);
+    }
+
+    @Override
+    public void loadData(Element root) {
+        id = Integer.valueOf(XmlUtils.getAttribute(root, "id"));
+        cost = Integer.valueOf(XmlUtils.getAttribute(root, "cost"));
+        goods = StringUtil.getRewardDropList(XmlUtils.getAttribute(root, "reward"));
+        title = XmlUtils.getAttribute(root, "title");
+        content = XmlUtils.getAttribute(root, "content");
+    }
+
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
+
+    public List<DropData> getGoods() {
+        return goods;
+    }
+
+    public void setGoods(List<DropData> goods) {
+        this.goods = goods;
+    }
+
+    public String getTitle() {
+        return title;
+    }
+
+    public void setTitle(String title) {
+        this.title = title;
+    }
+
+    public String getContent() {
+        return content;
+    }
+
+    public void setContent(String content) {
+        this.content = content;
+    }
+
+    public int getCost() {
+        return cost;
+    }
+
+    public void setCost(int cost) {
+        this.cost = cost;
+    }
+
+
+}

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<logics>
+	<logic id="1" shopType="0" round="0" goods="2,7,20" price="5,0,540" yuanJia="5,0,600" discount="9" max="1"/>
+	<logic id="2" shopType="0" round="0" goods="2,7,60" price="5,0,1530" yuanJia="5,0,1800" discount="85" max="1"/>
+	<logic id="3" shopType="0" round="0" goods="2,7,100" price="5,0,2400" yuanJia="5,0,3000" discount="8" max="1"/>
+	<logic id="4" shopType="0" round="0" goods="2,1,60" price="5,0,1920" yuanJia="5,0,2400" discount="8" max="1"/>
+	<logic id="5" shopType="0" round="0" goods="2,31,500" price="5,0,2000" yuanJia="5,0,2500" discount="8" max="1"/>
+	<logic id="6" shopType="0" round="1" goods="2,8,20" price="5,0,540" yuanJia="5,0,600" discount="9" max="1"/>
+	<logic id="7" shopType="0" round="1" goods="2,8,60" price="5,0,1530" yuanJia="5,0,1800" discount="85" max="1"/>
+	<logic id="8" shopType="0" round="1" goods="2,8,100" price="5,0,2400" yuanJia="5,0,3000" discount="8" max="1"/>
+	<logic id="9" shopType="0" round="1" goods="2,1,60" price="5,0,1920" yuanJia="5,0,2400" discount="8" max="1"/>
+	<logic id="10" shopType="0" round="1" goods="2,31,500" price="5,0,2000" yuanJia="5,0,2500" discount="8" max="1"/>
+	<logic id="11" shopType="0" round="2" goods="2,9,20" price="5,0,540" yuanJia="5,0,600" discount="9" max="1"/>
+	<logic id="12" shopType="0" round="2" goods="2,9,60" price="5,0,1530" yuanJia="5,0,1800" discount="85" max="1"/>
+	<logic id="13" shopType="0" round="2" goods="2,9,100" price="5,0,2400" yuanJia="5,0,3000" discount="8" max="1"/>
+	<logic id="14" shopType="0" round="2" goods="2,1,60" price="5,0,1920" yuanJia="5,0,2400" discount="8" max="1"/>
+	<logic id="15" shopType="0" round="2" goods="2,31,500" price="5,0,2000" yuanJia="5,0,2500" discount="8" max="1"/>
+	<logic id="16" shopType="0" round="3" goods="2,10,20" price="5,0,540" yuanJia="5,0,600" discount="9" max="1"/>
+	<logic id="17" shopType="0" round="3" goods="2,10,60" price="5,0,1530" yuanJia="5,0,1800" discount="85" max="1"/>
+	<logic id="18" shopType="0" round="3" goods="2,10,100" price="5,0,2400" yuanJia="5,0,3000" discount="8" max="1"/>
+	<logic id="19" shopType="0" round="3" goods="2,1,60" price="5,0,1920" yuanJia="5,0,2400" discount="8" max="1"/>
+	<logic id="20" shopType="0" round="3" goods="2,31,500" price="5,0,2000" yuanJia="5,0,2500" discount="8" max="1"/>
+	<logic id="21" shopType="0" round="4" goods="2,11,20" price="5,0,540" yuanJia="5,0,600" discount="9" max="1"/>
+	<logic id="22" shopType="0" round="4" goods="2,11,60" price="5,0,1530" yuanJia="5,0,1800" discount="85" max="1"/>
+	<logic id="23" shopType="0" round="4" goods="2,11,100" price="5,0,2400" yuanJia="5,0,3000" discount="8" max="1"/>
+	<logic id="24" shopType="0" round="4" goods="2,1,60" price="5,0,1920" yuanJia="5,0,2400" discount="8" max="1"/>
+	<logic id="25" shopType="0" round="4" goods="2,31,500" price="5,0,2000" yuanJia="5,0,2500" discount="8" max="1"/>
+</logics>

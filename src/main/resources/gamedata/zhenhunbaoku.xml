@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<baoku>
+	<ku id="1" order="1" goods="3,173,1"/>
+	<ku id="2" order="2" goods="2,92,1"/>
+	<ku id="3" order="3" goods="2,88,1"/>
+	<ku id="4" order="4" goods="2,93,1"/>
+	<ku id="5" order="5" goods="2,91,1"/>
+	<ku id="6" order="6" goods="2,90,1"/>
+	<ku id="7" order="7" goods="2,89,1"/>
+	<ku id="8" order="8" goods="2,94,8"/>
+	<ku id="9" order="9" goods="2,94,5"/>
+	<ku id="10" order="10" goods="2,94,3"/>
+	<ku id="11" order="11" goods="2,94,2"/>
+	<ku id="12" order="12" goods="2,94,1"/>
+	<ku id="5" order="0" goods="2,94,5"/>
+	<ku id="15" order="0" goods="2,94,15"/>
+	<ku id="35" order="0" goods="2,94,35"/>
+	<ku id="65" order="0" goods="2,94,65"/>
+	<ku id="125" order="0" goods="2,94,125"/>
+</baoku>

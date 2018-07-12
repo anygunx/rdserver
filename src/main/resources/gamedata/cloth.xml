@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<zhulings>
+	<zhuling id="1" name="情缘时装" waixing1="20" cost="2,26,1" time="-1" hp="30300" attack="5792" phyDef="2846" magicDef="2846" hit="0" dodge="0" crit="0" duct="0" block="0" counter="0"/>
+	<zhuling id="2" name="衣服时装2" waixing1="2" cost="2,27,1" time="604800" hp="27300" attack="5460" phyDef="2732" magicDef="2732" hit="0" dodge="0" crit="0" duct="0" block="0" counter="0"/>
+</zhulings>

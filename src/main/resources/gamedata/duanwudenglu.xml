@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<logics>
+	<logic days="1" reward="2,39,15#2,12,10#2,13,10"/>
+	<logic days="2" reward="2,9,15#2,16,10#2,17,10"/>
+	<logic days="3" reward="2,19,15#2,18,20#2,29,10"/>
+	<logic days="4" reward="2,16,15#2,9,10#2,17,10"/>
+	<logic days="5" reward="2,19,15#2,9,10#2,18,20"/>
+	<logic days="6" reward="2,31,15#2,12,20#2,13,20"/>
+	<logic days="7" reward="2,39,30#3,1,2#2,17,10"/>
+</logics>

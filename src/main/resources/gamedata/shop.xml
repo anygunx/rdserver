@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<shops>
+	<shop id="1" shopType="0" item="3,85,1" price="5,0,300" zhekou="1"/>
+	<shop id="2" shopType="0" item="2,9,1" price="5,0,100" zhekou="1"/>
+	<shop id="3" shopType="0" item="2,16,1" price="5,0,100" zhekou="1"/>
+	<shop id="4" shopType="0" item="2,12,1" price="5,0,50" zhekou="1"/>
+	<shop id="5" shopType="0" item="2,13,1" price="5,0,50" zhekou="1"/>
+	<shop id="6" shopType="0" item="3,3,1" price="5,0,100" zhekou="1"/>
+	<shop id="7" shopType="0" item="3,1,1" price="5,0,1000" zhekou="1"/>
+	<shop id="8" shopType="0" item="3,2,1" price="5,0,9980" zhekou="1"/>
+	<shop id="9" shopType="1" item="2,17,50" price="5,0,400;21,0,4000" zhekou="1"/>
+	<shop id="10" shopType="1" item="2,20,10" price="5,0,5000;21,0,20000" zhekou="1"/>
+	<shop id="11" shopType="1" item="2,7,20" price="5,0,1000;21,0,2000" zhekou="1"/>
+	<shop id="12" shopType="1" item="2,2,1" price="5,0,5000;21,0,5000" zhekou="1"/>
+	<shop id="13" shopType="1" item="2,3,1" price="5,0,5000;21,0,5000" zhekou="1"/>
+	<shop id="14" shopType="1" item="2,4,1" price="5,0,5000;21,0,5000" zhekou="1"/>
+	<shop id="15" shopType="1" item="2,5,1" price="5,0,5000;21,0,5000" zhekou="1"/>
+	<shop id="16" shopType="3" item="3,4,1" price="11,0,10000" zhekou="1"/>
+	<shop id="17" shopType="3" item="3,5,1" price="11,0,60000" zhekou="1"/>
+	<shop id="18" shopType="3" item="3,9,1" price="11,0,50000" zhekou="1"/>
+	<shop id="19" shopType="3" item="3,1,1" price="11,0,5000" zhekou="1"/>
+	<shop id="20" shopType="3" item="3,2,1" price="11,0,50000" zhekou="1"/>
+	<shop id="21" shopType="3" item="2,10,1" price="11,0,60" zhekou="1"/>
+	<shop id="22" shopType="3" item="2,907,1" price="11,0,100000" zhekou="1"/>
+</shops>

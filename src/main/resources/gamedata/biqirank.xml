@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<biqiranks>
+	<biqirank rank="1" reward="2,1,60#11,0,2000#3,45,1"/>
+	<biqirank rank="2" reward="2,1,40#11,0,1600"/>
+	<biqirank rank="3" reward="2,1,30#11,0,1300"/>
+	<biqirank rank="4" reward="2,1,20#11,0,1000"/>
+	<biqirank rank="5" reward="2,1,20#11,0,1000"/>
+	<biqirank rank="6" reward="2,1,20#11,0,1000"/>
+	<biqirank rank="7" reward="2,1,20#11,0,1000"/>
+	<biqirank rank="8" reward="2,1,20#11,0,1000"/>
+	<biqirank rank="9" reward="2,1,20#11,0,1000"/>
+	<biqirank rank="10" reward="2,1,20#11,0,1000"/>
+	<biqirank rank="11" reward="2,1,10#11,0,800"/>
+</biqiranks>

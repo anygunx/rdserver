@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<list>
+	<data id="1" score="100" reward="3,4,1" desc="开启后可随机获得一件中级心法"/>
+	<data id="2" score="240" reward="3,5,1" desc="开启后可随机获得一件高级心法"/>
+	<data id="3" score="350" reward="2,26,1" desc="魔幻的彩蝶，飞翔在遥远的天空,可用来激活翅膀时装幻蝶之翼"/>
+	<data id="4" score="500" reward="2,906,1" desc="噬血战甲，噬血的战斗，可用来激活时装噬血战甲"/>
+</list>

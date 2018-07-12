@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<logics>
+
+    <logic id="1" oneKeyCount="10" cost="5,0,500" costOneKey="5,0,4980" reward="2,1,10" show="0,121,1,4#2,14,1#0,247,1,4#2,15,1#0,373,1,4#0,123,1,4#2,18,10#0,249,1,4#2,16,10#0,375,1,4"/>
+
+</logics>

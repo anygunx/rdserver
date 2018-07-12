@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<zhuhuns>
+	<logic id="1" round="0" type="1" num="1" diaoluo="4"/>
+	<logic id="2" round="0" type="1" num="2" diaoluo="6"/>
+	<logic id="3" round="0" type="1" num="3" diaoluo="30"/>
+	<logic id="4" round="0" type="1" num="4" diaoluo="40"/>
+	<logic id="5" round="0" type="1" num="5" diaoluo="15"/>
+	<logic id="6" round="0" type="1" num="6" diaoluo="5"/>
+	<logic id="7" round="0" type="2" num="2" diaoluo="1"/>
+	<logic id="8" round="0" type="2" num="3" diaoluo="1"/>
+	<logic id="9" round="0" type="2" num="4" diaoluo="1"/>
+	<logic id="10" round="0" type="2" num="5" diaoluo="2"/>
+	<logic id="11" round="0" type="2" num="6" diaoluo="2"/>
+	<logic id="12" round="0" type="2" num="7" diaoluo="5"/>
+	<logic id="13" round="0" type="2" num="8" diaoluo="20"/>
+	<logic id="14" round="0" type="2" num="9" diaoluo="35"/>
+	<logic id="15" round="0" type="2" num="10" diaoluo="25"/>
+	<logic id="16" round="0" type="2" num="11" diaoluo="5"/>
+	<logic id="17" round="0" type="2" num="12" diaoluo="3"/>
+</zhuhuns>

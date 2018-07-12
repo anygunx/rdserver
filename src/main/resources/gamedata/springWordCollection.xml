@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<logics>
+	<logic id="1" consume="2,59,10" reward="3,96,1"/>
+	<logic id="2" consume="2,59,10#2,60,5#2,61,1" reward="3,98,1"/>
+	<logic id="3" consume="2,59,15#2,60,8#2,61,2#2,62,1" reward="3,99,1"/>
+	<logic id="4" consume="2,59,20#2,60,10#2,61,3#2,62,2" reward="3,100,1"/>
+	<logic id="5" consume="2,61,10#2,62,5" reward="3,102,1"/>
+	<logic id="6" consume="2,61,20#2,62,20" reward="3,103,1"/>
+</logics>

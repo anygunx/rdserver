@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<yuekas>
+	<yueka id="1" name="月卡" reward="5,0,1000" keepday="30" price="28" diejia="1" title="月卡福利" content="尊贵的月卡少侠，这是您今天的月卡福利请查收，不要忘记随时查看自己的月卡剩余时间哦！" tequan="2,100#7,1000"/>
+	<yueka id="2" name="终身卡" reward="2,1,10" keepday="-1" price="88" diejia="0" title="强化石" content="" tequan="强化石"/>
+</yuekas>

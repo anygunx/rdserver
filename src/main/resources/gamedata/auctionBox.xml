@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<list>
+    <data id="1" name="拍品宝箱1" icon="box1_png" drop="1,2500;2,2500;3,2500;4,2500" lastTime="3600"/>
+    <data id="2" name="拍品宝箱2" icon="box2_png" drop="1,2500;2,2500;3,2500;4,2500" lastTime="3600"/>
+</list>

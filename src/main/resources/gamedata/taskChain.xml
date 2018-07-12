@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+宗宁：
+主界面 右侧BOSS按钮  出现等级：20  出现关卡：完成7关  出现任务：完成19
+主界面 右侧副本按钮  出现等级：32  出现关卡：完成12关  出现任务：完成33
+-->
+<tasks>
+	<taskChain id="1" name="手撕1只【鸡】" goType="0" eventType="28" updateType="1" reward="4,0,40000#6,0,51" param="1" des="手撕1只【鸡】" next="2"/>
+	<taskChain id="2" name="斩杀【稚鸡王】" goType="2" eventType="2" updateType="2" reward="4,0,40000#6,0,75#0,1,1,2#0,2,1,2#0,3,1,2#0,4,1,2#0,5,1,2#0,5,1,2#0,6,1,2#0,6,1,2#0,127,1,2#0,128,1,2#0,129,1,2#0,130,1,2#0,131,1,2#0,132,1,2#0,131,1,2#0,132,1,2#0,253,1,2#0,254,1,2#0,255,1,2#0,256,1,2#0,257,1,2#0,258,1,2#0,257,1,2#0,258,1,2" param="1" des="斩杀【稚鸡王】" next="3"/>
+	<taskChain id="3" name="学习【一键装备】" goType="3" eventType="20" updateType="1" reward="4,0,40000#6,0,50" param="1" des="学习【一键装备】" next="4"/>
+	<taskChain id="4" name="击杀1只【鹿】" goType="0" eventType="28" updateType="1" reward="4,0,40000#6,0,50" param="1" des="击杀1只【鹿】" next="5"/>
+	<taskChain id="5" name="斩杀【梅花鹿】" goType="2" eventType="2" updateType="2" reward="4,0,40000#6,0,125" param="2" des="斩杀【梅花鹿】" next="6"/>
+	<taskChain id="6" name="学习升级技能" goType="5" eventType="5" updateType="1" reward="4,0,40000#6,0,155" param="1" des="学习升级技能" next="7"/>
+	<taskChain id="7" name="消灭【稻草人】" goType="0" eventType="28" updateType="1" reward="4,0,40000#6,0,30" param="1" des="消灭【稻草人】" next="8"/>
+	<taskChain id="8" name="斩杀【骷髅】" goType="2" eventType="2" updateType="2" reward="4,0,40000#6,0,165" param="3" des="斩杀【骷髅】" next="9"/>
+	<taskChain id="9" name="激活(传世①)" goType="19" eventType="24" updateType="2" reward="4,0,50000#6,0,285" param="1" des="激活(传世①)" next="10"/>
+	<taskChain id="10" name="斩杀【尸王】" goType="2" eventType="2" updateType="2" reward="4,0,40000#6,0,385" param="4" des="斩杀【尸王】" next="11"/>
+	<taskChain id="11" name="首次熔炼装备" goType="6" eventType="6" updateType="1" reward="4,0,40000#6,0,485" param="1" des="首次熔炼装备" next="12"/>
+	<taskChain id="12" name="首次强化装备" goType="4" eventType="4" updateType="1" reward="4,0,40000#6,0,585" param="1" des="首次强化装备" next="13"/>
+	<taskChain id="13" name="斩杀【骷髅守卫】" goType="2" eventType="2" updateType="2" reward="4,0,40000#22,0,2000#6,0,685" param="5" des="斩杀【骷髅守卫】" next="14"/>
+	<taskChain id="14" name="首次升级龙珠" goType="25" eventType="51" updateType="2" reward="4,0,40000#6,0,400" param="1" des="首次升级龙珠" next="15"/>
+	<taskChain id="15" name="斩杀【骷髅枪卫】" goType="2" eventType="2" updateType="2" reward="4,0,40000#6,0,400" param="6" des="斩杀【骷髅枪卫】" next="16"/>
+	<taskChain id="16" name="激活(传世②)" goType="19" eventType="25" updateType="2" reward="4,0,40000#6,0,400" param="1" des="激活(传世②)" next="17"/>
+	<taskChain id="17" name="开启合击技" goType="19" eventType="26" updateType="2" reward="4,0,80000#6,0,400" param="1" des="开启合击技" next="18"/>
+	<taskChain id="18" name="斩杀【骷髅队长】" goType="2" eventType="2" updateType="2" reward="4,0,40000#6,0,400#0,7,1,2#0,8,1,2#0,9,1,2#0,10,1,2#0,11,1,2#0,11,1,2#0,12,1,2#0,12,1,2#0,133,1,2#0,134,1,2#0,135,1,3#0,136,1,2#0,137,1,2#0,138,1,2#0,137,1,2#0,138,1,2#0,259,1,2#0,260,1,2#0,261,1,3#0,262,1,2#0,263,1,2#0,264,1,2#0,263,1,2#0,264,1,2" param="7" des="斩杀【骷髅队长】" next="19"/>
+	<taskChain id="19" name="更换10级装备" goType="3" eventType="20" updateType="1" reward="4,0,40000#6,0,500" param="1" des="更换10级装备" next="20"/>
+	<taskChain id="20" name="挑战个人BOSS" goType="7" eventType="21" updateType="1" reward="4,0,40000#6,0,1500" param="1" des="挑战个人BOSS" next="21"/>
+	<taskChain id="21" name="斩杀【骷髅王】" goType="2" eventType="2" updateType="2" reward="4,0,40000#6,0,2000" param="8" des="斩杀【骷髅王】" next="22"/>
+	<taskChain id="22" name="升级技能" goType="5" eventType="5" updateType="1" reward="4,0,40000#6,0,1000" param="1" des="升级技能" next="23"/>
+	<taskChain id="23" name="斩杀【黄泉守卫】" goType="2" eventType="2" updateType="2" reward="4,0,40000#6,0,1000" param="9" des="斩杀【黄泉守卫】" next="24"/>
+	<taskChain id="24" name="熔炼装备" goType="6" eventType="6" updateType="1" reward="4,0,40000#2,1,10#6,0,1000" param="1" des="熔炼装备" next="25"/>
+	<taskChain id="25" name="强化装备" goType="4" eventType="4" updateType="1" reward="4,0,40000#6,0,1000" param="1" des="强化装备" next="26"/>
+	<taskChain id="26" name="挑战【黄泉教主】" goType="2" eventType="2" updateType="2" reward="4,0,40000#6,0,1050" param="10" des="挑战【黄泉教主】" next="27"/>
+	<taskChain id="27" name="完成新手指引" goType="0" eventType="3" updateType="2" reward="4,0,40000#0,19,1,2#0,20,1,2#0,21,1,2#0,22,1,2#0,23,1,2#0,24,1,2#0,23,1,2#0,24,1,2#0,145,1,2#0,146,1,2#0,147,1,2#0,148,1,2#0,149,1,2#0,150,1,2#0,149,1,2#0,150,1,2#0,271,1,2#0,272,1,2#0,273,1,2#0,274,1,2#0,275,1,2#0,276,1,2#0,275,1,2#0,276,1,2" param="30" des="完成新手指引" next="28"/>
+	<taskChain id="28" name="挑战个人BOSS" goType="7" eventType="21" updateType="1" reward="4,0,40000" param="1" des="挑战个人BOSS" next="29"/>
+	<taskChain id="29" name="通关(11)关" goType="2" eventType="2" updateType="2" reward="4,0,20000#6,0,250" param="11" des="通关(11)关" next="30"/>
+	<taskChain id="30" name="熔炼装备" goType="6" eventType="6" updateType="1" reward="4,0,20000#2,1,10#6,0,250" param="1" des="熔炼装备" next="31"/>
+	<taskChain id="31" name="强化装备" goType="4" eventType="4" updateType="1" reward="4,0,20000#6,0,250" param="1" des="强化装备" next="32"/>
+	<taskChain id="32" name="通关(12)关" goType="2" eventType="2" updateType="2" reward="4,0,20000#6,0,251" param="12" des="通关(12)关" next="33"/>
+	<taskChain id="33" name="等级提升到32" goType="0" eventType="3" updateType="2" reward="4,0,20000" param="32" des="等级提升到32" next="34"/>
+	<taskChain id="34" name="挑战【龙鳞副本】" goType="9" eventType="16" updateType="1" reward="4,0,20000#2,13,10" param="1" des="挑战【龙鳞副本】" next="35"/>
+	<taskChain id="35" name="提升龙鳞等级" goType="31" eventType="36" updateType="1" reward="4,0,20000" param="1" des="提升龙鳞等级" next="36"/>
+	<taskChain id="36" name="通关(13)关" goType="2" eventType="2" updateType="2" reward="4,0,20000" param="13" des="通关(13)关" next="37"/>
+	<taskChain id="37" name="熔炼装备" goType="6" eventType="6" updateType="1" reward="4,0,20000#2,1,10" param="1" des="熔炼装备" next="38"/>
+	<taskChain id="38" name="强化装备" goType="4" eventType="4" updateType="1" reward="4,0,20000" param="1" des="强化装备" next="39"/>
+	<taskChain id="39" name="通关(15)关" goType="2" eventType="2" updateType="2" reward="4,0,20000" param="15" des="通关(15)关" next="40"/>
+	<taskChain id="40" name="激活(霸业①)" goType="19" eventType="30" updateType="2" reward="4,0,30000#6,0,354" param="1" des="激活(霸业①)" next="41"/>
+	<taskChain id="41" name="等级提升到34" goType="0" eventType="3" updateType="2" reward="4,0,20000" param="25" des="等级提升到34" next="42"/>
+	<taskChain id="42" name="挑战【龙纹副本】" goType="9" eventType="17" updateType="1" reward="4,0,2000#2,12,10" param="1" des="挑战【龙纹副本】" next="43"/>
+	<taskChain id="43" name="提升龙纹等级" goType="32" eventType="37" updateType="1" reward="4,0,20000" param="1" des="提升龙纹等级" next="44"/>
+	<taskChain id="44" name="通关(16)关" goType="2" eventType="2" updateType="2" reward="4,0,20000" param="16" des="通关(16)关" next="45"/>
+	<taskChain id="45" name="熔炼装备" goType="6" eventType="6" updateType="1" reward="4,0,20000" param="1" des="熔炼装备" next="46"/>
+	<taskChain id="46" name="强化装备" goType="4" eventType="4" updateType="1" reward="4,0,20000" param="1" des="强化装备" next="47"/>
+	<taskChain id="47" name="通关(17)关" goType="2" eventType="2" updateType="2" reward="4,0,20000#6,0,543" param="17" des="通关(17)关" next="48"/>
+	<taskChain id="48" name="等级提升到36" goType="0" eventType="3" updateType="2" reward="4,0,20000" param="36" des="等级提升到36" next="49"/>
+	<taskChain id="49" name="挑战【羽翼副本】" goType="9" eventType="38" updateType="1" reward="4,0,20000#2,17,2" param="1" des="挑战【羽翼副本】" next="50"/>
+	<taskChain id="50" name="提升一次羽翼" goType="8" eventType="7" updateType="1" reward="4,0,20000" param="1" des="提升一次羽翼" next="51"/>
+	<taskChain id="51" name="通关(20)关" goType="2" eventType="2" updateType="2" reward="4,0,20000" param="20" des="通关(20)关" next="52"/>
+	<taskChain id="52" name="激活(霸业②)" goType="19" eventType="31" updateType="2" reward="4,0,30000" param="1" des="激活(霸业②)" next="53"/>
+	<taskChain id="53" name="参加一次野战" goType="17" eventType="22" updateType="1" reward="4,0,20000" param="1" des="参加一次野战" next="54"/>
+	<taskChain id="54" name="通关(24)关" goType="2" eventType="2" updateType="2" reward="4,0,20000" param="24" des="通关(24)关" next="55"/>
+	<taskChain id="55" name="等级提升到40" goType="0" eventType="3" updateType="2" reward="4,0,20000" param="40" des="等级提升到40" next="56"/>
+	<taskChain id="56" name="挑战【宝石副本】" goType="9" eventType="9" updateType="1" reward="2,9,10" param="1" des="挑战【宝石副本】" next="57"/>
+	<taskChain id="57" name="升级宝石" goType="10" eventType="10" updateType="2" reward="4,0,20000" param="1" des="升级宝石" next="58"/>
+	<taskChain id="58" name="通关(25)关" goType="2" eventType="2" updateType="2" reward="4,0,20000" param="25" des="通关(25)关" next="59"/>
+	<taskChain id="59" name="激活(霸业③)" goType="19" eventType="32" updateType="2" reward="4,0,300000" param="1" des="激活(霸业③)" next="60"/>
+	<taskChain id="60" name="通关(30)关" goType="2" eventType="2" updateType="2" reward="4,0,20000" param="30" des="通关(30)关" next="61"/>
+	<taskChain id="61" name="激活(霸业④)" goType="19" eventType="33" updateType="2" reward="4,0,30000" param="1" des="激活(霸业④)" next="62"/>
+	<taskChain id="62" name="激活【霸业宝印】" goType="19" eventType="34" updateType="2" reward="4,0,50000" param="1" des="激活【霸业宝印】" next="63"/>
+	<taskChain id="63" name="完成一次寻宝" goType="24" eventType="29" updateType="1" reward="4,0,20000" param="1" des="完成一次寻宝" next="64"/>
+	<taskChain id="64" name="等级提升到45" goType="2" eventType="3" updateType="2" reward="4,0,20000" param="45" des="等级提升到45" next="65"/>
+	<taskChain id="65" name="挑战【经脉副本】" goType="9" eventType="11" updateType="1" reward="2,16,10" param="1" des="挑战【经脉副本】" next="66"/>
+	<taskChain id="66" name="升级经脉" goType="12" eventType="12" updateType="1" reward="4,0,20000" param="1" des="升级经脉" next="67"/>
+	<taskChain id="67" name="等级提升到47" goType="2" eventType="3" updateType="2" reward="2,11,1" param="47" des="等级提升到47" next="68"/>
+	<taskChain id="68" name="培养一次神铸" goType="13" eventType="13" updateType="1" reward="4,0,20000" param="1" des="培养一次神铸" next="69"/>
+	<taskChain id="69" name="等级提升到50" goType="0" eventType="3" updateType="2" reward="4,0,20000" param="50" des="等级提升到50" next="70"/>
+	<taskChain id="70" name="挑战【成就副本】" goType="9" eventType="14" updateType="1" reward="4,0,20000" param="1" des="挑战【成就副本】" next="71"/>
+	<taskChain id="71" name="升级一次勋章" goType="15" eventType="15" updateType="1" reward="4,0,20000" param="1" des="升级一次勋章" next="72"/>
+	<taskChain id="72" name="55级挑战闯天关" goType="16" eventType="18" updateType="2" reward="4,0,20000" param="1" des="55级开启闯天关" next="73"/>
+	<taskChain id="73" name="挑战闯天关(3)" goType="16" eventType="18" updateType="2" reward="4,0,20000" param="3" des="通关闯天关3" next="74"/>
+	<taskChain id="74" name="通关闯天关(6)" goType="16" eventType="18" updateType="2" reward="4,0,20000" param="6" des="通关闯天关6" next="75"/>
+	<taskChain id="75" name="通关闯天关(12)" goType="16" eventType="18" updateType="2" reward="4,0,20000" param="12" des="通关闯天关12" next="76"/>
+	<taskChain id="76" name="获得两件合击符文" goType="39" eventType="53" updateType="2" reward="4,0,20000" param="2" des="获得两件合击符文" next="77"/>
+	<taskChain id="77" name="通关闯天关(18)" goType="16" eventType="18" updateType="2" reward="4,0,20000" param="18" des="通关闯天关18" next="78"/>
+	<taskChain id="78" name="通关闯天关(24)" goType="16" eventType="18" updateType="2" reward="4,0,20000" param="24" des="通关闯天关24" next="79"/>
+	<taskChain id="79" name="完成一次挖矿" goType="42" eventType="60" updateType="2" reward="4,0,20000" param="1" des="完成一次挖矿" next="80"/>
+	<taskChain id="80" name="通关闯天关(30)" goType="16" eventType="18" updateType="2" reward="4,0,20000" param="30" des="通关闯天关30" next="81"/>
+	<taskChain id="81" name="通关闯天关(40)" goType="16" eventType="18" updateType="2" reward="4,0,20000" param="40" des="通关闯天关40" next="82"/>
+	<taskChain id="82" name="通关闯天关(50)" goType="16" eventType="18" updateType="2" reward="4,0,20000" param="50" des="通关闯天关50" next="83"/>
+	<taskChain id="83" name="通关闯天关(60)" goType="16" eventType="18" updateType="2" reward="4,0,20000" param="60" des="通关闯天关60" next="84"/>
+	<taskChain id="84" name="通关闯天关(80)" goType="16" eventType="18" updateType="2" reward="4,0,20000" param="80" des="通关闯天关80" next="85"/>
+	<taskChain id="85" name="关卡通关(200)" goType="2" eventType="2" updateType="2" reward="4,0,20000" param="200" des="关卡通关200" next="-1"/>
+</tasks>

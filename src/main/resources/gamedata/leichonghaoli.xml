@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<logics>
+	<logic id="1" reward="5,0,600" day="1" title="累计充值1天奖励" content="恭喜您累计充值已达1天，为您献上丰厚返利！"/>
+	<logic id="2" reward="5,0,600" day="2" title="累计充值2天奖励" content="恭喜您累计充值已达2天，为您献上丰厚返利！"/>
+	<logic id="3" reward="5,0,600" day="3" title="累计充值3天奖励" content="恭喜您累计充值已达3天，为您献上丰厚返利！"/>
+	<logic id="4" reward="5,0,600" day="4" title="累计充值4天奖励" content="恭喜您累计充值已达4天，为您献上丰厚返利！"/>
+	<logic id="5" reward="5,0,600" day="5" title="累计充值5天奖励" content="恭喜您累计充值已达5天，为您献上丰厚返利！"/>
+	<logic id="6" reward="5,0,600" day="6" title="累计充值6天奖励" content="恭喜您累计充值已达6天，为您献上丰厚返利！"/>
+	<logic id="7" reward="5,0,2000#3,63,1" day="7" title="累计充值7天奖励" content="恭喜您累计充值已达7天，为您献上丰厚返利！"/>
+	<logic id="8" reward="5,0,600" day="8" title="累计充值8天奖励" content="恭喜您累计充值已达8天，为您献上丰厚返利！"/>
+	<logic id="9" reward="5,0,600" day="9" title="累计充值9天奖励" content="恭喜您累计充值已达9天，为您献上丰厚返利！"/>
+	<logic id="10" reward="5,0,600#3,63,1" day="10" title="累计充值10天奖励" content="恭喜您累计充值已达10天，为您献上丰厚返利！"/>
+	<logic id="11" reward="5,0,600" day="11" title="累计充值11天奖励" content="恭喜您累计充值已达11天，为您献上丰厚返利！"/>
+	<logic id="12" reward="5,0,600" day="12" title="累计充值12天奖励" content="恭喜您累计充值已达12天，为您献上丰厚返利！"/>
+	<logic id="13" reward="5,0,600" day="13" title="累计充值13天奖励" content="恭喜您累计充值已达13天，为您献上丰厚返利！"/>
+	<logic id="14" reward="5,0,4000" day="14" title="累计充值14天奖励" content="恭喜您累计充值已达14天，为您献上丰厚返利！"/>
+	<logic id="15" reward="5,0,800" day="15" title="累计充值15天奖励" content="恭喜您累计充值已达15天，为您献上丰厚返利！"/>
+	<logic id="16" reward="5,0,800" day="16" title="累计充值16天奖励" content="恭喜您累计充值已达16天，为您献上丰厚返利！"/>
+	<logic id="17" reward="5,0,800#3,64,1" day="17" title="累计充值17天奖励" content="恭喜您累计充值已达17天，为您献上丰厚返利！"/>
+	<logic id="18" reward="5,0,800" day="18" title="累计充值18天奖励" content="恭喜您累计充值已达18天，为您献上丰厚返利！"/>
+	<logic id="19" reward="5,0,800" day="19" title="累计充值19天奖励" content="恭喜您累计充值已达19天，为您献上丰厚返利！"/>
+	<logic id="20" reward="5,0,800" day="20" title="累计充值20天奖励" content="恭喜您累计充值已达20天，为您献上丰厚返利！"/>
+	<logic id="21" reward="5,0,8000" day="21" title="累计充值21天奖励" content="恭喜您累计充值已达21天，为您献上丰厚返利！"/>
+	<logic id="22" reward="5,0,800" day="22" title="累计充值22天奖励" content="恭喜您累计充值已达22天，为您献上丰厚返利！"/>
+	<logic id="23" reward="5,0,800" day="23" title="累计充值23天奖励" content="恭喜您累计充值已达23天，为您献上丰厚返利！"/>
+	<logic id="24" reward="5,0,800#3,5,1" day="24" title="累计充值24天奖励" content="恭喜您累计充值已达24天，为您献上丰厚返利！"/>
+	<logic id="25" reward="5,0,800" day="25" title="累计充值25天奖励" content="恭喜您累计充值已达25天，为您献上丰厚返利！"/>
+	<logic id="26" reward="5,0,800" day="26" title="累计充值26天奖励" content="恭喜您累计充值已达26天，为您献上丰厚返利！"/>
+	<logic id="27" reward="5,0,800" day="27" title="累计充值27天奖励" content="恭喜您累计充值已达27天，为您献上丰厚返利！"/>
+	<logic id="28" reward="5,0,14000" day="28" title="累计充值28天奖励" content="恭喜您累计充值已达28天，为您献上丰厚返利！"/>
+	<logic id="29" reward="5,0,880" day="29" title="累计充值29天奖励" content="恭喜您累计充值已达29天，为您献上丰厚返利！"/>
+	<logic id="30" reward="5,0,880" day="30" title="累计充值30天奖励" content="恭喜您累计充值已达30天，为您献上丰厚返利！"/>
+	<logic id="31" reward="5,0,880#2,24,1" day="31" title="累计充值31天奖励" content="恭喜您累计充值已达31天，为您献上丰厚返利！"/>
+	<logic id="32" reward="5,0,880" day="32" title="累计充值32天奖励" content="恭喜您累计充值已达32天，为您献上丰厚返利！"/>
+	<logic id="33" reward="5,0,880" day="33" title="累计充值33天奖励" content="恭喜您累计充值已达33天，为您献上丰厚返利！"/>
+	<logic id="34" reward="5,0,880" day="34" title="累计充值34天奖励" content="恭喜您累计充值已达34天，为您献上丰厚返利！"/>
+	<logic id="35" reward="5,0,20000" day="35" title="累计充值35天奖励" content="恭喜您累计充值已达35天，为您献上丰厚返利！"/>
+	<logic id="36" reward="5,0,880" day="36" title="累计充值36天奖励" content="恭喜您累计充值已达36天，为您献上丰厚返利！"/>
+	<logic id="37" reward="5,0,880" day="37" title="累计充值37天奖励" content="恭喜您累计充值已达37天，为您献上丰厚返利！"/>
+	<logic id="38" reward="5,0,880#2,8,10" day="38" title="累计充值38天奖励" content="恭喜您累计充值已达38天，为您献上丰厚返利！"/>
+	<logic id="39" reward="5,0,880" day="39" title="累计充值39天奖励" content="恭喜您累计充值已达39天，为您献上丰厚返利！"/>
+	<logic id="40" reward="5,0,880" day="40" title="累计充值40天奖励" content="恭喜您累计充值已达40天，为您献上丰厚返利！"/>
+	<logic id="41" reward="5,0,880" day="41" title="累计充值41天奖励" content="恭喜您累计充值已达41天，为您献上丰厚返利！"/>
+	<logic id="42" reward="5,0,26000" day="42" title="累计充值42天奖励" content="恭喜您累计充值已达42天，为您献上丰厚返利！"/>
+</logics>

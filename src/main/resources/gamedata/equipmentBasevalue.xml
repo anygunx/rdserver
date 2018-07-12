@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<equipmentBasevalue>
+	<equipmentBasevalue lv="1" attack="50" Def="25" hp="500"/>
+	<equipmentBasevalue lv="10" attack="80" Def="40" hp="800"/>
+	<equipmentBasevalue lv="20" attack="120" Def="60" hp="1200"/>
+	<equipmentBasevalue lv="30" attack="170" Def="85" hp="1700"/>
+	<equipmentBasevalue lv="40" attack="220" Def="110" hp="2200"/>
+	<equipmentBasevalue lv="50" attack="270" Def="135" hp="2700"/>
+	<equipmentBasevalue lv="60" attack="320" Def="160" hp="3200"/>
+	<equipmentBasevalue lv="70" attack="370" Def="185" hp="3700"/>
+	<equipmentBasevalue lv="80" attack="420" Def="210" hp="4200"/>
+	<equipmentBasevalue lv="90" attack="470" Def="235" hp="4700"/>
+	<equipmentBasevalue lv="100" attack="520" Def="260" hp="5200"/>
+	<equipmentBasevalue lv="110" attack="570" Def="285" hp="5700"/>
+	<equipmentBasevalue lv="120" attack="620" Def="310" hp="6200"/>
+	<equipmentBasevalue lv="130" attack="670" Def="335" hp="6700"/>
+	<equipmentBasevalue lv="140" attack="720" Def="360" hp="7200"/>
+	<equipmentBasevalue lv="150" attack="770" Def="385" hp="7700"/>
+	<equipmentBasevalue lv="160" attack="820" Def="410" hp="8200"/>
+	<equipmentBasevalue lv="170" attack="870" Def="435" hp="8700"/>
+	<equipmentBasevalue lv="180" attack="920" Def="460" hp="9200"/>
+	<equipmentBasevalue lv="190" attack="970" Def="485" hp="9700"/>
+	<equipmentBasevalue lv="200" attack="1020" Def="510" hp="10200"/>
+</equipmentBasevalue>

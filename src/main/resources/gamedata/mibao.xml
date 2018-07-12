@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<list>
+	<logic id="1" type="1" diaoluo="8" reward="32,2,1" yuanjia="140000" price="5,0,84000"/>
+	<logic id="2" type="1" diaoluo="8" reward="34,6,1" yuanjia="40000" price="5,0,24000"/>
+	<logic id="3" type="1" diaoluo="8" reward="3,89,1" yuanjia="30000" price="5,0,18000"/>
+	<logic id="4" type="1" diaoluo="8" reward="3,5,1" yuanjia="20000" price="5,0,12000"/>
+	<logic id="5" type="1" diaoluo="8" reward="2,14,10" yuanjia="10000" price="5,0,7000"/>
+	<logic id="6" type="1" diaoluo="8" reward="34,4,1" yuanjia="24000" price="5,0,14400"/>
+	<logic id="7" type="1" diaoluo="13" reward="3,4,2" yuanjia="5000" price="5,0,3000"/>
+	<logic id="8" type="1" diaoluo="13" reward="2,9,200" yuanjia="20000" price="5,0,8000"/>
+	<logic id="9" type="1" diaoluo="13" reward="3,1,10" yuanjia="10000" price="5,0,4000"/>
+	<logic id="10" type="1" diaoluo="13" reward="3,162,2" yuanjia="10000" price="5,0,4000"/>
+	<logic id="11" type="2" diaoluo="9" reward="32,7,1" yuanjia="140000" price="5,0,84000"/>
+	<logic id="12" type="2" diaoluo="9" reward="34,26,1" yuanjia="40000" price="5,0,24000"/>
+	<logic id="13" type="2" diaoluo="10" reward="34,8,1" yuanjia="88000" price="5,0,52800"/>
+	<logic id="14" type="2" diaoluo="10" reward="3,88,1" yuanjia="10000" price="5,0,6000"/>
+	<logic id="15" type="2" diaoluo="10" reward="3,154,1" yuanjia="68000" price="5,0,47600"/>
+	<logic id="16" type="2" diaoluo="13" reward="3,163,2" yuanjia="10000" price="5,0,4000"/>
+	<logic id="17" type="2" diaoluo="13" reward="2,17,200" yuanjia="10000" price="5,0,4000"/>
+	<logic id="18" type="2" diaoluo="13" reward="3,95,1" yuanjia="10000" price="5,0,4000"/>
+	<logic id="19" type="2" diaoluo="13" reward="2,16,200" yuanjia="20000" price="5,0,8000"/>
+	<logic id="20" type="3" diaoluo="9" reward="32,12,1" yuanjia="140000" price="5,0,84000"/>
+	<logic id="21" type="3" diaoluo="9" reward="34,7,1" yuanjia="52000" price="5,0,31200"/>
+	<logic id="22" type="3" diaoluo="10" reward="34,28,1" yuanjia="88000" price="5,0,52800"/>
+	<logic id="23" type="3" diaoluo="10" reward="2,15,10" yuanjia="10000" price="5,0,7000"/>
+	<logic id="24" type="3" diaoluo="10" reward="34,5,1" yuanjia="32000" price="5,0,19200"/>
+	<logic id="25" type="3" diaoluo="13" reward="2,12,200" yuanjia="10000" price="5,0,4000"/>
+	<logic id="26" type="3" diaoluo="13" reward="2,13,200" yuanjia="10000" price="5,0,4000"/>
+	<logic id="27" type="3" diaoluo="13" reward="2,9,500" yuanjia="50000" price="5,0,20000"/>
+	<logic id="28" type="3" diaoluo="13" reward="2,17,500" yuanjia="25000" price="5,0,10000"/>
+	<logic id="29" type="4" diaoluo="7" reward="32,17,1" yuanjia="140000" price="5,0,84000"/>
+	<logic id="30" type="4" diaoluo="8" reward="34,27,1" yuanjia="52000" price="5,0,31200"/>
+	<logic id="31" type="4" diaoluo="10" reward="3,2,2" yuanjia="20000" price="5,0,8000"/>
+	<logic id="32" type="4" diaoluo="10" reward="2,11,2" yuanjia="12000" price="5,0,7200"/>
+	<logic id="33" type="4" diaoluo="10" reward="34,25,1" yuanjia="32000" price="5,0,19200"/>
+	<logic id="34" type="4" diaoluo="10" reward="34,24,1" yuanjia="24000" price="5,0,14400"/>
+	<logic id="35" type="4" diaoluo="15" reward="2,16,500" yuanjia="50000" price="5,0,20000"/>
+	<logic id="36" type="4" diaoluo="15" reward="2,12,500" yuanjia="25000" price="5,0,10000"/>
+	<logic id="37" type="4" diaoluo="15" reward="2,13,500" yuanjia="25000" price="5,0,10000"/>
+</list>

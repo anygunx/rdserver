@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<list>
+    <data id="1" score="3000" reward="3,46,2" desc="打开可随机获得：宝石碎片，龙鳞碎片*2，龙纹碎片*2，经脉丹"/>
+    <data id="2" score="7000" reward="3,46,4" desc="打开可随机获得：宝石碎片，龙鳞碎片*2，龙纹碎片*2，经脉丹"/>
+    <data id="3" score="12000" reward="3,47,1" desc="打开可随机获得：宝石碎片*5，龙鳞碎片*10，龙纹碎片*10，经脉丹*5，羽毛*10，麻痹碎片"/>
+</list>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<auction>
+    <!-- gangTax:帮派拍卖税率 logCapacity:日志容量 reward:拍卖物品 basePrice:起拍价 fixedPrice:一口价 addPrice:涨幅 keepTime:上架时间(s) subscribe:订阅标识 0:默认不订阅 1:可订阅-->
+    <gangTax>0.08</gangTax>
+    <worldTax>0.15</worldTax>
+    <logCapacity>30</logCapacity>
+    <item reward="2,1,10" basePrice="50" addPrice="10" fixedPrice="100" keepTime="3600" subscribe="0"/>
+    <item reward="2,10,1" basePrice="50" addPrice="10" fixedPrice="100" keepTime="3600" subscribe="1"/>
+</auction>

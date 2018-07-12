@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<logics>
+	<logic id="1" rewards="4,0,100#3,2,5#2,7,1#3,86,5"/>
+	<logic id="2" rewards="4,0,100#3,2,5#2,8,1#3,86,5"/>
+	<logic id="3" rewards="4,0,100#3,2,5#2,9,1#3,86,5"/>
+	<logic id="4" rewards="4,0,100#3,2,5#2,10,1#3,86,5"/>
+	<logic id="5" rewards="4,0,100#3,2,5#2,11,1#3,86,5"/>
+	<logic id="6" rewards="4,0,100#3,2,5#2,7,1#3,86,5"/>
+	<logic id="7" rewards="4,0,100#3,2,5#2,8,1#3,86,5"/>
+	<logic id="8" rewards="4,0,100#3,2,5#2,9,1#3,86,5"/>
+	<logic id="9" rewards="4,0,100#3,2,5#2,10,1#3,86,5"/>
+	<logic id="10" rewards="4,0,100#3,2,5#2,11,1#3,86,5"/>
+</logics>

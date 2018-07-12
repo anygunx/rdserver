@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<suitss>
+	<suits id="1" name="神羽大师1级" lv="1" limit="1" add="500" des="全部神羽1阶可激活"/>
+	<suits id="2" name="神羽大师2级" lv="2" limit="2" add="600" des="全部神羽2阶可激活"/>
+	<suits id="3" name="神羽大师3级" lv="3" limit="3" add="650" des="全部神羽3阶可激活"/>
+	<suits id="4" name="神羽大师4级" lv="4" limit="4" add="700" des="全部神羽4阶可激活"/>
+	<suits id="5" name="神羽大师5级" lv="5" limit="5" add="800" des="全部神羽5阶可激活"/>
+</suitss>

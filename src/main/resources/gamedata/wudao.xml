@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<logics>
+
+    <logic id="1" oneKeyCount="10" cost="" costOneKey="" money="4,0,260" moneyOneKey="4,0,2400" points="0" pointsOneKey="0" gainId="26" maxPinzhi="3"/>
+    <logic id="2" oneKeyCount="10" cost="" costOneKey="" money="17,0,20000" moneyOneKey="17,0,200000" points="0" pointsOneKey="0" gainId="27" maxPinzhi="2"/>
+
+</logics>

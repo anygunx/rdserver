@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<something-else-entirely>
+    <proxool>
+        <alias>round</alias>
+        <driver-url>
+            jdbc:mysql://192.168.0.200:3306/round_1001?useUnicode=true&amp;characterEncoding=utf-8
+            <!-- jdbc:mysql://140.143.189.112:3306/legend_20021?useUnicode=true&amp;characterEncoding=utf-8-->
+            <!-- jdbc:mysql://120.92.91.81:3306/peach_10139?useUnicode=true&amp;characterEncoding=utf-8 -->
+        </driver-url>
+        <driver-class>com.mysql.jdbc.Driver</driver-class>
+        <driver-properties>
+            <property name="user" value="root"/>
+            <property name="password" value="mysql@)!^locpass"/>
+            <!--	<property name="user" value="mt" />  -->
+            <!--	<property name="password" value="YhMy2017#Super1023" />    -->
+        </driver-properties>
+        <house-keeping-sleep-time>120000</house-keeping-sleep-time>
+        <prototype-count>5</prototype-count>
+        <maximum-connection-count>100</maximum-connection-count>
+        <minimum-connection-count>20</minimum-connection-count>
+        <simultaneous-build-throttle>10</simultaneous-build-throttle>
+        <maximum-active-time>300000</maximum-active-time>
+        <maximum-connection-lifetime>3600000</maximum-connection-lifetime>
+        <test-before-use>true</test-before-use>
+        <house-keeping-test-sql>select CURRENT_DATE</house-keeping-test-sql>
+    </proxool>
+</something-else-entirely>
+

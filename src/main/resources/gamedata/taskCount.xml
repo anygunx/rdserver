@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<taskCounts>
+	<taskCount id="1" taskLimitid="11,12,13,14,15,16,17,18" suitsid="1" time="129600"/>
+	<taskCount id="2" taskLimitid="21,22,23,24,25,26,27,28" suitsid="2" time="216000"/>
+	<taskCount id="3" taskLimitid="31,32,33,34,35,36,37,38" suitsid="3" time="345600"/>
+</taskCounts>

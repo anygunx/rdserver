@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<logics>
+	<logic id="1" round="0" type="8" mubiaoCount="4" mubiao1="100" reward1="2,52,10" mubiao2="500" reward2="2,52,30" mubiao3="1000" reward3="2,52,60" mubiao4="2000" reward4="2,53,1" paihangreward="11"/>
+</logics>

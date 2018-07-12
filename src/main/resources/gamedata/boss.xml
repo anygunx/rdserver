@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--rewardWin rewardLose-->
+<bosss>
+	<boss id="0" limitLevel="90" startTime="21:00" endTime="21:10" durationTime="600" fightCD="20" modelId="13" map="10006" rewardWin="1" rewardLose="1" yulan="2,2,1#2,7,1#2,8,1"/>
+	<boss id="1" limitLevel="110" startTime="21:00" endTime="21:10" durationTime="600" fightCD="20" modelId="14" map="10006" rewardWin="2" rewardLose="2" yulan="2,3,1#2,7,1#2,8,1"/>
+	<boss id="2" limitLevel="130" startTime="21:00" endTime="21:10" durationTime="600" fightCD="20" modelId="15" map="10006" rewardWin="3" rewardLose="3" yulan="2,4,1#2,7,1#2,8,1"/>
+	<boss id="3" limitLevel="150" startTime="21:00" endTime="21:10" durationTime="600" fightCD="20" modelId="16" map="10006" rewardWin="4" rewardLose="4" yulan="2,5,1#2,7,1#2,8,1"/>
+</bosss>

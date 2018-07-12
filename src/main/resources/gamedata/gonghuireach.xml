@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<biqiscores>
+	<biqiscore score="50" reward="2,1,60"/>
+	<biqiscore score="100" reward="2,1,60"/>
+	<biqiscore score="200" reward="2,1,60"/>
+	<biqiscore score="300" reward="2,1,60"/>
+	<biqiscore score="400" reward="2,1,60"/>
+	<biqiscore score="500" reward="2,1,60"/>
+</biqiscores>

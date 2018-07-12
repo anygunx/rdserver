@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<zhulings>
+	<zhuling level="1" next="10" hecheng="2"/>
+	<zhuling level="10" next="20" hecheng="6"/>
+	<zhuling level="20" next="30" hecheng="12"/>
+	<zhuling level="30" next="40" hecheng="20"/>
+	<zhuling level="40" next="50" hecheng="30"/>
+	<zhuling level="50" next="60" hecheng="65"/>
+	<zhuling level="60" next="70" hecheng="100"/>
+	<zhuling level="70" next="80" hecheng="160"/>
+	<zhuling level="80" next="90" hecheng="260"/>
+	<zhuling level="90" next="100" hecheng="460"/>
+	<zhuling level="100" next="110" hecheng="910"/>
+	<zhuling level="110" next="120" hecheng="1660"/>
+	<zhuling level="120" next="130" hecheng="2560"/>
+	<zhuling level="130" next="140" hecheng="4060"/>
+	<zhuling level="140" next="150" hecheng="5860"/>
+	<zhuling level="150" next="160" hecheng="7860"/>
+	<zhuling level="160" next="170" hecheng="11260"/>
+	<zhuling level="170" next="180" hecheng="15060"/>
+	<zhuling level="180" next="190" hecheng="19260"/>
+	<zhuling level="190" next="200" hecheng="24260"/>
+	<zhuling level="200" next="0" hecheng="30260"/>
+</zhulings>

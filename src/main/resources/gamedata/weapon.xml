@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<zhulings>
+	<zhuling id="1" name="黄金宝剑" zhiye="0" waixing1="10" cost="2,920,1" time="432100" hp="2730" attack="546" phyDef="273" magicDef="273" hit="0" dodge="0" crit="0" duct="0" block="0" counter="0"/>
+	<zhuling id="2" name="祖绿利刃" zhiye="0" waixing1="11" cost="2,921,1" time="432100" hp="2730" attack="546" phyDef="273" magicDef="273" hit="0" dodge="0" crit="0" duct="0" block="0" counter="0"/>
+	<zhuling id="3" name="寒灵战刃" zhiye="0" waixing1="12" cost="2,922,1" time="432100" hp="2730" attack="546" phyDef="273" magicDef="273" hit="0" dodge="0" crit="0" duct="0" block="0" counter="0"/>
+	<zhuling id="4" name="天尊圣剑" zhiye="2" waixing1="10" cost="2,923,1" time="432100" hp="2730" attack="546" phyDef="273" magicDef="273" hit="0" dodge="0" crit="0" duct="0" block="0" counter="0"/>
+	<zhuling id="5" name="幽灵魔剑" zhiye="2" waixing1="11" cost="2,924,1" time="432100" hp="2730" attack="546" phyDef="273" magicDef="273" hit="0" dodge="0" crit="0" duct="0" block="0" counter="0"/>
+	<zhuling id="6" name="烈阳法杖" zhiye="1" waixing1="10" cost="2,925,1" time="432100" hp="2730" attack="546" phyDef="273" magicDef="273" hit="0" dodge="0" crit="0" duct="0" block="0" counter="0"/>
+	<!--zhuling id="4" name="翡翠三刃剑" zhiye="0" waixing1="8" cost="2,44,1" time="604800" hp="32760" attack="6552" phyDef="3278" magicDef="3278" hit="0" dodge="0" crit="0" duct="0" block="0" counter="0"/-->
+	<!--zhuling id="5" name="紫焰魔扇" zhiye="1" waixing1="8" cost="2,45,1" time="604800" hp="32760" attack="6552" phyDef="3278" magicDef="3278" hit="0" dodge="0" crit="0" duct="0" block="0" counter="0"/-->
+	<!--zhuling id="6" name="火莲神锏" zhiye="2" waixing1="8" cost="2,46,1" time="604800" hp="32760" attack="6552" phyDef="3278" magicDef="3278" hit="0" dodge="0" crit="0" duct="0" block="0" counter="0"/-->
+</zhulings>

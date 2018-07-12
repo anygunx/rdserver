@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<logics>
+	<logic days="1" reward="3,125,1"/>
+	<logic days="2" reward="3,126,1"/>
+	<logic days="3" reward="3,127,1"/>
+</logics>

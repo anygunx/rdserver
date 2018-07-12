@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<zhulings>
+	<zhuling id="1" name="传奇再临" tasktalk="玛法大陆的神奇已经展开，去战斗吧！我们的勇士！" eventType="1" updateType="2" reward="0,1,0#0,127,0#0,253,0#6,0,130#4,0,20000" param="0" monster="0" des="0" desOver="拜访新手引导员" next="2" nextNPC="1"/>
+	<zhuling id="2" name="小试牛刀" tasktalk="勇士！村外的野鹿伤害了我们的孩子，请消灭他们" eventType="2" updateType="1" reward="0,2,0#0,128,0#0,254,0#6,0,230#4,0,20000" param="1" monster="25000" des="击杀鸡" desOver="回复小韵" next="3" nextNPC="2"/>
+	<zhuling id="3" name="乐善好施" tasktalk="神龙营是大陆上最强势力之一，他们正在打开通往外界的道路" eventType="2" updateType="1" reward="6,0,330#4,0,20000" param="1" monster="25001" des="击杀鹿" desOver="回复华大叔" next="4" nextNPC="3"/>
+	<zhuling id="4" name="探查洞穴" tasktalk="勇士！路上被骷髅大军占领，清除他们，您就可以离开了！" eventType="1" updateType="2" reward="0,5,0#0,131,0#0,257,0#6,0,435#4,0,20000" param="0" monster="0" des="0" desOver="拜访神龙营卫兵" next="5" nextNPC="4"/>
+	<zhuling id="5" name="继续前行" tasktalk="求求你，救救我！这里有好多骷髅怪，好危险！" eventType="2" updateType="1" reward="6,0,555#4,0,20000" param="2" monster="25002" des="击杀骷髅战士" desOver="回复张铁柱" next="6" nextNPC="5"/>
+	<zhuling id="6" name="大战在即" tasktalk="击杀骷髅精灵，通往外界的路就会打开！您将正式开启传奇生涯！。" eventType="2" updateType="1" reward="0,9,0#0,135,0#0,261,0#6,0,425#4,0,20000" param="2" monster="25003" des="击杀骷髅战将" desOver="准备离开" next="7" nextNPC="4"/>
+	<zhuling id="7" name="天选之子" tasktalk="外界的路已经打开！去寻找属于您的荣耀！传奇之路为您打开！" eventType="3" updateType="1" reward="6,0,555#4,0,20000" param="1" monster="25004" des="击杀骷髅精灵" desOver="准备离开" next="8" nextNPC="4"/>
+	<zhuling id="8" name="天选之子" tasktalk="外界的路已经打开！去寻找属于您的荣耀！传奇之路为您打开！" eventType="1" updateType="2" reward="6,0,1000#4,0,20000" param="0" monster="0" des="0" desOver="准备离开" next="9" nextNPC="4"/>
+	<!--
+	<zhuling id="9" name="初临比奇" tasktalk="哎呦，客观，看你风尘仆仆的，一定是从远方来的，本店有上等的酒菜，品尝一下？" eventType="1" updateType="2" reward="0,8,1#0,134,1#0,260,1#6,0,925#4,0,20000" param="0" monster="0" des="0" desOver="拜访酒庄老板娘" next="10" nextNPC="8"/>
+	<zhuling id="10" name="路遇屠夫" tasktalk="我们家能带带经营这个肉铺，全部仰仗城主的守卫，城主是比奇城最伟大的人。" eventType="1" updateType="2" reward="6,0,1050#4,0,20000" param="0" monster="0" des="0" desOver="拜访屠夫阿林" next="11" nextNPC="9"/>
+	<zhuling id="11" name="膜拜城主" tasktalk="一个人守护一座城，一群人仰慕一个人。" eventType="1" updateType="2" reward="0,12,1#0,138,1#0,264,1#6,0,275#4,0,20000" param="0" monster="0" des="0" desOver="拜访城主守卫" next="12" nextNPC="10"/>
+	<zhuling id="12" name="前程往事" tasktalk="准备好了吗？年轻人，请擦亮你的武器，准备接受试练吧。" eventType="1" updateType="2" reward="6,0,300#4,0,20000" param="0" monster="0" des="0" desOver="拜访耶律将军" next="0" nextNPC="11"/>
+	-->
+</zhulings>

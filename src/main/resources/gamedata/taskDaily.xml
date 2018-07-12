@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<taskDailys>
+	<taskDaily id="1" goType="1" eventType="2" count="5" score="5" name="通关关卡"/>
+	<taskDaily id="2" goType="22" eventType="10" count="5" score="2" name="个人BOSS"/>
+	<taskDaily id="3" goType="31" eventType="27" count="16" score="5" name="材料副本"/>
+	<taskDaily id="4" goType="32" eventType="9" count="3" score="5" name="诛仙台"/>
+	<taskDaily id="5" goType="23" eventType="16" count="10" score="2" name="全民BOSS"/>
+	<taskDaily id="6" goType="50" eventType="17" count="25" score="2" name="遭遇战"/>
+	<taskDaily id="7" goType="38" eventType="7" count="1" score="2" name="每日熔炼"/>
+</taskDailys>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<shengwenjts>
+	<shengwenjt id="1" name="圣纹精通1级" level="1" limit="1" add="500" des="全部圣纹1阶可激活"/>
+	<shengwenjt id="2" name="圣纹精通2级" level="2" limit="2" add="600" des="全部圣纹2阶可激活"/>
+	<shengwenjt id="3" name="圣纹精通3级" level="3" limit="3" add="650" des="全部圣纹3阶可激活"/>
+	<shengwenjt id="4" name="圣纹精通4级" level="4" limit="4" add="700" des="全部圣纹4阶可激活"/>
+	<shengwenjt id="5" name="圣纹精通5级" level="5" limit="5" add="750" des="全部圣纹5阶可激活"/>
+	<shengwenjt id="6" name="圣纹精通5级" level="6" limit="6" add="800" des="全部圣纹6阶可激活"/>
+	<shengwenjt id="7" name="圣纹精通5级" level="7" limit="6" add="850" des="全部圣纹7阶可激活"/>
+	<shengwenjt id="8" name="圣纹精通5级" level="8" limit="7" add="900" des="全部圣纹8阶可激活"/>
+</shengwenjts>

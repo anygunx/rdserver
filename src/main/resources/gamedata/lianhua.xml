@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<zhuhuns>
+	<zhuhun type="0" level="1" consume="2,11,1" attack="3920"/>
+	<zhuhun type="1" level="1" consume="2,11,1" attack="1960" phyDef="3500"/>
+	<zhuhun type="2" level="1" consume="2,11,1" attack="1960" phyDef="3500"/>
+	<zhuhun type="3" level="1" consume="2,11,1" hp="23800" attack="1120"/>
+	<zhuhun type="4" level="1" consume="2,11,1" attack="1680" magicDef="3500"/>
+	<zhuhun type="5" level="1" consume="2,11,1" hp="23100" attack="840"/>
+</zhuhuns>

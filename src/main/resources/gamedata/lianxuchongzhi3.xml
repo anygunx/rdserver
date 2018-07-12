@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<logics>
+	<logic id="1" round="0" rmb="88" reward="3,4,1#2,10,10#2,12,10#2,16,10" title="连充返利1天奖励" content="恭喜您连续充值已达1天，强力灵髓助力成长！"/>
+	<logic id="2" round="0" rmb="88" reward="3,2,3#2,10,20#2,12,20#2,16,20" title="连充返利2天奖励" content="恭喜您连续充值已达2天，麻痹碎片助力成长！"/>
+	<logic id="3" round="0" rmb="88" reward="3,5,2#2,10,30#2,12,30#2,16,30" title="连充返利3天奖励" content="恭喜您连续充值已达3天，护身碎片助力成长！"/>
+	<logic id="4" round="0" rmb="88" reward="3,2,4#2,10,40#2,12,40#2,16,40" title="连充返利4天奖励" content="恭喜您连续充值已达3天，镇魂装备助力成长！"/>
+	<logic id="5" round="0" rmb="88" reward="34,48,3#2,10,50#2,12,50#2,16,50" title="连充返利5天奖励" content="恭喜您连续充值已达3天，镇魂装备助力成长！"/>
+	<logic id="6" round="0" rmb="88" reward="34,28,2#2,10,60#2,12,60#2,16,60" title="连充返利6天奖励" content="恭喜您连续充值已达3天，镇魂装备助力成长！"/>
+</logics>

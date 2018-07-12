@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xinfahc>
+	<logic id="1" round="0" cost="2,95,260#2,96,180#2,97,120" reward="3,177,1" cishu="99999"/>
+	<logic id="2" round="0" cost="2,95,130#2,96,90#2,97,60" reward="3,89,1" cishu="99999"/>
+	<logic id="3" round="0" cost="2,95,40#2,96,30#2,97,10" reward="3,88,1" cishu="99999"/>
+	<logic id="4" round="0" cost="2,95,20#2,96,10" reward="2,98,1" cishu="99999"/>
+	<logic id="5" round="0" cost="2,95,10#2,96,5" reward="3,156,1" cishu="99999"/>
+	<logic id="6" round="0" cost="2,95,10#2,96,5" reward="3,157,1" cishu="99999"/>
+	<logic id="7" round="0" cost="2,95,10" reward="3,176,1" cishu="99999"/>
+</xinfahc>

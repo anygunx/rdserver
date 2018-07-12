@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xinfahc>
+	<xinfahc id="1" cishu="5" reward="3,96,1"/>
+	<xinfahc id="2" cishu="10" reward="3,97,1"/>
+	<xinfahc id="3" cishu="15" reward="3,98,1"/>
+	<xinfahc id="4" cishu="20" reward="3,99,1"/>
+	<xinfahc id="5" cishu="30" reward="3,100,1"/>
+	<xinfahc id="6" cishu="40" reward="3,101,1"/>
+	<xinfahc id="7" cishu="50" reward="3,102,1"/>
+	<xinfahc id="8" cishu="75" reward="3,103,1"/>
+	<xinfahc id="9" cishu="100" reward="3,104,1"/>
+	<xinfahc id="10" cishu="150" reward="3,105,1"/>
+	<xinfahc id="11" cishu="200" reward="3,106,1"/>
+	<xinfahc id="12" cishu="250" reward="3,107,1"/>
+	<xinfahc id="13" cishu="300" reward="3,108,1"/>
+	<xinfahc id="14" cishu="400" reward="3,109,1"/>
+	<xinfahc id="15" cishu="500" reward="3,110,1"/>
+</xinfahc>

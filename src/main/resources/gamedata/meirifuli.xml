@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<baibeifanli>
+	<baibeifanli id="1" price="1" rewards="15,7,1#2,17,2#2,1,50#2,13,5#2,9,5" loop="0" title="每日福利10元宝首充" content="恭喜您获得每日首充奖励，请查收"/>
+	<baibeifanli id="2" price="10" rewards="2,26,1#0,37,1,4#0,163,1,4#0,289,1,4#2,17,10#2,16,20#2,12,10#2,9,10" loop="0" title="每日福利99元宝首充" content="恭喜您获得每日首充奖励，请查收"/>
+	<baibeifanli id="3" price="1" rewards="5,0,50#4,0,300000#2,1,50" loop="1" title="每日福利10元宝首充" content="恭喜您获得每日首充奖励，请查收"/>
+	<baibeifanli id="4" price="10" rewards="3,1,2#2,16,10#2,12,10#2,13,10#2,17,10#2,1,50#4,0,500000" loop="1" title="每日福利99元宝首充" content="恭喜您获得每日首充奖励，请查收"/>
+</baibeifanli>

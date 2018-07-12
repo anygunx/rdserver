@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<monsterboxs>
+	<monsterbox id="1" score="800" reward="2,67,150" desc="打开可获得：灵魄石*150"/>
+	<monsterbox id="2" score="1500" reward="2,68,160" desc="打开可获得：曲幽玉*160"/>
+	<monsterbox id="3" score="2500" reward="2,67,250" desc="打开可获得：灵魄石*250"/>
+	<monsterbox id="4" score="5000" reward="2,68,280" desc="打开可获得：曲幽玉*280"/>
+	<monsterbox id="5" score="8000" reward="2,69,400" desc="打开可获得：海心铁*400"/>
+	<monsterbox id="6" score="10000" reward="2,70,400" desc="打开可获得：星陨核*400"/>
+</monsterboxs>

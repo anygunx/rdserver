@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<functionLv>
+<!--
+	<functionLv id="1" level="20" guanqia="5" days="0" icon="A" desc="转生" functionType="1" goType="3"/>
+	<functionLv id="1" level="80" guanqia="0" days="0" icon="func_mount" desc="转生" functionType="1" goType="3"/>
+	<functionLv id="2" level="30" guanqia="0" days="0" icon="func_shenbing" desc="经脉" functionType="1" goType="4"/>
+	<functionLv id="3" level="40" guanqia="0" days="0" icon="func_shenzhuang" desc="羽翼" functionType="1" goType="5"/>
+	<functionLv id="4" level="20" guanqia="0" days="0" icon="func_wing" desc="橙装" functionType="1" goType="6"/>
+	<functionLv id="5" level="20" guanqia="0" days="0" icon="func_fabao" desc="历劫" functionType="1" goType="21"/>
+	<functionLv id="6" level="40" guanqia="20" days="0" icon="cailiaodup_tab_png" desc="遭遇战" functionType="2" goType="50"/>
+	<functionLv id="7" level="10" guanqia="0" days="0" icon="enhance_intensify_png" desc="副本" functionType="2" goType="30"/>
+	<functionLv id="8" level="25" guanqia="0" days="0" icon="challengedup_tab_png" desc="宝石副本" functionType="2" goType="31"/>
+	<functionLv id="9" level="30" guanqia="0" days="0" icon="mainview_btn_explore_png" desc="经脉副本" functionType="2" goType="31"/>
+	<functionLv id="10" level="35" guanqia="0" days="0" desc="龙鳞副本" functionType="0" goType="31"/>
+	<functionLv id="11" level="35" guanqia="0" days="0" icon="mainview_btn_battle_png" desc="龙纹副本" functionType="2" goType="31"/>
+	<functionLv id="12" level="55" guanqia="0" days="0" icon="mainview_btn_psych_png" desc="闯天关" functionType="2" goType="32"/>
+	<functionLv id="14" level="90" guanqia="0" days="0" icon="juese_tab_chengzhuang_png" desc="上古1" functionType="2" goType="12"/>
+	<functionLv id="15" level="110" guanqia="0" days="0" icon="xuezhandup_tab_png" desc="上古2" functionType="2" goType="13"/>
+	<functionLv id="16" level="130" guanqia="0" days="0" desc="上古3" functionType="0" goType="14"/>
+	<functionLv id="17" level="150" guanqia="0" days="0" desc="上古4" functionType="0" goType="15"/>
+	<functionLv id="18" level="80" guanqia="0" days="0" icon="expdup_tab_png" desc="天梯" functionType="2" goType="51"/>
+	<functionLv id="19" level="65" guanqia="0" days="0" desc="运镖" functionType="0" goType="54"/>
+	<functionLv id="20" level="60" guanqia="0" days="0" desc="帮会" functionType="0" goType="0"/>
+	<functionLv id="21" level="0" guanqia="0" days="0" desc="淬炼" functionType="0" goType="57"/>
+	<functionLv id="22" level="25" guanqia="0" days="0" desc="成就副本" functionType="1" goType="58"/>
+-->	
+	<functionLv id="1"  level="0"  guanqia="3"  days="0" icon="0" desc="关卡神器" functionType="1" goType="19"/>
+	<functionLv id="2"  level="0"  guanqia="20" days="0" icon="0" desc="野战"     functionType="1" goType="17"/>
+	<functionLv id="3"  level="0"  guanqia="30" days="0" icon="0" desc="注灵"     functionType="1" goType="28"/>
+	<functionLv id="4"  level="15"  guanqia="0"  days="0" icon="0" desc="龙珠"     functionType="1" goType="14"/>
+	<functionLv id="5"  level="15"  guanqia="0"  days="0" icon="0" desc="每日任务" functionType="1" goType="30"/>
+	<functionLv id="6"  level="20"  guanqia="0"  days="0" icon="0" desc="个人BOSS" functionType="1" goType="7"/>
+	<functionLv id="7"  level="32"  guanqia="0"  days="0" icon="0" desc="龙鳞"     functionType="1" goType="31"/>
+	<functionLv id="8"  level="32"  guanqia="0"  days="0" icon="0" desc="龙鳞副本" functionType="1" goType="9"/>
+	<functionLv id="9"  level="34"  guanqia="0"  days="0" icon="0" desc="龙纹"     functionType="1" goType="32"/>
+	<functionLv id="10" level="34"  guanqia="0"  days="0" icon="0" desc="龙纹副本" functionType="1" goType="9"/>
+	<functionLv id="11" level="30"  guanqia="0"  days="0" icon="0" desc="全民BOSS" functionType="1" goType="11"/>
+	<functionLv id="12" level="36"  guanqia="0"  days="0" icon="0" desc="羽翼"     functionType="1" goType="33"/>
+	<functionLv id="13" level="36"  guanqia="30"  days="0" icon="0" desc="羽翼副本" functionType="1" goType="9"/>
+	<functionLv id="14" level="40"  guanqia="0"  days="0" icon="0" desc="宝石"     functionType="1" goType="10"/>
+	<functionLv id="15" level="40"  guanqia="0"  days="0" icon="0" desc="宝石副本" functionType="1" goType="9"/>
+	<functionLv id="16" level="45"  guanqia="0"  days="0" icon="0" desc="经脉"     functionType="1" goType="12"/>
+	<functionLv id="17" level="45"  guanqia="0"  days="0" icon="0" desc="经脉副本" functionType="1" goType="9"/>
+	<functionLv id="18" level="47"  guanqia="0"  days="0" icon="0" desc="神铸"     functionType="1" goType="13"/>
+	<functionLv id="19" level="50"  guanqia="0"  days="0" icon="0" desc="勋章"     functionType="1" goType="15"/>
+	<functionLv id="20" level="50"  guanqia="0"  days="0" icon="0" desc="个人成就" functionType="1" goType="14"/>
+	<functionLv id="21" level="50"  guanqia="0"  days="0" icon="0" desc="限时任务" functionType="1" goType="39"/>
+	<functionLv id="22" level="50"  guanqia="0"  days="0" icon="0" desc="合击符文" functionType="1" goType="40"/>
+	<functionLv id="23" level="50"  guanqia="0"  days="0" icon="0" desc="秘境BOSS" functionType="1" goType="41"/>
+	<functionLv id="24" level="55"  guanqia="0"  days="0" icon="0" desc="闯天关"   functionType="1" goType="16"/>
+	<functionLv id="25" level="60"  guanqia="0"  days="0" icon="0" desc="官职"     functionType="1" goType="26"/>
+	<functionLv id="26" level="60"  guanqia="0"  days="0" icon="0" desc="排行榜"   functionType="1" goType="34"/>
+	<functionLv id="27" level="65"  guanqia="0"  days="0" icon="0" desc="公会"     functionType="1" goType="43"/>
+	<functionLv id="28" level="70"  guanqia="0"  days="0" icon="0" desc="比奇挖矿" functionType="1" goType="42"/>
+	<functionLv id="29" level="70"  guanqia="0"  days="0" icon="0" desc="夜战比奇" functionType="1" goType="44"/>
+	<functionLv id="30" level="80"  guanqia="0"  days="0" icon="0" desc="天梯"     functionType="1" goType="18"/>
+	<functionLv id="31" level="80"  guanqia="0"  days="0" icon="0" desc="转生"     functionType="1" goType="21"/>
+	<functionLv id="32" level="90"  guanqia="0"  days="0" icon="0" desc="心法"     functionType="1" goType="35"/>
+	<functionLv id="33" level="90"  guanqia="0"  days="0" icon="0" desc="主宰装备1" functionType="1" goType="36"/>
+	<functionLv id="34" level="110" guanqia="0"  days="0" icon="0" desc="主宰装备2" functionType="1" goType="36"/>
+	<functionLv id="35" level="130" guanqia="0"  days="0" icon="0" desc="主宰装备3" functionType="1" goType="36"/>
+	<functionLv id="36" level="150" guanqia="0"  days="0" icon="0" desc="主宰装备4" functionType="1" goType="36"/>
+	<functionLv id="37" level="110" guanqia="0"  days="3" icon="0" desc="战纹"     functionType="1" goType="37"/>
+	<functionLv id="38" level="0" guanqia="0"  days="4" icon="0" desc="绝世神兵" functionType="1" goType="38"/>
+	<functionLv id="39" level="20"  guanqia="0"  days="0" icon="0" desc="橙装"     functionType="1" goType="49"/>	
+	<functionLv id="40" level="50"  guanqia="0"  days="0" icon="0" desc="成就副本" functionType="1" goType="9"/>
+	<functionLv id="41" level="0"  guanqia="7"  days="0" icon="0" desc="传世装备" functionType="1" goType="50"/>
+	<functionLv id="42" level="0"  guanqia="2"  days="0" icon="0" desc="技能升级" functionType="1" goType="5"/>
+	<functionLv id="43" level="90"  guanqia="0"  days="0" icon="0" desc="转生BOSS"  functionType="1" goType="45"/>		
+	<functionLv id="44" level="110"  guanqia="0"  days="3" icon="0" desc="镇魔塔"  functionType="1" goType="52"/>	
+	<functionLv id="45" level="0" guanqia="0"  days="4" icon="0" desc="怪物攻城" functionType="1" goType="54"/>
+	<functionLv id="46" level="38"  guanqia="0"  days="0" icon="0" desc="图鉴"     functionType="1" goType="57"/>
+	<functionLv id="47" level="38"  guanqia="0"  days="0" icon="0" desc="图鉴任务" functionType="1" goType="59"/>
+	<functionLv id="48" level="30"  guanqia="0"  days="0" icon="0" desc="五行活动" functionType="1" goType="60"/>
+	<functionLv id="49" level="42"  guanqia="0"  days="0" icon="0" desc="五行" functionType="1" goType="61"/>
+	<functionLv id="50" level="120"  guanqia="0"  days="6" icon="0" desc="灵髓" functionType="1" goType="63"/>
+	<functionLv id="51" level="110"  guanqia="0"  days="0" icon="0" desc="镇魂" functionType="1" goType="64"/>
+	<functionLv id="52" level="110"  guanqia="0"  days="0" icon="0" desc="镇魂宝库" functionType="1" goType="66"/>
+</functionLv>

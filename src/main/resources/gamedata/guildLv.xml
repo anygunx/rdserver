@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<guildLvs>
+	<guildLv level="1" exp="4000" renshuMax="30" zhuanpanMax="10" skillMax="40" skill2Max="2"/>
+	<guildLv level="2" exp="24000" renshuMax="40" zhuanpanMax="20" skillMax="80" skill2Max="4"/>
+	<guildLv level="3" exp="96000" renshuMax="50" zhuanpanMax="30" skillMax="120" skill2Max="6"/>
+	<guildLv level="4" exp="144000" renshuMax="60" zhuanpanMax="40" skillMax="160" skill2Max="8"/>
+	<guildLv level="5" exp="192000" renshuMax="70" zhuanpanMax="50" skillMax="200" skill2Max="10"/>
+	<guildLv level="6" exp="240000" renshuMax="80" zhuanpanMax="55" skillMax="220" skill2Max="12"/>
+	<guildLv level="7" exp="308000" renshuMax="85" zhuanpanMax="60" skillMax="240" skill2Max="14"/>
+	<guildLv level="8" exp="376000" renshuMax="90" zhuanpanMax="65" skillMax="260" skill2Max="16"/>
+	<guildLv level="9" exp="454000" renshuMax="95" zhuanpanMax="70" skillMax="280" skill2Max="18"/>
+	<guildLv level="10" exp="0" renshuMax="100" zhuanpanMax="75" skillMax="300" skill2Max="20"/>
+</guildLvs>

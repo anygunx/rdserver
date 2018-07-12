@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<constant version="1.0">
+	<!-- 天梯竞技场 -->
+	<!--MATCH_MIN_STAR MATCH_MAX_STAR 匹配星级的偏移  MATCH_MIN_FIGHT MATCH_MAX_FIGHT 匹配战斗力的偏移
+		UNCONWIN 到该星级后连胜终止  SUBSTAR 到该星级后失败开始降星    FIGHT_MAX 战斗次数上限   FIGHT_RECOVE_TIME 战斗恢复时间（秒）
+		FIGHT_BUY_PRICE 购买战斗次数价格	TOPLIST 天梯排行榜人数  HISTORY  天梯历史战绩人数
+		LADDER_OPEN_LV  开放等级
+		-->
+	<ladder MATCH_MIN_STAR="0" MATCH_MAX_STAR="12" MATCH_MIN_FIGHT="90" MATCH_MAX_FIGHT="150"
+			UNCONWIN="30" SUBSTAR="30" FIGHT_MAX="6" FIGHT_RECOVE_TIME="7200"
+			FIGHT_BUY_PRICE="500,500,500,500,500,500,500,500,500,500,500,500" TOPLIST="50" HISTORY="50"
+			LADDER_OPEN_LV="1"
+			/>
+			
+	<!-- 邮件 -->
+	<!-- EXPIRE_NO_ATTA 无附件删除时间（天）	EXPIRE_TOTAL 邮件失效天数 -->
+	<mail EXPIRE_NO_ATTA="7" EXPIRE_TOTAL="15" />
+	
+	<!-- 运镖 -->
+	<!-- ESCORT_DISPATCH_MAX 每日运镖上限	ESCORT_REFRESH_FREE 每天免费刷新次数 
+		ESCORT_ROB 劫镖次数	ESCORT_REWARD 劫镖成功收获百分比	ESCORT_HURTED 一趟镖被劫多少次	ESCORT_CONSUME 被劫一次损失百分比 -->
+	<escort ESCORT_DISPATCH_MAX="3" ESCORT_REFRESH_FREE="3"
+			ESCORT_ROB="5" ESCORT_REWARD="10" ESCORT_HURTED="5" ESCORT_CONSUME="10" ESCORT_STAR_MAX="5" />
+			
+	<!-- 竞技场 -->
+	<!-- RANK_CAPACITY 排行榜总数
+		FREE_TIMES  免费次数     REFRESH  刷新时间
+		RANGE  竞技场刷新挑战者排名范围 范围-该范围数量限制   REWARD_POINT_SUCC  竞技点奖励
+		RECORD_CAPACITY 记录容量   VIP  机器人VIP     LEVEL  机器人等级
+		-->
+	<arena RANK_CAPACITY="50"
+		FREE_TIMES="10" REFRESH="60000"
+		RANGE="60,-1;70,-1;80,-1;90,-1;100,50;110,-1" REWARD_POINT_SUCC="100" REWARD_POINT_FAIL="50"
+		RECORD_CAPACITY="20" VIP="0" LEVEL="20"
+		FIGHT_BUY_PRICE="50,60,70,80,90,100,110,120,130,140,150,160" />
+	
+	<!-- 卡牌图鉴 -->
+	<!-- CARD_MAX_LEVEL 卡牌最高等级
+		 -->
+	<card CARD_MAX_LEVEL="400" />
+</constant>

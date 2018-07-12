@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<fights>
+	<map id="1" cost="0" rewards="2,74,150" />
+	<map id="2" cost="1000" rewards="2,74,300" />
+	<map id="3" cost="2000" rewards="2,74,450" />
+</fights>

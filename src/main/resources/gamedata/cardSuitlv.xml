@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<list>
+	<data id="1" cardlv="0" lv="1" carAddition="2000" attack="1000" hp="0" phyDef="0" magicDef="0" crit="0" duct="0" amp="0" dr="0" hit="0" dodge="0"/>
+	<data id="1" cardlv="21" lv="2" carAddition="2000" attack="1000" hp="20000" phyDef="0" magicDef="0" crit="400" duct="0" amp="0" dr="0" hit="0" dodge="0"/>
+	<data id="1" cardlv="46" lv="3" carAddition="2000" attack="1000" hp="20000" phyDef="3200" magicDef="0" crit="400" duct="400" amp="0" dr="0" hit="0" dodge="0"/>
+	<data id="1" cardlv="96" lv="4" carAddition="2000" attack="1000" hp="50000" phyDef="3200" magicDef="0" crit="1000" duct="400" amp="0" dr="0" hit="0" dodge="0"/>
+	<data id="1" cardlv="196" lv="5" carAddition="2000" attack="1000" hp="50000" phyDef="8000" magicDef="0" crit="1000" duct="1000" amp="0" dr="0" hit="0" dodge="0"/>
+	<data id="2" cardlv="0" lv="1" carAddition="2000" attack="0" hp="5000" phyDef="0" magicDef="0" crit="0" duct="0" amp="0" dr="0" hit="0" dodge="0"/>
+	<data id="2" cardlv="21" lv="2" carAddition="2000" attack="6000" hp="5000" phyDef="3200" magicDef="0" crit="0" duct="0" amp="0" dr="0" hit="0" dodge="0"/>
+	<data id="2" cardlv="46" lv="3" carAddition="2000" attack="6000" hp="25000" phyDef="3200" magicDef="4000" crit="0" duct="0" amp="0" dr="0" hit="0" dodge="0"/>
+	<data id="2" cardlv="96" lv="4" carAddition="2000" attack="15000" hp="25000" phyDef="8000" magicDef="4000" crit="0" duct="0" amp="0" dr="0" hit="0" dodge="0"/>
+	<data id="2" cardlv="196" lv="5" carAddition="2000" attack="15000" hp="55000" phyDef="8000" magicDef="10000" crit="0" duct="0" amp="0" dr="0" hit="0" dodge="0"/>
+	<data id="3" cardlv="0" lv="1" carAddition="2000" attack="0" hp="0" phyDef="0" magicDef="1000" crit="0" duct="0" amp="0" dr="0" hit="0" dodge="0"/>
+	<data id="3" cardlv="21" lv="2" carAddition="2000" attack="0" hp="0" phyDef="3200" magicDef="4200" crit="0" duct="0" amp="0" dr="0" hit="0" dodge="0"/>
+	<data id="3" cardlv="46" lv="3" carAddition="2000" attack="4000" hp="20000" phyDef="3200" magicDef="4200" crit="0" duct="0" amp="0" dr="0" hit="0" dodge="0"/>
+	<data id="3" cardlv="96" lv="4" carAddition="2000" attack="4000" hp="20000" phyDef="8000" magicDef="9000" crit="0" duct="0" amp="0" dr="0" hit="0" dodge="0"/>
+	<data id="3" cardlv="196" lv="5" carAddition="2000" attack="10000" hp="50000" phyDef="8000" magicDef="9000" crit="0" duct="0" amp="0" dr="0" hit="0" dodge="0"/>
+	<data id="4" cardlv="0" lv="1" carAddition="2000" attack="0" hp="0" phyDef="800" magicDef="0" crit="0" duct="0" amp="0" dr="0" hit="0" dodge="0"/>
+	<data id="4" cardlv="21" lv="2" carAddition="2000" attack="0" hp="0" phyDef="4000" magicDef="0" crit="0" duct="0" amp="400" dr="0" hit="0" dodge="0"/>
+	<data id="4" cardlv="46" lv="3" carAddition="2000" attack="0" hp="0" phyDef="4000" magicDef="3200" crit="0" duct="0" amp="400" dr="400" hit="0" dodge="0"/>
+	<data id="4" cardlv="96" lv="4" carAddition="2000" attack="0" hp="0" phyDef="8800" magicDef="3200" crit="0" duct="0" amp="1000" dr="400" hit="0" dodge="0"/>
+	<data id="4" cardlv="196" lv="5" carAddition="2000" attack="0" hp="0" phyDef="8800" magicDef="8000" crit="0" duct="0" amp="1000" dr="1000" hit="0" dodge="0"/>
+	<data id="5" cardlv="0" lv="1" carAddition="2000" attack="1000" hp="0" phyDef="0" magicDef="0" crit="0" duct="0" amp="0" dr="0" hit="0" dodge="0"/>
+	<data id="5" cardlv="21" lv="2" carAddition="2000" attack="1000" hp="20000" phyDef="0" magicDef="0" crit="400" duct="0" amp="0" dr="0" hit="0" dodge="0"/>
+	<data id="5" cardlv="46" lv="3" carAddition="2000" attack="1000" hp="20000" phyDef="3200" magicDef="0" crit="400" duct="400" amp="0" dr="0" hit="0" dodge="0"/>
+	<data id="5" cardlv="96" lv="4" carAddition="2000" attack="1000" hp="50000" phyDef="3200" magicDef="0" crit="1000" duct="400" amp="0" dr="0" hit="0" dodge="0"/>
+	<data id="5" cardlv="196" lv="5" carAddition="2000" attack="1000" hp="50000" phyDef="8000" magicDef="0" crit="1000" duct="1000" amp="0" dr="0" hit="0" dodge="0"/>
+	<data id="6" cardlv="0" lv="1" carAddition="2000" attack="0" hp="5000" phyDef="0" magicDef="0" crit="0" duct="0" amp="0" dr="0" hit="0" dodge="0"/>
+	<data id="6" cardlv="21" lv="2" carAddition="2000" attack="6000" hp="5000" phyDef="0" magicDef="0" crit="0" duct="0" amp="0" dr="0" hit="200" dodge="0"/>
+	<data id="6" cardlv="46" lv="3" carAddition="2000" attack="6000" hp="25000" phyDef="0" magicDef="0" crit="0" duct="0" amp="0" dr="0" hit="200" dodge="200"/>
+	<data id="6" cardlv="96" lv="4" carAddition="2000" attack="15000" hp="25000" phyDef="0" magicDef="0" crit="0" duct="0" amp="0" dr="0" hit="500" dodge="200"/>
+	<data id="6" cardlv="196" lv="5" carAddition="2000" attack="15000" hp="55000" phyDef="0" magicDef="0" crit="0" duct="0" amp="0" dr="0" hit="500" dodge="500"/>
+	<data id="7" cardlv="0" lv="1" carAddition="2000" attack="0" hp="0" phyDef="0" magicDef="1000" crit="0" duct="0" amp="0" dr="0" hit="0" dodge="0"/>
+	<data id="7" cardlv="21" lv="2" carAddition="2000" attack="0" hp="0" phyDef="3200" magicDef="4200" crit="0" duct="0" amp="0" dr="0" hit="0" dodge="0"/>
+	<data id="7" cardlv="46" lv="3" carAddition="2000" attack="4000" hp="20000" phyDef="3200" magicDef="4200" crit="0" duct="0" amp="0" dr="0" hit="0" dodge="0"/>
+	<data id="7" cardlv="96" lv="4" carAddition="2000" attack="4000" hp="20000" phyDef="8000" magicDef="9000" crit="0" duct="0" amp="0" dr="0" hit="0" dodge="0"/>
+	<data id="7" cardlv="196" lv="5" carAddition="2000" attack="10000" hp="50000" phyDef="8000" magicDef="9000" crit="0" duct="0" amp="0" dr="0" hit="0" dodge="0"/>
+	<data id="8" cardlv="0" lv="1" carAddition="2000" attack="0" hp="10000" phyDef="0" magicDef="0" crit="0" duct="0" amp="0" dr="0" hit="0" dodge="0"/>
+	<data id="8" cardlv="21" lv="2" carAddition="2000" attack="0" hp="10000" phyDef="3200" magicDef="0" crit="0" duct="0" amp="400" dr="0" hit="0" dodge="0"/>
+	<data id="8" cardlv="46" lv="3" carAddition="2000" attack="8000" hp="10000" phyDef="3200" magicDef="0" crit="0" duct="0" amp="400" dr="400" hit="0" dodge="0"/>
+	<data id="8" cardlv="96" lv="4" carAddition="2000" attack="8000" hp="10000" phyDef="8000" magicDef="0" crit="0" duct="0" amp="1000" dr="400" hit="0" dodge="0"/>
+	<data id="8" cardlv="196" lv="5" carAddition="2000" attack="20000" hp="10000" phyDef="8000" magicDef="0" crit="0" duct="0" amp="1000" dr="1000" hit="0" dodge="0"/>
+</list>

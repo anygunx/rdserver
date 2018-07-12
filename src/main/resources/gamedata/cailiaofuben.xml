@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<fights>
+	<map id="2" name="宝石副本" point="558,442,564,369,491,297,264" monsterId="56" bossId="57" num="9" monsterDrop="0" bossDrop="1" reward="2,1,5" show="2,9,1"/>
+	<map id="3" name="经脉副本" point="549,599,515,386,568,788,970" monsterId="58" bossId="59" num="9" monsterDrop="0" bossDrop="2" reward="2,1,5" show="2,16,1"/>
+	<map id="4" name="铜镜副本" point="558,442,564,369,491,297,264" monsterId="60" bossId="61" num="9" monsterDrop="0" bossDrop="3" reward="2,1,5" show="2,12,1"/>
+	<map id="5" name="玉笛副本" point="549,599,515,386,568,788,970" monsterId="62" bossId="63" num="9" monsterDrop="0" bossDrop="4" reward="2,1,5" show="2,13,1"/>
+	<map id="8" name="成就副本" point="558,442,564,369,491,297,264" monsterId="58" bossId="59" num="9" monsterDrop="0" bossDrop="18" reward="2,1,5" show="3,3,1"/>
+	<map id="9" name="羽翼副本" point="549,599,515,386,568,788,970" monsterId="103" bossId="104" num="9" monsterDrop="0" bossDrop="29" reward="2,1,5" show="2,17,1"/>
+	<map id="11" name="五行副本" point="447,416,309,303,375,378" monsterId="62" bossId="63" num="9" monsterDrop="0" bossDrop="0" reward="2,1,5" show=""/>
+</fights>

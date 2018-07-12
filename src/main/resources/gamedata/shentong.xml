@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<junxians>
+	<officer id="1" name="幽通" icon="shentong1" pinzhi="0" hp="0" attack="0" Def="50" block="0" hit="0" dodge="0" crit="0" duct="0" counter="0" chushiexp="200"/>
+	<officer id="2" name="气禁" icon="shentong2" pinzhi="0" hp="500" attack="0" Def="0" block="0" hit="0" dodge="0" crit="0" duct="0" counter="0" chushiexp="200"/>
+	<officer id="3" name="御风" icon="shentong3" pinzhi="0" hp="0" attack="50" Def="0" block="0" hit="0" dodge="0" crit="0" duct="0" counter="0" chushiexp="200"/>
+	<officer id="4" name="掩日" icon="shentong4" pinzhi="0" hp="0" attack="0" Def="0" block="0" hit="0" dodge="250" crit="0" duct="0" counter="0" chushiexp="200"/>
+	<officer id="5" name="摄魂" icon="shentong5" pinzhi="1" hp="0" attack="0" Def="100" block="0" hit="0" dodge="0" crit="0" duct="0" counter="0" chushiexp="500"/>
+	<officer id="6" name="解厄" icon="shentong6" pinzhi="1" hp="1000" attack="0" Def="0" block="0" hit="0" dodge="0" crit="0" duct="0" counter="0" chushiexp="500"/>
+	<officer id="7" name="驱神" icon="shentong1" pinzhi="1" hp="0" attack="100" Def="0" block="0" hit="0" dodge="0" crit="0" duct="0" counter="0" chushiexp="500"/>
+	<officer id="8" name="斩妖" icon="shentong2" pinzhi="1" hp="0" attack="0" Def="0" block="500" hit="0" dodge="0" crit="0" duct="0" counter="0" chushiexp="500"/>
+	<officer id="9" name="通灵术" icon="shentong3" pinzhi="2" hp="0" attack="80" Def="80" block="0" hit="0" dodge="0" crit="0" duct="0" counter="0" chushiexp="1000"/>
+	<officer id="10" name="明慧术" icon="shentong4" pinzhi="2" hp="800" attack="0" Def="80" block="0" hit="0" dodge="0" crit="0" duct="0" counter="0" chushiexp="1000"/>
+	<officer id="11" name="悟天术" icon="shentong5" pinzhi="2" hp="800" attack="80" Def="0" block="0" hit="0" dodge="0" crit="0" duct="0" counter="0" chushiexp="1000"/>
+	<officer id="12" name="觉水术" icon="shentong7" pinzhi="2" hp="0" attack="80" Def="0" block="0" hit="400" dodge="0" crit="0" duct="0" counter="0" chushiexp="1000"/>
+	<officer id="13" name="觉火术" icon="shentong8" pinzhi="2" hp="0" attack="0" Def="80" block="0" hit="0" dodge="400" crit="0" duct="0" counter="0" chushiexp="1000"/>
+	<officer id="14" name="觉金术" icon="shentong9" pinzhi="2" hp="800" attack="0" Def="0" block="400" hit="0" dodge="0" crit="0" duct="0" counter="0" chushiexp="1000"/>
+	<officer id="15" name="觉土术" icon="shentong10" pinzhi="2" hp="0" attack="80" Def="0" block="0" hit="0" dodge="0" crit="400" duct="0" counter="0" chushiexp="1000"/>
+	<officer id="16" name="觉木术" icon="shentong11" pinzhi="2" hp="0" attack="0" Def="80" block="0" hit="0" dodge="0" crit="0" duct="400" counter="0" chushiexp="1000"/>
+	<officer id="17" name="补天浴日" icon="shentong12" pinzhi="3" hp="0" attack="125" Def="125" block="0" hit="0" dodge="0" crit="0" duct="0" counter="0" chushiexp="2500"/>
+	<officer id="18" name="正立无影" icon="shentong13" pinzhi="3" hp="1250" attack="0" Def="125" block="0" hit="0" dodge="0" crit="0" duct="0" counter="0" chushiexp="2500"/>
+	<officer id="19" name="飞身托迹" icon="shentong14" pinzhi="3" hp="1250" attack="125" Def="0" block="0" hit="0" dodge="0" crit="0" duct="0" counter="0" chushiexp="2500"/>
+	<officer id="20" name="游神御气" icon="shentong15" pinzhi="3" hp="0" attack="125" Def="0" block="0" hit="625" dodge="0" crit="0" duct="0" counter="0" chushiexp="2500"/>
+	<officer id="21" name="斡旋造化" icon="shentong16" pinzhi="3" hp="0" attack="0" Def="125" block="0" hit="0" dodge="625" crit="0" duct="0" counter="0" chushiexp="2500"/>
+	<officer id="22" name="回风返火" icon="shentong17" pinzhi="3" hp="1250" attack="0" Def="0" block="625" hit="0" dodge="0" crit="0" duct="0" counter="0" chushiexp="2500"/>
+	<officer id="23" name="鞭山移石" icon="shentong18" pinzhi="3" hp="0" attack="125" Def="0" block="0" hit="0" dodge="0" crit="625" duct="0" counter="0" chushiexp="2500"/>
+	<officer id="24" name="划江成陆" icon="shentong19" pinzhi="3" hp="0" attack="0" Def="125" block="0" hit="0" dodge="0" crit="0" duct="625" counter="0" chushiexp="2500"/>
+	<officer id="25" name="九息服气" icon="shentong20" pinzhi="4" hp="0" attack="130" Def="130" block="0" hit="0" dodge="0" crit="650" duct="0" counter="0" chushiexp="4000"/>
+	<officer id="26" name="隔垣洞见" icon="shentong21" pinzhi="4" hp="1300" attack="0" Def="130" block="0" hit="0" dodge="0" crit="0" duct="650" counter="0" chushiexp="4000"/>
+	<officer id="27" name="潜渊缩地" icon="shentong22" pinzhi="4" hp="1300" attack="130" Def="0" block="0" hit="0" dodge="650" crit="0" duct="0" counter="0" chushiexp="4000"/>
+	<officer id="28" name="纵地金光" icon="shentong23" pinzhi="4" hp="0" attack="130" Def="130" block="0" hit="650" dodge="0" crit="0" duct="0" counter="0" chushiexp="4000"/>
+	<officer id="29" name="腾云驾雾" icon="shentong24" pinzhi="4" hp="1300" attack="0" Def="130" block="650" hit="0" dodge="0" crit="0" duct="0" counter="0" chushiexp="4000"/>
+	<officer id="30" name="飞沙走石" icon="shentong25" pinzhi="4" hp="1300" attack="130" Def="0" block="0" hit="0" dodge="0" crit="0" duct="0" counter="650" chushiexp="4000"/>
+	<officer id="31" name="震山撼地" icon="shentong12" pinzhi="4" hp="0" attack="200" Def="200" block="0" hit="0" dodge="0" crit="0" duct="0" counter="0" chushiexp="4000"/>
+	<officer id="32" name="回天返日" icon="shentong13" pinzhi="4" hp="2000" attack="0" Def="200" block="0" hit="0" dodge="0" crit="0" duct="0" counter="0" chushiexp="4000"/>
+	<officer id="33" name="翻江搅海" icon="shentong14" pinzhi="5" hp="0" attack="260" Def="260" block="0" hit="0" dodge="0" crit="1300" duct="0" counter="0" chushiexp="8000"/>
+	<officer id="34" name="呼风唤雨" icon="shentong15" pinzhi="5" hp="2600" attack="0" Def="260" block="0" hit="0" dodge="0" crit="0" duct="1300" counter="0" chushiexp="8000"/>
+	<officer id="35" name="颠倒阴阳" icon="shentong16" pinzhi="5" hp="2600" attack="260" Def="0" block="0" hit="0" dodge="1300" crit="0" duct="0" counter="0" chushiexp="8000"/>
+	<officer id="36" name="移星换斗" icon="shentong17" pinzhi="5" hp="0" attack="260" Def="260" block="0" hit="1300" dodge="0" crit="0" duct="0" counter="0" chushiexp="8000"/>
+	<officer id="37" name="五行大遁" icon="shentong18" pinzhi="5" hp="2600" attack="0" Def="260" block="1300" hit="0" dodge="0" crit="0" duct="0" counter="0" chushiexp="8000"/>
+	<officer id="38" name="六甲奇门" icon="shentong19" pinzhi="5" hp="2600" attack="260" Def="0" block="0" hit="0" dodge="0" crit="0" duct="0" counter="1300" chushiexp="8000"/>
+	<officer id="39" name="降龙伏虎" icon="shentong24" pinzhi="5" hp="0" attack="400" Def="400" block="0" hit="0" dodge="0" crit="0" duct="0" counter="0" chushiexp="8000"/>
+	<officer id="40" name="开天辟地" icon="shentong25" pinzhi="5" hp="4000" attack="0" Def="400" block="0" hit="0" dodge="0" crit="0" duct="0" counter="0" chushiexp="8000"/>
+</junxians>

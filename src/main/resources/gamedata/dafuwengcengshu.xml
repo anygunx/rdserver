@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<logic>
+	<logic id="1" round="0" cengshu="2" reward="2,8,5#31,0,10000"/>
+	<logic id="2" round="0" cengshu="4" reward="2,8,5#31,0,12000"/>
+	<logic id="3" round="0" cengshu="6" reward="2,902,1#31,0,14000"/>
+	<logic id="4" round="0" cengshu="8" reward="2,8,10#31,0,16000"/>
+	<logic id="5" round="0" cengshu="10" reward="2,8,15#31,0,18000"/>
+	<logic id="6" round="0" cengshu="12" reward="2,902,1#31,0,20000"/>
+	<logic id="7" round="0" cengshu="14" reward="2,8,25#31,0,22000"/>
+	<logic id="8" round="0" cengshu="16" reward="2,8,30#31,0,24000"/>
+</logic>

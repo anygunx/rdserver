@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<logics>
+	<logic id="1" price="8888" yuanjia="8888" rewards="3,195,1#2,1,200#2,18,50#3,3,10#2,16,10" des="花费8888元宝可获得直升礼包"/>
+	<logic id="2" price="13888" yuanjia="13888" rewards="2,11,3#2,10,100#3,48,10#2,12,50#2,13,50" des="花费13888元宝可获得神铸礼包"/>
+	<logic id="3" price="32888" yuanjia="32888" rewards="32,1,1#2,17,200#2,18,200#2,9,20#2,16,10" des="花费32888元宝可获得神羽礼包"/>
+	<logic id="4" price="58888" yuanjia="58888" rewards="2,2,3#2,3,3#2,7,100" des="花费58888元宝可获得主宰礼包"/>
+</logics>

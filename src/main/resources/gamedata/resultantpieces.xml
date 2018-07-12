@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<artifactpieces>
+	<artifact id="1" name="虹魔·乾·50级" pos="0" quality="2" level="50" attack="368" phyDef="0" magicDef="0" hp="0" dis="3" compos="15" from="0" into="11" icon="jn_hj_icon_1_1_png"/>
+	<artifact id="2" name="虹魔·巽·50级" pos="1" quality="2" level="50" attack="0" phyDef="737" magicDef="737" hp="0" dis="3" compos="15" from="0" into="12" icon="jn_hj_icon_1_2_png"/>
+	<artifact id="3" name="虹魔·坎·50级" pos="2" quality="2" level="50" attack="368" phyDef="0" magicDef="0" hp="0" dis="3" compos="15" from="0" into="13" icon="jn_hj_icon_1_3_png"/>
+	<artifact id="4" name="虹魔·艮·50级" pos="3" quality="2" level="50" attack="0" phyDef="0" magicDef="0" hp="2457" dis="3" compos="15" from="0" into="14" icon="jn_hj_icon_1_4_png"/>
+	<artifact id="5" name="虹魔·坤·50级" pos="4" quality="2" level="50" attack="0" phyDef="0" magicDef="0" hp="2457" dis="3" compos="15" from="0" into="15" icon="jn_hj_icon_1_5_png"/>
+	<artifact id="6" name="虹魔·震·50级" pos="5" quality="2" level="50" attack="368" phyDef="0" magicDef="0" hp="0" dis="3" compos="15" from="0" into="16" icon="jn_hj_icon_1_6_png"/>
+	<artifact id="7" name="虹魔·离·50级" pos="6" quality="2" level="50" attack="0" phyDef="0" magicDef="0" hp="2457" dis="3" compos="15" from="0" into="17" icon="jn_hj_icon_1_7_png"/>
+	<artifact id="8" name="虹魔·兑·50级" pos="7" quality="2" level="50" attack="368" phyDef="0" magicDef="0" hp="0" dis="3" compos="15" from="0" into="18" icon="jn_hj_icon_1_8_png"/>
+	<artifact id="11" name="魔龙·乾·1转" pos="0" quality="3" level="90" attack="839" phyDef="0" magicDef="0" hp="0" dis="20" compos="80" from="1" inherit="1" into="31" icon="jn_hj_icon_2_1_png"/>
+	<artifact id="12" name="魔龙·巽·1转" pos="1" quality="3" level="90" attack="0" phyDef="1679" magicDef="1679" hp="0" dis="20" compos="80" from="2" inherit="2" into="32" icon="jn_hj_icon_2_2_png"/>
+	<artifact id="13" name="魔龙·坎·1转" pos="2" quality="3" level="90" attack="839" phyDef="0" magicDef="0" hp="0" dis="20" compos="80" from="3" inherit="3" into="33" icon="jn_hj_icon_2_3_png"/>
+	<artifact id="14" name="魔龙·艮·1转" pos="3" quality="3" level="90" attack="0" phyDef="0" magicDef="0" hp="5596" dis="20" compos="80" from="4" inherit="4" into="34" icon="jn_hj_icon_2_4_png"/>
+	<artifact id="15" name="魔龙·坤·1转" pos="4" quality="3" level="90" attack="0" phyDef="0" magicDef="0" hp="5596" dis="20" compos="80" from="5" inherit="5" into="35" icon="jn_hj_icon_2_5_png"/>
+	<artifact id="16" name="魔龙·震·1转" pos="5" quality="3" level="90" attack="839" phyDef="0" magicDef="0" hp="0" dis="20" compos="80" from="6" inherit="6" into="36" icon="jn_hj_icon_2_6_png"/>
+	<artifact id="17" name="魔龙·离·1转" pos="6" quality="3" level="90" attack="0" phyDef="0" magicDef="0" hp="5596" dis="20" compos="80" from="7" inherit="7" into="37" icon="jn_hj_icon_2_7_png"/>
+	<artifact id="18" name="魔龙·兑·1转" pos="7" quality="3" level="90" attack="839" phyDef="0" magicDef="0" hp="0" dis="20" compos="80" from="8" inherit="8" into="38" icon="jn_hj_icon_2_8_png"/>
+	<artifact id="31" name="恶魔·乾·3转" pos="0" quality="4" level="110" attack="1595" phyDef="0" magicDef="0" hp="0" dis="60" compos="200" from="11" inherit="1,11" into="41" icon="jn_hj_icon_3_1_png"/>
+	<artifact id="32" name="恶魔·巽·3转" pos="1" quality="4" level="110" attack="0" phyDef="3191" magicDef="3191" hp="0" dis="60" compos="200" from="12" inherit="2,12" into="42" icon="jn_hj_icon_3_2_png"/>
+	<artifact id="33" name="恶魔·坎·3转" pos="2" quality="4" level="110" attack="1595" phyDef="0" magicDef="0" hp="0" dis="60" compos="200" from="13" inherit="3,13" into="43" icon="jn_hj_icon_3_3_png"/>
+	<artifact id="34" name="恶魔·艮·3转" pos="3" quality="4" level="110" attack="0" phyDef="0" magicDef="0" hp="10636" dis="60" compos="200" from="14" inherit="4,14" into="44" icon="jn_hj_icon_3_4_png"/>
+	<artifact id="35" name="恶魔·坤·3转" pos="4" quality="4" level="110" attack="0" phyDef="0" magicDef="0" hp="10636" dis="60" compos="200" from="15" inherit="5,15" into="45" icon="jn_hj_icon_3_5_png"/>
+	<artifact id="36" name="恶魔·震·3转" pos="5" quality="4" level="110" attack="1595" phyDef="0" magicDef="0" hp="0" dis="60" compos="200" from="16" inherit="6,16" into="46" icon="jn_hj_icon_3_6_png"/>
+	<artifact id="37" name="恶魔·离·3转" pos="6" quality="4" level="110" attack="0" phyDef="0" magicDef="0" hp="10636" dis="60" compos="200" from="17" inherit="7,17" into="47" icon="jn_hj_icon_3_7_png"/>
+	<artifact id="38" name="恶魔·兑·3转" pos="7" quality="4" level="110" attack="1595" phyDef="0" magicDef="0" hp="0" dis="60" compos="200" from="18" inherit="8,18" into="48" icon="jn_hj_icon_3_8_png"/>
+	<artifact id="41" name="教主·乾·4转" pos="0" quality="4" level="120" attack="1994" phyDef="0" magicDef="0" hp="0" dis="300" compos="600" from="31" inherit="1,11,31" into="51" icon="jn_hj_icon_4_1_png"/>
+	<artifact id="42" name="教主·巽·4转" pos="1" quality="4" level="120" attack="0" phyDef="3988" magicDef="3988" hp="0" dis="300" compos="600" from="32" inherit="2,12,32" into="52" icon="jn_hj_icon_4_2_png"/>
+	<artifact id="43" name="教主·坎·4转" pos="2" quality="4" level="120" attack="1994" phyDef="0" magicDef="0" hp="0" dis="300" compos="600" from="33" inherit="3,13,33" into="53" icon="jn_hj_icon_4_3_png"/>
+	<artifact id="44" name="教主·艮·4转" pos="3" quality="4" level="120" attack="0" phyDef="0" magicDef="0" hp="13295" dis="300" compos="600" from="34" inherit="4,14,34" into="54" icon="jn_hj_icon_4_4_png"/>
+	<artifact id="45" name="教主·坤·4转" pos="4" quality="4" level="120" attack="0" phyDef="0" magicDef="0" hp="13295" dis="300" compos="600" from="35" inherit="5,15,35" into="55" icon="jn_hj_icon_4_5_png"/>
+	<artifact id="46" name="教主·震·4转" pos="5" quality="4" level="120" attack="1994" phyDef="0" magicDef="0" hp="0" dis="300" compos="600" from="36" inherit="6,16,36" into="56" icon="jn_hj_icon_4_6_png"/>
+	<artifact id="47" name="教主·离·4转" pos="6" quality="4" level="120" attack="0" phyDef="0" magicDef="0" hp="13295" dis="300" compos="600" from="37" inherit="7,17,37" into="57" icon="jn_hj_icon_4_7_png"/>
+	<artifact id="48" name="教主·兑·4转" pos="7" quality="4" level="120" attack="1994" phyDef="0" magicDef="0" hp="0" dis="300" compos="600" from="38" inherit="8,18,38" into="58" icon="jn_hj_icon_4_8_png"/>
+	<artifact id="51" name="沃玛·乾·5转" pos="0" quality="4" level="130" attack="2493" phyDef="0" magicDef="0" hp="0" dis="3000" compos="3000" from="41" inherit="1,11,31,41" into="61" icon="jn_hj_icon_5_1_png"/>
+	<artifact id="52" name="沃玛·巽·5转" pos="1" quality="4" level="130" attack="0" phyDef="4986" magicDef="4986" hp="0" dis="3000" compos="3000" from="42" inherit="2,12,32,42" into="62" icon="jn_hj_icon_5_2_png"/>
+	<artifact id="53" name="沃玛·坎·5转" pos="2" quality="4" level="130" attack="2493" phyDef="0" magicDef="0" hp="0" dis="3000" compos="3000" from="43" inherit="3,13,33,43" into="63" icon="jn_hj_icon_5_3_png"/>
+	<artifact id="54" name="沃玛·艮·5转" pos="3" quality="4" level="130" attack="0" phyDef="0" magicDef="0" hp="16620" dis="3000" compos="3000" from="44" inherit="4,14,34,44" into="64" icon="jn_hj_icon_5_4_png"/>
+	<artifact id="55" name="沃玛·坤·5转" pos="4" quality="4" level="130" attack="0" phyDef="0" magicDef="0" hp="16620" dis="3000" compos="3000" from="45" inherit="5,15,35,45" into="65" icon="jn_hj_icon_5_5_png"/>
+	<artifact id="56" name="沃玛·震·5转" pos="5" quality="4" level="130" attack="2493" phyDef="0" magicDef="0" hp="0" dis="3000" compos="3000" from="46" inherit="6,16,36,46" into="66" icon="jn_hj_icon_5_6_png"/>
+	<artifact id="57" name="沃玛·离·5转" pos="6" quality="4" level="130" attack="0" phyDef="0" magicDef="0" hp="16620" dis="3000" compos="3000" from="47" inherit="7,17,37,47" into="67" icon="jn_hj_icon_5_7_png"/>
+	<artifact id="58" name="沃玛·兑·5转" pos="7" quality="4" level="130" attack="2493" phyDef="0" magicDef="0" hp="0" dis="3000" compos="3000" from="48" inherit="8,18,38,48" into="68" icon="jn_hj_icon_5_8_png"/>
+	<artifact id="61" name="巫妖·乾·6转" pos="0" quality="4" level="140" attack="3016" phyDef="0" magicDef="0" hp="0" dis="7000" compos="7000" from="51" inherit="1,11,31,41,51" into="71" icon="jn_hj_icon_6_1_png"/>
+	<artifact id="62" name="巫妖·巽·6转" pos="1" quality="4" level="140" attack="0" phyDef="6032" magicDef="6032" hp="0" dis="7000" compos="7000" from="52" inherit="2,12,32,42,52" into="72" icon="jn_hj_icon_6_2_png"/>
+	<artifact id="63" name="巫妖·坎·6转" pos="2" quality="4" level="140" attack="3016" phyDef="0" magicDef="0" hp="0" dis="7000" compos="7000" from="53" inherit="3,13,33,43,53" into="73" icon="jn_hj_icon_6_3_png"/>
+	<artifact id="64" name="巫妖·艮·6转" pos="3" quality="4" level="140" attack="0" phyDef="0" magicDef="0" hp="6032" dis="7000" compos="7000" from="54" inherit="4,14,34,44,54" into="74" icon="jn_hj_icon_6_4_png"/>
+	<artifact id="65" name="巫妖·坤·6转" pos="4" quality="4" level="140" attack="0" phyDef="0" magicDef="0" hp="6032" dis="7000" compos="7000" from="55" inherit="5,15,35,45,55" into="75" icon="jn_hj_icon_6_5_png"/>
+	<artifact id="66" name="巫妖·震·6转" pos="5" quality="4" level="140" attack="3016" phyDef="0" magicDef="0" hp="0" dis="7000" compos="7000" from="56" inherit="6,16,36,46,56" into="76" icon="jn_hj_icon_6_6_png"/>
+	<artifact id="67" name="巫妖·离·6转" pos="6" quality="4" level="140" attack="0" phyDef="0" magicDef="0" hp="6032" dis="7000" compos="7000" from="57" inherit="7,17,37,47,57" into="77" icon="jn_hj_icon_6_7_png"/>
+	<artifact id="68" name="巫妖·兑·6转" pos="7" quality="4" level="140" attack="3016" phyDef="0" magicDef="0" hp="0" dis="7000" compos="7000" from="58" inherit="8,18,38,48,58" into="78" icon="jn_hj_icon_6_8_png"/>
+	<artifact id="71" name="地狱·乾·7转" pos="0" quality="4" level="150" attack="3649" phyDef="0" magicDef="0" hp="0" dis="12000" compos="12000" from="61" inherit="1,11,31,41,51,61" into="0" icon="jn_hj_icon_7_1_png"/>
+	<artifact id="72" name="地狱·巽·7转" pos="1" quality="4" level="150" attack="0" phyDef="7299" magicDef="7299" hp="0" dis="12000" compos="12000" from="62" inherit="2,12,32,42,52,62" into="0" icon="jn_hj_icon_7_2_png"/>
+	<artifact id="73" name="地狱·坎·7转" pos="2" quality="4" level="150" attack="3649" phyDef="0" magicDef="0" hp="0" dis="12000" compos="12000" from="63" inherit="3,13,33,43,53,63" into="0" icon="jn_hj_icon_7_3_png"/>
+	<artifact id="74" name="地狱·艮·7转" pos="3" quality="4" level="150" attack="0" phyDef="0" magicDef="0" hp="24330" dis="12000" compos="12000" from="64" inherit="4,14,34,44,54,64" into="0" icon="jn_hj_icon_7_4_png"/>
+	<artifact id="75" name="地狱·坤·7转" pos="4" quality="4" level="150" attack="0" phyDef="0" magicDef="0" hp="24330" dis="12000" compos="12000" from="65" inherit="5,15,35,45,55,65" into="0" icon="jn_hj_icon_7_5_png"/>
+	<artifact id="76" name="地狱·震·7转" pos="5" quality="4" level="150" attack="3649" phyDef="0" magicDef="0" hp="0" dis="12000" compos="12000" from="66" inherit="6,16,36,46,56,66" into="0" icon="jn_hj_icon_7_6_png"/>
+	<artifact id="77" name="地狱·离·7转" pos="6" quality="4" level="150" attack="0" phyDef="0" magicDef="0" hp="24330" dis="12000" compos="12000" from="67" inherit="7,17,37,47,57,67" into="0" icon="jn_hj_icon_7_7_png"/>
+	<artifact id="78" name="地狱·兑·7转" pos="7" quality="4" level="150" attack="3649" phyDef="0" magicDef="0" hp="0" dis="12000" compos="12000" from="68" inherit="8,18,38,48,58,68" into="0" icon="jn_hj_icon_7_8_png"/>
+</artifactpieces>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<fivelines>
+	<logic id="1" vip="1" day="1" attack="0" hp="2500" phyDef="0" magicDef="0"/>
+	<logic id="2" vip="2" day="2" attack="0" hp="2500" phyDef="375" magicDef="375"/>
+	<logic id="3" vip="3" day="3" attack="750" hp="0" phyDef="0" magicDef="0"/>
+	<logic id="4" vip="4" day="4" attack="375" hp="2500" phyDef="0" magicDef="0"/>
+	<logic id="5" vip="5" day="5" attack="375" hp="0" phyDef="375" magicDef="375"/>
+</fivelines>

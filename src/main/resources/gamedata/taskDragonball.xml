@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tasks>
+	<taskDaily id="1" goType="7" eventType="21" count="5" score="200" name="击败个人BOSS"/>
+	<taskDaily id="2" goType="11" eventType="8" count="5" score="400" name="击败全民BOSS"/>
+	<taskDaily id="3" goType="17" eventType="22" count="5" score="200" name="参与野战"/>
+	<taskDaily id="4" goType="18" eventType="42" count="6" score="200" name="参与天梯"/>
+	<taskDaily id="5" goType="9" eventType="27" count="10" score="400" name="通关材料副本"/>
+	<taskDaily id="6" goType="12" eventType="12" count="2" score="400" name="升级经脉"/>
+	<taskDaily id="7" goType="8" eventType="7" count="5" score="150" name="升级翅膀"/>
+	<taskDaily id="8" goType="6" eventType="6" count="3" score="150" name="装备回收"/>
+	<taskDaily id="9" goType="4" eventType="4" count="2" score="200" name="装备强化"/>
+	<taskDaily id="10" goType="28" eventType="45" count="2" score="200" name="装备注灵"/>
+	<taskDaily id="11" goType="23" eventType="48" count="1" score="4000" name="每日充值"/>
+	<taskDaily id="12" goType="0" eventType="49" count="1" score="300" name="每日登陆"/>
+</tasks>

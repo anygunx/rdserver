@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<touzi>
+	<logic id="1" level="40" power="0" rewards="5,0,2888"/>
+	<logic id="2" level="60" power="0" rewards="5,0,4888"/>
+	<logic id="3" level="80" power="0" rewards="5,0,6888"/>
+	<logic id="4" level="100" power="0" rewards="5,0,8888"/>
+	<logic id="5" level="110" power="0" rewards="5,0,10888"/>
+	<logic id="6" level="0" power="2300000" rewards="5,0,12888"/>
+	<logic id="7" level="0" power="3200000" rewards="5,0,18888"/>
+	<logic id="8" level="0" power="4500000" rewards="5,0,20888"/>
+</touzi>

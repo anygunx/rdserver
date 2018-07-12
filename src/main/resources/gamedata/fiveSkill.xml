@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<fiveSkills>
+	<fiveSkill id="1" name="灵阵•蚀灵" lv="50" icon="lianti_lz_zengshang1" power="150000" amp="500" dr="0" tips="借用灵阵的威能，三角色攻击时所造成伤害提升5%"/>
+	<fiveSkill id="2" name="灵阵•锻骨" lv="100" icon="lianti_lz_jianshang2" power="150000" amp="500" dr="500" tips="借用灵阵的威能，三角色被击时所受伤害降低5%"/>
+	<fiveSkill id="3" name="灵阵•虚体" lv="200" icon="lianti_lz_zengshang2" power="150000" amp="1000" dr="500" tips="借用灵阵的威能，三角色攻击时将降低敌方5%的防御属性"/>
+	<fiveSkill id="4" name="灵阵•炼体" lv="300" icon="lianti_lz_jianshang1" power="150000" amp="1000" dr="1000" tips="借用灵阵的威能，三角色被击时将提高己方5%的防御属性"/>
+</fiveSkills>

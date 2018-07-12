@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<chongwujiban>
+	<chongwujiban id="1" name="嘻哈乐队" jiban="1,2,3" hp="12000" attack="1230" phyDef="570" magicDef="570" hit="0" dodge="0" crit="0" duct="0" block="0" counter="0"/>
+	<chongwujiban id="2" name="小仙之缘" jiban="2,3,4" hp="20000" attack="2050" phyDef="950" magicDef="950" hit="0" dodge="0" crit="0" duct="0" block="0" counter="0"/>
+	<chongwujiban id="3" name="跨界搭档" jiban="5,7" hp="30000" attack="3075" phyDef="1425" magicDef="1425" hit="0" dodge="0" crit="0" duct="0" block="0" counter="0"/>
+	<chongwujiban id="4" name="神宠同盟" jiban="6,9" hp="40000" attack="4100" phyDef="1900" magicDef="1900" hit="0" dodge="0" crit="0" duct="0" block="0" counter="0"/>
+	<chongwujiban id="5" name="三界仙缘" jiban="7,8,9" hp="56000" attack="5740" phyDef="2660" magicDef="2660" hit="0" dodge="0" crit="0" duct="0" block="0" counter="0"/>
+	<chongwujiban id="6" name="混天灵缘" jiban="8,10" hp="76000" attack="7790" phyDef="3610" magicDef="3610" hit="0" dodge="0" crit="0" duct="0" block="0" counter="0"/>
+</chongwujiban>

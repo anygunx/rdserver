@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<taskLimits>
+	<taskLimit id="11" name="击杀8次个人BOSS" goType="7" eventType="58" updateType="1" reward="4,0,20000#29,1,1" param="8" des="击杀8次个人BOSS" icon="jn_hj_icon_1_1_png"/>
+	<taskLimit id="12" name="闯天关通关至35关" goType="16" eventType="18" updateType="2" reward="4,0,20000#29,2,1" param="35" des="闯天关通关至35关" icon="jn_hj_icon_1_2_png"/>
+	<taskLimit id="13" name="寻宝装备10次" goType="24" eventType="29" updateType="1" reward="4,0,20000#29,3,1" param="10" des="寻宝装备10次" icon="jn_hj_icon_1_3_png"/>
+	<taskLimit id="14" name="羽翼升阶到3阶" goType="8" eventType="50" updateType="2" reward="4,0,20000#29,4,1" param="3" des="羽翼升阶到3阶" icon="jn_hj_icon_1_4_png"/>
+	<taskLimit id="15" name="龙珠达到5级" goType="25" eventType="44" updateType="2" reward="4,0,20000#29,5,1" param="5" des="龙珠达到5级" icon="jn_hj_icon_1_5_png"/>
+	<taskLimit id="16" name="攻击10个附近玩家" goType="17" eventType="22" updateType="1" reward="4,0,20000#29,6,1" param="10" des="攻击10个附近玩家" icon="jn_hj_icon_1_6_png"/>
+	<taskLimit id="17" name="通关关卡到100关" goType="2" eventType="2" updateType="2" reward="4,0,20000#29,7,1" param="100" des="通关关卡到100关" icon="jn_hj_icon_1_7_png"/>
+	<taskLimit id="18" name="完成首冲" goType="46" eventType="57" updateType="2" reward="4,0,20000#29,8,1" param="1" des="完成首冲" icon="jn_hj_icon_1_8_png"/>
+	<taskLimit id="21" name="参与天梯8次" goType="18" eventType="42" updateType="1" reward="4,0,20000#29,11,1" param="8" des="参与天梯8次" icon="jn_hj_icon_2_1_png"/>
+	<taskLimit id="22" name="闯天关通关至60关" goType="16" eventType="18" updateType="2" reward="4,0,20000#29,12,1" param="60" des="闯天关通关至60关" icon="jn_hj_icon_2_2_png"/>
+	<taskLimit id="23" name="参与1次秘境BOSS" goType="41" eventType="56" updateType="1" reward="4,0,20000#29,13,1" param="1" des="参与1次秘境BOSS" icon="jn_hj_icon_2_3_png"/>
+	<taskLimit id="24" name="官职达到1阶" goType="26" eventType="43" updateType="2" reward="4,0,20000#29,14,1" param="1" des="官职达到1阶" icon="jn_hj_icon_2_4_png"/>
+	<taskLimit id="25" name="勋章达到白银2星" goType="15" eventType="15" updateType="2" reward="4,0,20000#29,15,1" param="12" des="勋章达到白银2星" icon="jn_hj_icon_2_5_png"/>
+	<taskLimit id="26" name="击杀1转个人BOSS2次" goType="7" eventType="54" updateType="1" reward="4,0,20000#29,16,1" param="2" des="击杀1转个人BOSS2次" icon="jn_hj_icon_2_6_png"/>
+	<taskLimit id="27" name="寻宝20次" goType="24" eventType="29" updateType="1" reward="4,0,20000#29,17,1" param="20" des="寻宝20次" icon="jn_hj_icon_2_7_png"/>
+	<taskLimit id="28" name="激活月卡" goType="27" eventType="46" updateType="2" reward="4,0,20000#29,18,1" param="1" des="激活月卡" icon="jn_hj_icon_2_8_png"/>
+	<taskLimit id="31" name="天梯达到黄金段位" goType="18" eventType="23" updateType="2" reward="4,0,20000#29,31,1" param="10" des="天梯达到黄金段位" icon="jn_hj_icon_3_1_png"/>
+	<taskLimit id="32" name="闯天关通关至120关" goType="16" eventType="18" updateType="2" reward="4,0,20000#29,32,1" param="120" des="闯天关通关至120关" icon="jn_hj_icon_3_2_png"/>
+	<taskLimit id="33" name="勋章达到白银5星" goType="15" eventType="15" updateType="2" reward="4,0,20000#29,33,1" param="15" des="勋章达到白银5星" icon="jn_hj_icon_3_3_png"/>
+	<taskLimit id="34" name="完成神铸4次" goType="13" eventType="55" updateType="1" reward="4,0,20000#29,34,1" param="4" des="完成神铸4次" icon="jn_hj_icon_3_4_png"/>
+	<taskLimit id="35" name="官职达到2阶" goType="26" eventType="43" updateType="2" reward="4,0,20000#29,35,1" param="2" des="官职达到2阶" icon="jn_hj_icon_3_5_png"/>
+	<taskLimit id="36" name="龙珠达到12级" goType="25" eventType="44" updateType="2" reward="4,0,20000#29,36,1" param="12" des="龙珠达到12级" icon="jn_hj_icon_3_6_png"/>
+	<taskLimit id="37" name="通关关卡到300关" goType="2" eventType="2" updateType="2" reward="4,0,20000#29,37,1" param="300" des="闯关到300关" icon="jn_hj_icon_3_7_png"/>
+	<taskLimit id="38" name="VIP达到VIP3" goType="23" eventType="41" updateType="2" reward="4,0,20000#29,38,1" param="3" des="VIP达到VIP3" icon="jn_hj_icon_3_8_png"/>
+</taskLimits>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<biqiscores>
+	<biqiscore score="50" feats="11,0,100"/>
+	<biqiscore score="100" feats="11,0,200"/>
+	<biqiscore score="200" feats="11,0,300"/>
+	<biqiscore score="300" feats="11,0,400"/>
+	<biqiscore score="500" feats="11,0,500"/>
+</biqiscores>

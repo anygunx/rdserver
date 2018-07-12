@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--配置说明
+###e.g:2########################################################
+startTime="after_2017-05-07 00:00:00"
+after_ 标识为指定时间开启 指定时间已过的以开服时间开启
+2017-05-07 00:00:00 指定时间
+===============================================================
+endTime
+if(开服时间小于指定开启时间){
+	if(loop="true"){
+		endTime=2029-11-09 11:21:28	
+	}else{
+		endTime=指定开启时间+keepDay
+	}
+}else if(开服时间大于指定开启时间 并且小于endTime){
+	if(loop="true"){
+		endTime=2029-11-09 11:21:28	
+	}else{
+		endTime=开服时间+keepDay
+	}
+}
+##e.g:2########################################################
+e.g:startTime="after;server_3;2017-05-04 00:00:00"
+after;server_ 标识为开服几天后开启 3 为3天后
+2017-05-04 00:00:00 为最早开启时间
+===============================================================
+endTime
+if(loop="true"){
+	endTime=2029-11-09 11:21:28	
+}
+##e.g:3########################################################
+e.g:startTime="server_2"
+server_ 标识为开服几天后开启 2 为2天后
+##e.g:4########################################################
+e.g:startTime#"server"
+server 标识为以开服时间开启
+##e.g:5########################################################
+e.g:startTime#"player"
+player 标识为以角色创建时间开启
+##e.g:6########################################################
+e.g:startTime#"2017-11-21 00:00:00"
+2017-11-21 00:00:00 标识为以固定时间开启
+###############################################################
+keepDay  重置的时间间隔
+roundTime 需要几轮
+serverStart="2018-03-26 00:00:00" serverEnd="2018-03-27 00:00:00"
+-->
+<activities>
+<activity id="52" name="连续充值88" openServerRange="2017-02-26 00:00:00;2018-02-25 23:59:00#2018-03-15 00:00:00;2019-03-14 23:59:00" startTime="after;server_7;2018-04-04 00:00:00" endTime="2018-04-10 24:00:00" keepDay="7" restDay="0" loop="false" roundTime="1" order="52" icon="icon"/>
+	<!--************************************************↓↓↓开服活动组↓↓↓************************************************-->
+	<activity id="1" name="特惠礼包" startTime="server" endTime="2117-01-01 00:00:00" keepDay="7" restDay="0" loop="false" roundTime="1" order="1" icon="icon"/>
+	<!--<activity id="3" name="冲级奖励" startTime="server" endTime="2117-01-01 00:00:00" keepDay="7" restDay="0" loop="false" roundTime="1" order="3" icon="icon"/>-->
+	<activity id="4" name="达标活动" startTime="server" endTime="2117-01-01 00:00:00" keepDay="1" restDay="0" loop="true" roundTime="7" order="4" icon="icon"/>
+	<activity id="5" name="登录14天活动" startTime="server" endTime="2117-01-01 00:00:00" keepDay="999" restDay="0" loop="false" roundTime="1" order="5" icon="icon"/>
+	<activity id="7" name="每日累充" startTime="server" endTime="2117-01-01 00:00:00" keepDay="1" restDay="0" loop="true" roundTime="999" order="7" icon="icon"/>
+	<activity id="8" name="充值盛宴" startTime="server" endTime="2117-01-01 00:00:00" keepDay="7" restDay="0" loop="false" roundTime="1" order="8" icon="icon"/>
+	<activity id="12" name="VIP商城" startTime="server" endTime="2117-01-01 00:00:00" keepDay="999" restDay="0" loop="false" roundTime="1" order="12" icon="icon"/>
+	<activity id="13" name="累充42天豪礼" startTime="server" endTime="2117-01-01 00:00:00" keepDay="999" restDay="0" loop="false" roundTime="1" order="13" icon="icon"/>
+	<activity id="15" name="连充返利7天" startTime="server" endTime="2117-01-07 00:00:00" keepDay="7" restDay="0" loop="false" roundTime="1" order="15" icon="icon"/>
+	<activity id="18" name="超值特卖" startTime="server" endTime="2018-03-10 00:00:00" keepDay="1" restDay="0" loop="true" roundTime="5" order="2" icon="icon"/>
+	<activity id="35" name="五行副本活动" startTime="after;server_4;2018-03-02 00:00:00" endTime="2117-01-01 00:00:00" keepDay="5" restDay="0" loop="false" roundTime="1" order="35" icon="icon"/>
+	<!--<activity id="65" name="投资基金" startTime="server" endTime="2117-01-01 00:00:00" keepDay="9999" restDay="0" loop="false" roundTime="1" order="1" icon="icon"/>-->
+	<activity id="66" name="新服拉霸" startTime="server" endTime="2117-01-01 00:00:00" keepDay="7" restDay="0" loop="false" roundTime="1" order="1" icon="icon"/>
+	<activity id="69" name="开服狂欢" startTime="server" endTime="2117-01-01 00:00:00" keepDay="1" restDay="0" loop="true" roundTime="7" order="1" icon="icon"/>
+	<activity id="70" name="名人堂" startTime="server" endTime="2117-01-01 00:00:00" keepDay="8" restDay="0" loop="false" roundTime="1" order="1" icon="icon"/>
+	<!--*****服务器拆分活动组*****-->
+	<!--**********3月28日后新开服务器的活动**********-->
+	<!--activity id="2" name="老限购礼包" startTime="server" endTime="2117-01-01 00:00:00" keepDay="1" restDay="0" loop="true" roundTime="7" order="2" icon="icon"/-->
+	<!--**********3月28日后新开服务器的活动**********-->
+	<activity id="68" name="新限时限购礼包" startTime="server" endTime="2117-01-01 00:00:00" keepDay="1" restDay="0" loop="true" roundTime="7" order="68" icon="icon"/>
+	<!--************************************************↑↑↑开服活动组↑↑↑************************************************-->
+	<!--************************************************↓↓↓未开启活动↓↓↓************************************************-->
+	<!--文件：xingyunbiaopao-->
+	<activity id="53" name="幸运鞭炮" startTime="2018-01-04 00:00:00" endTime="2018-01-11 00:00:00" keepDay="7" restDay="0" loop="false" roundTime="1" order="53" icon="icon"/>
+	<!--文件：xingyunzhuanpan  xingyundabiao-->
+	<activity id="34" name="转盘" startTime="2018-02-09 00:00:00" endTime="2018-02-13 00:00:00" keepDay="4" restDay="0" loop="false" roundTime="1" order="34" icon="icon"/>
+	<!--文件：pintu pintureward-->
+	<activity id="55" name="拼图" startTime="2018-02-14 00:00:00" endTime="2018-02-23 00:00:00" keepDay="2" restDay="0" loop="false" roundTime="1" order="55" icon="icon"/>
+	<!--文件：dafuweng dafuwengshaizi dafuwengcishu dafuwengchongzhi dafuwengcengshu dafuwengbushu-->
+	<activity id="54" name="探宝" startTime="2018-02-28 00:00:00" endTime="2018-03-07 00:00:00" keepDay="7" restDay="0" loop="false" roundTime="1" order="54" icon="icon"/>
+	<!--文件：jizi-->
+	<activity id="61" name="集字" startTime="2018-03-14 00:00:00" endTime="2018-03-21 00:00:00" keepDay="7" restDay="0" loop="false" roundTime="1" order="60" icon="icon"/>	
+<!--文件：leijixiaofei-->
+	<activity id="36" name="累积消费" startTime="2018-03-21 00:00:00" endTime="2018-03-28 00:00:00" keepDay="7" restDay="0" loop="false" roundTime="1" order="36" icon="icon"/>
+	<!--zhizunzhuanpan zhizunzhuanpanbaoji zhizunzhuanpandabiao-->
+	<activity id="59" name="至尊转盘" startTime="2018-03-21 00:00:00" endTime="2018-03-28 00:00:00" keepDay="7" restDay="0" loop="false" roundTime="1" order="59" icon="icon"/>	
+	<!--展示用-->
+	<!--************材料副本双倍  周五晚上reload 周日晚上reload************-->
+	<activity id="63" name="双倍材料" startTime="2018-03-24 00:00:00" endTime="2018-03-26 00:00:00" keepDay="2" restDay="0" loop="false" roundTime="1" order="63" icon="icon"/>	
+	<!--文件：laba-->
+	<activity id="67" name="老服拉霸" startTime="after;server_7;2018-03-21 00:00:00" endTime="018-03-22 00:00:00" keepDay="1" restDay="0" loop="false" roundTime="1" order="1" icon="icon"/>
+	<!--文件：meirishouchong***********************-->
+	<!--<activity id="51" name="节日首冲38" startTime="after;server_7;2018-04-02 00:00:00" endTime="2018-04-05 00:00:00" keepDay="1" restDay="0" loop="true" roundTime="5" order="51" icon="icon"/>-->
+	<activity id="50" name="每日限购" startTime="after;server_7;2018-03-28 00:00:00" endTime="2018-04-04 00:00:00" keepDay="1" restDay="0" loop="true" roundTime="7" order="50" icon="icon"/>	
+	<!--文件：mibao mibaoedu-->
+	<activity id="60" name="秘宝" startTime="after;server_7;2018-03-28 00:00:00" endTime="2018-04-04 00:00:00" keepDay="7" restDay="0" loop="false" roundTime="1" order="60" icon="icon"/>
+	<!--文件：dafuweng1 dafuwengshaizi1 dafuwengbushu1 dafuwengcengshu1 jubaoge-->
+	<activity id="62" name="探宝" startTime="after;server_7;2018-03-28 00:00:00" endTime="2018-04-04 00:00:00" keepDay="7" restDay="0" loop="false" roundTime="1" order="62" icon="icon"/>
+	<!--************************************************↑↑↑未开启活动↑↑↑************************************************-->	
+	<!--******************************18年4月4日 至 18年4月11日*****为主*************************-->
+	<!--特殊开放周期的活动***********************-->
+	<!--文件：yuanbaowangzhe-->
+	<activity id="33" name="元宝王者" openServerRange="2017-02-26 00:00:00;2018-02-25 23:59:00#2018-03-15 00:00:00;2019-03-14 23:59:00" startTime="after;server_7;2018-04-04 00:00:00" endTime="2018-04-10 24:00:00" keepDay="1" restDay="0" loop="true" roundTime="7" order="33" icon="icon"/>
+	<!--正常更新周期的活动***********************-->
+	<!--**********************开服 第8天 **********************-->	
+	<!--文件：dingshichongzhi***充值需新增109-->	
+	<activity id="109" name="累积充值" openServerRange="2017-02-26 00:00:00;2018-02-25 23:59:00#2018-03-15 00:00:00;2019-03-14 23:59:00" startTime="after;server_7;2018-04-04 00:00:00" endTime="2018-04-10 24:00:00" keepDay="7" restDay="0" loop="false" roundTime="1" order="109" icon="icon"/>	
+	<!--文件：tehuilibao4-->
+	<activity id="58" name="特惠礼包" openServerRange="2017-02-26 00:00:00;2018-02-25 23:59:00#2018-03-15 00:00:00;2019-03-14 23:59:00" startTime="after;server_7;2018-04-04 00:00:00" endTime="2018-04-10 24:00:00" keepDay="7" restDay="0" loop="false" roundTime="1" order="58" icon="icon"/>
+	<!--文件：xiangoulibao3-->
+	<!--xingyunzhuanpan1 &xingyundabiao1(这个文件要干掉)-->
+	<activity id="57" name="幸运转盘" openServerRange="2017-02-26 00:00:00;2018-02-25 23:59:00#2018-03-15 00:00:00;2019-03-14 23:59:00" startTime="after;server_7;2018-04-04 00:00:00" endTime="2018-04-10 24:00:00" keepDay="7" restDay="0" loop="false" roundTime="1" order="57" icon="icon"/>
+	<!--文件：lianxuchongzhi2-->
+	
+	<activity id="72" name="活动引导(日常)" openServerRange="2017-02-26 00:00:00;2018-02-25 23:59:00#2018-03-15 00:00:00;2019-03-14 23:59:00" startTime="after;server_7;2018-04-04 00:00:00" endTime="2018-04-10 24:00:00" keepDay="7" restDay="0" loop="false" roundTime="1" order="33" icon="icon"/>
+	<!--**********************开服 第2天 **********************-->	
+	<!--************镇魂转盘指引************-->	
+	<!--activity id="64" name="镇魂宝库" startTime="after;server_1;2018-03-28 00:00:00" endTime="2018-04-05 00:00:00" keepDay="7" restDay="0" loop="false" roundTime="1" order="64" icon="icon"/-->	
+	<!--**********************全服适用活动**********************-->
+	<!--文件：denglu2-->
+	<activity id="56" name="愚人登陆" startTime="2018-03-31 00:00:00" endTime="2018-04-03 00:00:00" keepDay="3" restDay="0" loop="false" roundTime="1" order="56" icon="icon"/>
+	<!--**********************合服活动**********************-->	
+	<!--文件：dingshichongzhi1-->
+	<activity id="400" name="累积充值" openServerRange="2018-02-26 00:00:00;2018-03-06 23:59:00#2018-03-07 00:00:00;2018-03-14 23:59:00" startTime="after;server_7;2018-04-04 00:00:01" endTime="2018-04-10 24:00:00" keepDay="7" restDay="0" loop="false" roundTime="1" order="109" icon="icon"/>
+	<!--文件：lianxuchongzhi3-->
+	<activity id="401" name="连续充值88" openServerRange="2018-02-26 00:00:00;2018-03-06 23:59:00#2018-03-07 00:00:00;2018-03-14 23:59:00" startTime="after;server_7;2018-04-04 00:00:00" endTime="2018-04-10 24:00:00" keepDay="7" restDay="0" loop="false" roundTime="1" order="52" icon="icon"/>
+	<!--文件：tehuilibao2-->
+	<activity id="402" name="特惠礼包" openServerRange="2018-02-26 00:00:00;2018-03-06 23:59:00#2018-03-07 00:00:00;2018-03-14 23:59:00" startTime="after;server_7;2018-04-04 00:00:01" endTime="2018-04-10 24:00:00" keepDay="7" restDay="0" loop="false" roundTime="1" order="58" icon="icon"/>
+	<!--文件：xingyunzhuanpan2-->
+	<activity id="403" name="幸运转盘" openServerRange="2018-02-26 00:00:00;2018-03-06 23:59:00#2018-03-07 00:00:00;2018-03-14 23:59:00" startTime="after;server_7;2018-04-04 00:00:01" endTime="2018-04-10 24:00:00" keepDay="7" restDay="0" loop="false" roundTime="1" order="57" icon="icon"/>
+	<!--文件：yuanbaowangzhe1-->
+	<activity id="404" name="元宝王者" openServerRange="2018-02-26 00:00:00;2018-03-06 23:59:00#2018-03-07 00:00:00;2018-03-14 23:59:00" startTime="after;server_7;2018-04-04 00:00:01" endTime="2018-04-10 24:00:00" keepDay="1" restDay="0" loop="true" roundTime="7" order="33" icon="icon"/>
+	<activity id="405" name="活动引导(合服)" openServerRange="2018-02-26 00:00:00;2018-03-06 23:59:00#2018-03-07 00:00:00;2018-03-14 23:59:00" startTime="after;server_7;2018-04-04 00:00:01" endTime="2018-04-10 24:00:00" keepDay="7" restDay="0" loop="false" roundTime="1" order="33" icon="icon"/>
+	<!--><activity id="406" name="消费排行" openServerRange="2018-02-26 00:00:00;2018-03-06 23:59:00#2018-03-07 00:00:00;2018-03-14 23:59:00" startTime="after;server_7;2018-04-04 00:00:01" endTime="2018-04-10 24:00:00" keepDay="7" restDay="0" loop="false" roundTime="1" order="33" icon="icon"/>-->
+</activities>

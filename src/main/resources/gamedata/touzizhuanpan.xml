@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<logics>
+	<logic id="1" chongzhi="100" cost="88" fanli="176#264#352#440#880#1760" gailv="0#7500#1900#500#100#0"/>
+	<logic id="2" chongzhi="500" cost="188" fanli="376#564#752#940#1880#3760" gailv="4000#3500#1900#500#100#0"/>
+	<logic id="3" chongzhi="1000" cost="488" fanli="976#1464#1952#2440#4880#9760" gailv="4000#3500#1900#500#100#0"/>
+	<logic id="4" chongzhi="2000" cost="988" fanli="1976#2964#3952#4940#9880#19760" gailv="8000#2000#0#0#0#0"/>
+	<logic id="5" chongzhi="5000" cost="1888" fanli="3776#5664#7552#9440#18880#37760" gailv="9000#1000#0#0#0#0"/>
+</logics>

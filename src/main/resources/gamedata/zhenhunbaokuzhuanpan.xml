@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<baoku>
+	<group id="1" reward_1="0" reward_2="0" reward_3="0" reward_4="0" reward_5="0" reward_6="0" reward_7="0" reward_8="10" reward_9="10" reward_10="10" reward_11="30" reward_12="40" times="0" target="1,2,3,4,5,6,7"/>
+	<group id="2" reward_1="0" reward_2="5" reward_3="5" reward_4="5" reward_5="5" reward_6="5" reward_7="5" reward_8="5" reward_9="30" reward_10="30" reward_11="5" reward_12="0" times="40" target="1,2,3,4,5,6,7"/>
+	<group id="3" reward_1="0" reward_2="0" reward_3="0" reward_4="0" reward_5="0" reward_6="0" reward_7="0" reward_8="10" reward_9="10" reward_10="10" reward_11="30" reward_12="40" times="60" target="1,2,3,4,5,6,7"/>
+	<group id="4" reward_1="0" reward_2="5" reward_3="5" reward_4="5" reward_5="5" reward_6="5" reward_7="5" reward_8="5" reward_9="30" reward_10="30" reward_11="5" reward_12="0" times="80" target="1,2,3,4,5,6,7"/>
+	<group id="5" reward_1="0" reward_2="0" reward_3="0" reward_4="0" reward_5="0" reward_6="0" reward_7="0" reward_8="10" reward_9="10" reward_10="10" reward_11="30" reward_12="40" times="100" target="1,2,3,4,5,6,7"/>
+	<group id="6" reward_1="0" reward_2="5" reward_3="5" reward_4="5" reward_5="5" reward_6="5" reward_7="5" reward_8="5" reward_9="30" reward_10="30" reward_11="5" reward_12="0" times="120" target="1,2,3,4,5,6,7"/>
+	<group id="7" reward_1="0" reward_2="0" reward_3="0" reward_4="0" reward_5="0" reward_6="0" reward_7="0" reward_8="10" reward_9="10" reward_10="10" reward_11="30" reward_12="40" times="140" target="1,2,3,4,5,6,7"/>
+	<group id="8" reward_1="0" reward_2="5" reward_3="5" reward_4="5" reward_5="5" reward_6="5" reward_7="5" reward_8="5" reward_9="30" reward_10="30" reward_11="5" reward_12="0" times="160" target="1,2,3,4,5,6,7"/>
+	<group id="9" reward_1="0" reward_2="0" reward_3="0" reward_4="0" reward_5="0" reward_6="0" reward_7="0" reward_8="10" reward_9="10" reward_10="10" reward_11="30" reward_12="40" times="180" target="1,2,3,4,5,6,7"/>
+	<group id="10" reward_1="0" reward_2="5" reward_3="5" reward_4="5" reward_5="5" reward_6="5" reward_7="5" reward_8="5" reward_9="30" reward_10="30" reward_11="5" reward_12="0" times="200" target="1,2,3,4,5,6,7"/>
+	<group id="11" reward_1="0" reward_2="0" reward_3="0" reward_4="0" reward_5="0" reward_6="0" reward_7="0" reward_8="10" reward_9="10" reward_10="10" reward_11="30" reward_12="40" times="220" target="1,2,3,4,5,6,7"/>
+	<group id="12" reward_1="0" reward_2="0" reward_3="0" reward_4="0" reward_5="0" reward_6="0" reward_7="0" reward_8="10" reward_9="10" reward_10="10" reward_11="30" reward_12="40" times="240" target="1,2,3,4,5,6,7"/>
+	<group id="13" reward_1="0" reward_2="5" reward_3="5" reward_4="5" reward_5="5" reward_6="5" reward_7="5" reward_8="5" reward_9="30" reward_10="30" reward_11="5" reward_12="0" times="260" target="1,2,3,4,5,6,7"/>
+	<group id="14" reward_1="0" reward_2="0" reward_3="0" reward_4="0" reward_5="0" reward_6="0" reward_7="0" reward_8="10" reward_9="10" reward_10="10" reward_11="30" reward_12="40" times="280" target="1,2,3,4,5,6,7"/>
+	<group id="15" reward_1="0" reward_2="5" reward_3="5" reward_4="5" reward_5="5" reward_6="5" reward_7="5" reward_8="5" reward_9="30" reward_10="30" reward_11="5" reward_12="0" times="300" target="1,2,3,4,5,6,7"/>
+	<group id="16" reward_1="0" reward_2="0" reward_3="0" reward_4="0" reward_5="0" reward_6="0" reward_7="0" reward_8="10" reward_9="10" reward_10="10" reward_11="30" reward_12="40" times="320" target="1,2,3,4,5,6,7"/>
+	<group id="17" reward_1="0" reward_2="5" reward_3="5" reward_4="5" reward_5="5" reward_6="5" reward_7="5" reward_8="5" reward_9="30" reward_10="30" reward_11="5" reward_12="0" times="340" target="1,2,3,4,5,6,7"/>
+	<group id="18" reward_1="0" reward_2="0" reward_3="0" reward_4="0" reward_5="0" reward_6="0" reward_7="0" reward_8="10" reward_9="10" reward_10="10" reward_11="30" reward_12="40" times="360" target="1,2,3,4,5,6,7"/>
+	<group id="19" reward_1="0" reward_2="0" reward_3="0" reward_4="0" reward_5="0" reward_6="0" reward_7="0" reward_8="10" reward_9="10" reward_10="10" reward_11="30" reward_12="40" times="380" target="1,2,3,4,5,6,7"/>
+	<group id="20" reward_1="30" reward_2="0" reward_3="0" reward_4="0" reward_5="0" reward_6="0" reward_7="0" reward_8="5" reward_9="30" reward_10="30" reward_11="5" reward_12="0" times="400" target="1"/>
+</baoku>

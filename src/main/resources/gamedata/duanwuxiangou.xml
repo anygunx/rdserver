@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<zhuhuns>
+	<logic id="1" round="0" name="全民特惠" price="4,0,1500000" rewards="2,52,20" vip="0" max="1" zhekou="5"/>
+	<logic id="2" round="0" name="VIP1特权" price="5,0,188" rewards="2,52,100" vip="1" max="1" zhekou="4"/>
+	<logic id="3" round="0" name="VIP4特权" price="5,0,428" rewards="2,52,300" vip="4" max="1" zhekou="3"/>
+	<logic id="4" round="1" name="全民特惠" price="4,0,3000000" rewards="2,17,50" vip="0" max="1" zhekou="5"/>
+	<logic id="5" round="1" name="VIP1特权" price="5,0,240" rewards="2,18,200" vip="1" max="1" zhekou="4"/>
+	<logic id="6" round="1" name="VIP4特权" price="5,0,400" rewards="2,53,1" vip="4" max="1" zhekou="5"/>
+	<logic id="7" round="2" name="全民特惠" price="4,0,1500000" rewards="2,19,10" vip="0" max="1" zhekou="5"/>
+	<logic id="8" round="2" name="VIP1特权" price="5,0,188" rewards="2,19,50" vip="1" max="1" zhekou="4"/>
+	<logic id="9" round="2" name="VIP4特权" price="5,0,428" rewards="2,19,150" vip="4" max="1" zhekou="3"/>
+	<logic id="10" round="3" name="全民特惠" price="4,0,1500000" rewards="3,1,1" vip="0" max="1" zhekou="5"/>
+	<logic id="11" round="3" name="VIP1特权" price="5,0,488" rewards="2,11,2" vip="1" max="1" zhekou="4"/>
+	<logic id="12" round="3" name="VIP2特权" price="5,0,1000" rewards="2,56,1" vip="2" max="1" zhekou="5"/>
+	<logic id="13" round="4" name="全民特惠" price="4,0,1500000" rewards="2,9,10" vip="0" max="1" zhekou="5"/>
+	<logic id="14" round="4" name="VIP1特权" price="5,0,188" rewards="2,9,50" vip="1" max="1" zhekou="4"/>
+	<logic id="15" round="4" name="VIP4特权" price="5,0,428" rewards="2,9,150" vip="4" max="1" zhekou="3"/>
+	<logic id="16" round="5" name="全民特惠" price="4,0,3000000" rewards="2,31,10" vip="0" max="1" zhekou="5"/>
+	<logic id="17" round="5" name="VIP1特权" price="5,0,188" rewards="2,31,50" vip="1" max="1" zhekou="4"/>
+	<logic id="18" round="5" name="VIP4特权" price="5,0,428" rewards="2,31,150" vip="4" max="1" zhekou="3"/>
+	<logic id="19" round="6" name="全民特惠" price="4,0,1500000" rewards="2,16,10" vip="0" max="1" zhekou="5"/>
+	<logic id="20" round="6" name="VIP1特权" price="5,0,188" rewards="2,16,50" vip="1" max="1" zhekou="4"/>
+	<logic id="21" round="6" name="VIP4特权" price="5,0,428" rewards="2,16,150" vip="4" max="1" zhekou="3"/>
+</zhuhuns>

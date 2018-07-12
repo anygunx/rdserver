@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cards>
+	<card id="1" pos="1" name="炼狱裁决" quality="0" cost="33,1,1" icon2="xltj_cssb_0_jpg" icon="xltj_icon_cssb_0_png"/>
+	<card id="2" pos="2" name="雷霆怒斩" quality="1" cost="33,2,1" icon2="xltj_cssb_1_jpg" icon="xltj_icon_cssb_1_png"/>
+	<card id="3" pos="3" name="神圣屠龙" quality="2" cost="33,3,1" icon2="xltj_cssb_2_jpg" icon="xltj_icon_cssb_2_png"/>
+	<card id="4" pos="4" name="倚天神剑" quality="3" cost="33,4,1" icon2="xltj_cssb_3_jpg" icon="xltj_icon_cssb_3_png"/>
+	<card id="5" pos="5" name="霸者之刃" quality="4" cost="33,5,1" icon2="xltj_cssb_4_jpg" icon="xltj_icon_cssb_4_png"/>
+	<card id="6" pos="1" name="清水芙蓉" quality="0" cost="33,6,1" icon2="xltj_mnry_0_jpg" icon="xltj_icon_mnry_0_png"/>
+	<card id="7" pos="2" name="娇艳欲滴" quality="1" cost="33,7,1" icon2="xltj_mnry_1_jpg" icon="xltj_icon_mnry_1_png"/>
+	<card id="8" pos="3" name="沉鱼落雁" quality="2" cost="33,8,1" icon2="xltj_mnry_2_jpg" icon="xltj_icon_mnry_2_png"/>
+	<card id="9" pos="4" name="闭月羞花" quality="3" cost="33,9,1" icon2="xltj_mnry_3_jpg" icon="xltj_icon_mnry_3_png"/>
+	<card id="10" pos="5" name="国色天香" quality="4" cost="33,10,1" icon2="xltj_mnry_4_jpg" icon="xltj_icon_mnry_4_png"/>
+	<card id="11" pos="1" name="战神手镯" quality="0" cost="33,11,1" icon2="xltj_zsjz_2_jpg" icon="xltj_icon_zsjz_2_png"/>
+	<card id="12" pos="2" name="战神项链" quality="1" cost="33,12,1" icon2="xltj_zsjz_1_jpg" icon="xltj_icon_zsjz_1_png"/>
+	<card id="13" pos="3" name="战神戒指" quality="2" cost="33,13,1" icon2="xltj_zsjz_0_jpg" icon="xltj_icon_zsjz_0_png"/>
+	<card id="14" pos="4" name="战神金盔" quality="3" cost="33,14,1" icon2="xltj_zsjz_3_jpg" icon="xltj_icon_zsjz_3_png"/>
+	<card id="15" pos="5" name="凤天魔甲" quality="4" cost="33,15,1" icon2="xltj_zsjz_4_jpg" icon="xltj_icon_zsjz_4_png"/>
+	<card id="16" pos="1" name="法神手镯" quality="0" cost="33,16,1" icon2="xltj_fsjz_2_jpg" icon="xltj_icon_fsjz_2_png"/>
+	<card id="17" pos="2" name="法神项链" quality="1" cost="33,17,1" icon2="xltj_fsjz_1_jpg" icon="xltj_icon_fsjz_1_png"/>
+	<card id="18" pos="3" name="法神戒指" quality="2" cost="33,18,1" icon2="xltj_fsjz_0_jpg" icon="xltj_icon_fsjz_0_png"/>
+	<card id="19" pos="4" name="法神金盔" quality="3" cost="33,19,1" icon2="xltj_fsjz_3_jpg" icon="xltj_icon_fsjz_3_png"/>
+	<card id="20" pos="5" name="法神披风" quality="4" cost="33,20,1" icon2="xltj_fsjz_4_jpg" icon="xltj_icon_fsjz_4_png"/>
+	<card id="21" pos="1" name="天尊手镯" quality="0" cost="33,21,1" icon2="xltj_tzjz_2_jpg" icon="xltj_icon_tzjz_2_png"/>
+	<card id="22" pos="2" name="天尊项链" quality="1" cost="33,22,1" icon2="xltj_tzjz_1_jpg" icon="xltj_icon_tzjz_2_png"/>
+	<card id="23" pos="3" name="天尊戒指" quality="2" cost="33,23,1" icon2="xltj_tzjz_0_jpg" icon="xltj_icon_tzjz_0_png"/>
+	<card id="24" pos="4" name="天尊道盔" quality="3" cost="33,24,1" icon2="xltj_tzjz_3_jpg" icon="xltj_icon_tzjz_3_png"/>
+	<card id="25" pos="5" name="天尊道袍" quality="4" cost="33,25,1" icon2="xltj_tzjz_4_jpg" icon="xltj_icon_tzjz_4_png"/>
+	<card id="26" pos="1" name="麒麟之主" quality="0" cost="33,26,1" icon2="xltj_zzsj_0_jpg" icon="xltj_icon_zzsj_0_png"/>
+	<card id="27" pos="2" name="玄武灵尊" quality="1" cost="33,27,1" icon2="xltj_zzsj_1_jpg" icon="xltj_icon_zzsj_1_png"/>
+	<card id="28" pos="3" name="白虎圣兽" quality="2" cost="33,28,1" icon2="xltj_zzsj_2_jpg" icon="xltj_icon_zzsj_2_png"/>
+	<card id="29" pos="4" name="凤凰神鸟" quality="3" cost="33,29,1" icon2="xltj_zzsj_3_jpg" icon="xltj_icon_zzsj_3_png"/>
+	<card id="30" pos="5" name="青龙至尊" quality="4" cost="33,30,1" icon2="xltj_zzsj_4_jpg" icon="xltj_icon_zzsj_4_png"/>
+	<card id="31" pos="1" name="黄泉教主" quality="0" cost="33,31,1" icon2="xltj_cqzl_1_jpg" icon="xltj_icon_cqzl_1_png"/>
+	<card id="32" pos="2" name="沃玛教主" quality="1" cost="33,32,1" icon2="xltj_cqzl_0_jpg" icon="xltj_icon_cqzl_0_png"/>
+	<card id="33" pos="3" name="虹魔教主" quality="2" cost="33,33,1" icon2="xltj_cqzl_2_jpg" icon="xltj_icon_cqzl_2_png"/>
+	<card id="34" pos="4" name="祖玛教主" quality="3" cost="33,34,1" icon2="xltj_cqzl_3_jpg" icon="xltj_icon_cqzl_3_png"/>
+	<card id="35" pos="5" name="触龙神" quality="4" cost="33,35,1" icon2="xltj_cqzl_4_jpg" icon="xltj_icon_cqzl_4_png"/>
+	<card id="36" pos="1" name="骁勇善战" quality="4" cost="33,36,1" icon2="xltj_zwbs_0_jpg" icon="xltj_icon_zwbs_0_png"/>
+	<card id="37" pos="2" name="百战不屈" quality="4" cost="33,37,1" icon2="xltj_zwbs_1_jpg" icon="xltj_icon_zwbs_1_png"/>
+	<card id="38" pos="3" name="战无不胜" quality="4" cost="33,38,1" icon2="xltj_zwbs_2_jpg" icon="xltj_icon_zwbs_2_png"/>
+	<card id="39" pos="4" name="冲锋陷阵" quality="4" cost="33,39,1" icon2="xltj_zwbs_3_jpg" icon="xltj_icon_zwbs_3_png"/>
+	<card id="40" pos="5" name="所向披靡" quality="4" cost="33,40,1" icon2="xltj_zwbs_4_jpg" icon="xltj_icon_zwbs_4_png"/>
+</cards>

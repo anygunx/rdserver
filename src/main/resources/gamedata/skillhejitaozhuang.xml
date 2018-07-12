@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<zhulings>
+	<zhuling id="61" name="60级3件套" pvpindamage="540" pveindamage="0" reangery="0"/>
+	<zhuling id="62" name="60级5件套" pvpindamage="540" pveindamage="1500" reangery="0"/>
+	<zhuling id="63" name="60级8件套" pvpindamage="540" pveindamage="1500" reangery="10"/>
+	<zhuling id="101" name="1转3件套" pvpindamage="600" pveindamage="0" reangery="0"/>
+	<zhuling id="102" name="1转5件套" pvpindamage="600" pveindamage="1950" reangery="0"/>
+	<zhuling id="103" name="1转8件套" pvpindamage="600" pveindamage="1950" reangery="20"/>
+	<zhuling id="301" name="3转3件套" pvpindamage="660" pveindamage="0" reangery="0"/>
+	<zhuling id="302" name="3转5件套" pvpindamage="660" pveindamage="2400" reangery="0"/>
+	<zhuling id="303" name="3转8件套" pvpindamage="660" pveindamage="2400" reangery="30"/>
+	<zhuling id="401" name="4转3件套" pvpindamage="720" pveindamage="0" reangery="0"/>
+	<zhuling id="402" name="4转5件套" pvpindamage="720" pveindamage="2850" reangery="0"/>
+	<zhuling id="403" name="4转8件套" pvpindamage="720" pveindamage="2850" reangery="40"/>
+	<zhuling id="501" name="5转3件套" pvpindamage="780" pveindamage="0" reangery="0"/>
+	<zhuling id="502" name="5转5件套" pvpindamage="780" pveindamage="3300" reangery="0"/>
+	<zhuling id="503" name="5转8件套" pvpindamage="780" pveindamage="3300" reangery="50"/>
+	<zhuling id="601" name="6转3件套" pvpindamage="840" pveindamage="0" reangery="0"/>
+	<zhuling id="602" name="6转5件套" pvpindamage="840" pveindamage="3900" reangery="0"/>
+	<zhuling id="603" name="6转8件套" pvpindamage="840" pveindamage="3900" reangery="60"/>
+	<zhuling id="701" name="7转3件套" pvpindamage="900" pveindamage="0" reangery="0"/>
+	<zhuling id="702" name="7转5件套" pvpindamage="900" pveindamage="4500" reangery="0"/>
+	<zhuling id="703" name="7转8件套" pvpindamage="900" pveindamage="4500" reangery="70"/>
+</zhulings>

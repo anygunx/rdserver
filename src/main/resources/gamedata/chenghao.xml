@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<zhulings>
+	<zhuling id="1" name="最强王者" waixing1="title_icon_zqwz_png" desc="等级排行榜第1名可以获得" offY="-64,-64,-64,-64,-64" cost="1" time="1815" hp="400" attack="160" phyDef="80" magicDef="80"/>
+	<zhuling id="2" name="巅峰战神" waixing1="title_icon_dfzs_png" desc="等级排行榜2~10名可以获得" offY="-64,-64,-64,-64,-64" cost="2" time="1815" hp="200" attack="80" phyDef="40" magicDef="40"/>
+	<zhuling id="3" name="天下第一" waixing1="title_icon_txdy_png" desc="战力排行榜第1名可以获得" offY="-64,-64,-64,-64,-64" cost="1" time="1815" hp="400" attack="160" phyDef="80" magicDef="80"/>
+	<zhuling id="4" name="万年护法" waixing1="title_icon_zzws_png" desc="战力排行榜2~10名可以获得" offY="-64,-64,-64,-64,-64" cost="2" time="1815" hp="200" attack="80" phyDef="40" magicDef="40"/>
+	<zhuling id="5" name="无敌大飞机" waixing1="title_icon_wddfj_png" desc="仙羽排行榜第1名可以获得" offY="-64,-64,-64,-64,-64" cost="1" time="1815" hp="400" attack="160" phyDef="80" magicDef="80"/>
+	<zhuling id="6" name="小蜜蜂" waixing1="title_icon_xmf_png" desc="仙羽排行榜2~10名可以获得" offY="-64,-64,-64,-64,-64" cost="2" time="1815" hp="200" attack="80" phyDef="40" magicDef="40"/>
+	<zhuling id="7" name="刀刀小朋友" waixing1="title_icon_ddxpy_png" desc="官职排行榜第1名可以获得" offY="-64,-64,-64,-64,-64" cost="1" time="1815" hp="400" attack="160" phyDef="80" magicDef="80"/>
+	<zhuling id="8" name="社会王" waixing1="title_icon_jhss_png" desc="官职排行榜2~10名可以获得" offY="-64,-64,-64,-64,-64" cost="2" time="1815" hp="200" attack="80" phyDef="40" magicDef="40"/>
+	<zhuling id="9" name="珠光宝气" waixing1="title_icon_hqwz_png" desc="达标活动宝石第1名可以获得" offY="-64,-64,-64,-64,-64" cost="3,39,1" time="-1" hp="1500" attack="600" phyDef="300" magicDef="300"/>
+	<zhuling id="10" name="御龙铭千古" waixing1="title_icon_ylmqg_png" desc="达标活动龙鳞第1名可以获得" offY="-64,-64,-64,-64,-64" cost="3,40,1" time="-1" hp="1500" attack="600" phyDef="300" magicDef="300"/>
+	<zhuling id="11" name="凤翼天翔" waixing1="title_icon_fytx_png" desc="达标活动羽翼第1名可以获得" offY="-64,-64,-64,-64,-64" cost="3,41,1" time="-1" hp="1500" attack="600" phyDef="300" magicDef="300"/>
+	<zhuling id="12" name="骨骼精奇" waixing1="title_icon_zgqwzz_png" desc="达标活动经脉第1名可以获得" offY="-64,-64,-64,-64,-64" cost="3,42,1" time="-1" hp="1500" attack="600" phyDef="300" magicDef="300"/>
+	<zhuling id="13" name="登峰造极" waixing1="title_icon_dfzj_png" desc="达标活动转生第1名可以获得" offY="-64,-64,-64,-64,-64" cost="3,43,1" time="-1" hp="1500" attack="600" phyDef="300" magicDef="300"/>
+	<zhuling id="14" name="霸绝天下" waixing1="title_icon_bjtxzws_png" desc="达标活动战力第1名可以获得" offY="-64,-64,-64,-64,-64" cost="3,44,1" time="-1" hp="1500" attack="600" phyDef="300" magicDef="300"/>
+	<zhuling id="15" name="比奇村长" waixing1="title_icon_bqcz_png" desc="夜战比奇第1名可以获得" offY="-64,-64,-64,-64,-64" cost="3,45,1" time="86415" hp="1500" attack="600" phyDef="300" magicDef="300"/>
+	<zhuling id="16" name="沙城霸主" waixing1="title_icon_scbz_png" desc="沙城争霸第一公会会长专属" offY="-64,-64,-64,-64,-64" cost="3,81,1" time="604805" hp="2000" attack="1000" phyDef="500" magicDef="500"/>
+</zhulings>

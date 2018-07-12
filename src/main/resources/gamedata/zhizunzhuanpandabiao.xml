@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xinfahc>
+	<logic id="1" dabiao="5" jiangli="23"/>
+	<logic id="2" dabiao="20" jiangli="25"/>
+	<logic id="3" dabiao="45" jiangli="24"/>
+	<logic id="4" dabiao="70" jiangli="23"/>
+	<logic id="5" dabiao="100" jiangli="22"/>
+	<logic id="6" dabiao="140" jiangli="24"/>
+	<logic id="7" dabiao="190" jiangli="25"/>
+	<logic id="8" dabiao="240" jiangli="24"/>
+	<logic id="9" dabiao="290" jiangli="22"/>
+	<logic id="10" dabiao="340" jiangli="23"/>
+	<logic id="11" dabiao="390" jiangli="24"/>
+	<logic id="12" dabiao="440" jiangli="25"/>
+	<logic id="13" dabiao="490" jiangli="22"/>
+	<logic id="14" dabiao="540" jiangli="25"/>
+	<logic id="15" dabiao="590" jiangli="25"/>
+	<logic id="16" dabiao="640" jiangli="24"/>
+	<logic id="17" dabiao="690" jiangli="22"/>
+	<logic id="18" dabiao="740" jiangli="25"/>
+	<logic id="19" dabiao="790" jiangli="23"/>
+	<logic id="20" dabiao="840" jiangli="24"/>
+	<logic id="21" dabiao="890" jiangli="22"/>
+	<logic id="22" dabiao="940" jiangli="25"/>
+	<logic id="23" dabiao="990" jiangli="24"/>
+	<logic id="24" dabiao="1040" jiangli="24"/>
+	<logic id="25" dabiao="1090" jiangli="22"/>
+</xinfahc>

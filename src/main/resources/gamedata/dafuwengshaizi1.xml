@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<zhuhuns>
+	<logic id="1" round="0" type="1" num="1" diaoluo="4"/>
+	<logic id="2" round="0" type="1" num="2" diaoluo="6"/>
+	<logic id="3" round="0" type="1" num="3" diaoluo="30"/>
+	<logic id="4" round="0" type="1" num="4" diaoluo="40"/>
+	<logic id="5" round="0" type="1" num="5" diaoluo="15"/>
+	<logic id="6" round="0" type="1" num="6" diaoluo="5"/>
+</zhuhuns>

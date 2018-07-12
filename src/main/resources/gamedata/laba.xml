@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<logics>
+	<logic id="1" minrewards="1088" maxrewards="2588" price="888" vip="0" show="10000"/>
+	<logic id="2" minrewards="3888" maxrewards="5088" price="3088" vip="0" show="10000"/>
+	<logic id="3" minrewards="6888" maxrewards="8888" price="6088" vip="0" show="10000"/>
+	<logic id="4" minrewards="11888" maxrewards="20888" price="19888" vip="0" show="10000"/>
+	<logic id="5" minrewards="21888" maxrewards="22888" price="28888" vip="0" show="10000"/>
+	<logic id="6" minrewards="31888" maxrewards="31888" price="38888" vip="0" show="10000"/>
+	<logic id="7" minrewards="41888" maxrewards="41888" price="58888" vip="0" show="10000"/>
+</logics>

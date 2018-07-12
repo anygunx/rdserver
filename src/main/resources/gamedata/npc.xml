@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<fighters>
+	<fighter id="1" name="新手引导员" avata="1_xsydy" hp="30" hight="130" width="120"/>
+	<fighter id="2" name="小韵" avata="2_xy" hp="30" hight="130" width="120"/>
+	<fighter id="3" name="华大叔" avata="3_hds" hp="30" hight="130" width="120"/>
+	<fighter id="4" name="神龙营卫兵" avata="4_slywb" hp="30" hight="123" width="84"/>
+	<fighter id="5" name="张铁柱" avata="5_ztz" hp="30" hight="123" width="84"/>
+	<fighter id="6" name="褚镇源" avata="6_czy" hp="30" hight="123" width="84"/>
+	<fighter id="7" name="阳光使者" avata="7_ygsz" hp="30" hight="123" width="84"/>
+	<fighter id="8" name="酒庄老板娘" avata="8_jzlb" hp="30" hight="123" width="84"/>
+	<fighter id="9" name="屠夫阿林" avata="9_tf" hp="30" hight="123" width="84"/>
+	<fighter id="10" name="城主守卫" avata="10_czsw" hp="30" hight="123" width="84"/>
+	<fighter id="11" name="耶律将军" avata="11_yvjj" hp="30" hight="123" width="84"/>
+	<fighter id="12" name="战旗" avata="tansuo_6" hp="300000" hight="123" width="84"/>
+	<fighter id="13" name="公会战旗" avata="ghz_zhanqi" hp="300000000" hight="123" width="84"/>
+	<fighter id="188" name="帮会仙灵" avata="tansuo_6" hp="30" hight="123" width="84"/>
+</fighters>

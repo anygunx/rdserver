@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<logics>
+	<logic id="1" round="0" type="1" mubiaoCount="6" mubiao1="5" reward1="2,9,5" mubiao2="15" reward2="2,9,15" mubiao3="30" reward3="2,9,30" mubiao4="50" reward4="2,9,40" mubiao5="80" reward5="2,9,60" mubiao6="120" reward6="2,9,80" paihangreward="1"/>
+	<logic id="2" round="1" type="2" mubiaoCount="6" mubiao1="8000" reward1="2,17,10" mubiao2="15000" reward2="2,17,15" mubiao3="30000" reward3="2,17,20" mubiao4="50000" reward4="2,17,30" mubiao5="75000" reward5="2,17,40" mubiao6="100000" reward6="2,17,50" paihangreward="2"/>
+	<logic id="3" round="2" type="3" mubiaoCount="6" mubiao1="30" reward1="2,13,15" mubiao2="50" reward2="2,13,30" mubiao3="75" reward3="2,13,50" mubiao4="100" reward4="2,13,70" mubiao5="120" reward5="2,13,90" mubiao6="150" reward6="2,13,130" paihangreward="3"/>
+	<logic id="4" round="3" type="4" mubiaoCount="6" mubiao1="40000" reward1="2,16,10" mubiao2="80000" reward2="2,16,30" mubiao3="120000" reward3="2,16,60" mubiao4="150000" reward4="2,16,80" mubiao5="200000" reward5="2,16,120" mubiao6="280000" reward6="2,16,160" paihangreward="4"/>
+	<logic id="5" round="4" type="5" mubiaoCount="4" mubiao1="110" reward1="3,1,1" mubiao2="120" reward2="3,1,2" mubiao3="130" reward3="3,1,3" mubiao4="140" reward4="3,1,5" paihangreward="5"/>
+	<logic id="6" round="5" type="6" mubiaoCount="6" mubiao1="500000" reward1="2,16,10" mubiao2="1200000" reward2="2,16,20" mubiao3="1500000" reward3="2,16,35" mubiao4="2000000" reward4="2,16,50" mubiao5="2500000" reward5="2,16,65" mubiao6="3000000" reward6="2,16,80" paihangreward="6"/>
+	<logic id="7" round="6" type="6" mubiaoCount="6" mubiao1="500000" reward1="2,16,10" mubiao2="1200000" reward2="2,16,20" mubiao3="1500000" reward3="2,16,35" mubiao4="2000000" reward4="2,16,50" mubiao5="2500000" reward5="2,16,65" mubiao6="3000000" reward6="2,16,80" paihangreward="7"/>
+</logics>

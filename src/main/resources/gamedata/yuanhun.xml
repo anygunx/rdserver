@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mounts>
+	<mount id="1" name="生命" pinzhi="0" icon="xue1_png" hp="1" attack="0" Def="0" block="0" hit="0" dodge="0" crit="0" duct="0" counter="0" chushiExp="10"/>
+	<mount id="2" name="命中" pinzhi="0" icon="ren1_png" hp="0" attack="0" Def="0" block="0" hit="1" dodge="0" crit="0" duct="0" counter="0" chushiExp="10"/>
+	<mount id="3" name="格挡" pinzhi="0" icon="po1_png" hp="0" attack="0" Def="0" block="1" hit="0" dodge="0" crit="0" duct="0" counter="0" chushiExp="10"/>
+	<mount id="4" name="生命" pinzhi="1" icon="xue2_png" hp="1" attack="0" Def="0" block="0" hit="0" dodge="0" crit="0" duct="0" counter="0" chushiExp="50"/>
+	<mount id="5" name="防御" pinzhi="1" icon="fang1_png" hp="0" attack="0" Def="1" block="0" hit="0" dodge="0" crit="0" duct="0" counter="0" chushiExp="50"/>
+	<mount id="6" name="命中" pinzhi="1" icon="ren2_png" hp="0" attack="0" Def="0" block="0" hit="1" dodge="0" crit="0" duct="0" counter="0" chushiExp="50"/>
+	<mount id="7" name="格挡" pinzhi="1" icon="po2_png" hp="0" attack="0" Def="0" block="1" hit="0" dodge="0" crit="0" duct="0" counter="0" chushiExp="50"/>
+	<mount id="8" name="生命" pinzhi="2" icon="xue3_png" hp="1" attack="0" Def="0" block="0" hit="0" dodge="0" crit="0" duct="0" counter="0" chushiExp="100"/>
+	<mount id="9" name="防御" pinzhi="2" icon="fang2_png" hp="0" attack="0" Def="1" block="0" hit="0" dodge="0" crit="0" duct="0" counter="0" chushiExp="100"/>
+	<mount id="10" name="命中" pinzhi="2" icon="ren3_png" hp="0" attack="0" Def="0" block="0" hit="1" dodge="0" crit="0" duct="0" counter="0" chushiExp="100"/>
+	<mount id="11" name="闪避" pinzhi="2" icon="shan1_png" hp="0" attack="0" Def="0" block="0" hit="0" dodge="1" crit="0" duct="0" counter="0" chushiExp="100"/>
+	<mount id="12" name="抗暴" pinzhi="2" icon="zhong1_png" hp="0" attack="0" Def="0" block="0" hit="0" dodge="0" crit="0" duct="1" counter="0" chushiExp="100"/>
+	<mount id="13" name="攻击" pinzhi="3" icon="gong1_png" hp="0" attack="1" Def="0" block="0" hit="0" dodge="0" crit="0" duct="0" counter="0" chushiExp="300"/>
+	<mount id="14" name="生命" pinzhi="3" icon="xue4_png" hp="1" attack="0" Def="0" block="0" hit="0" dodge="0" crit="0" duct="0" counter="0" chushiExp="300"/>
+	<mount id="15" name="防御" pinzhi="3" icon="fang3_png" hp="0" attack="0" Def="1" block="0" hit="0" dodge="0" crit="0" duct="0" counter="0" chushiExp="300"/>
+	<mount id="16" name="命中" pinzhi="3" icon="ren4_png" hp="0" attack="0" Def="0" block="0" hit="1" dodge="0" crit="0" duct="0" counter="0" chushiExp="300"/>
+	<mount id="17" name="闪避" pinzhi="3" icon="shan2_png" hp="0" attack="0" Def="0" block="0" hit="0" dodge="1" crit="0" duct="0" counter="0" chushiExp="300"/>
+	<mount id="18" name="抗暴" pinzhi="3" icon="gong5_png" hp="0" attack="0" Def="0" block="0" hit="0" dodge="0" crit="0" duct="1" counter="0" chushiExp="300"/>
+	<mount id="19" name="格挡" pinzhi="3" icon="po3_png" hp="0" attack="0" Def="0" block="1" hit="0" dodge="0" crit="0" duct="0" counter="0" chushiExp="300"/>
+	<mount id="20" name="攻击" pinzhi="4" icon="gong2_png" hp="0" attack="1" Def="0" block="0" hit="0" dodge="0" crit="0" duct="0" counter="0" chushiExp="1000"/>
+	<mount id="21" name="生命" pinzhi="4" icon="xue5_png" hp="1" attack="0" Def="0" block="0" hit="0" dodge="0" crit="0" duct="0" counter="0" chushiExp="1000"/>
+	<mount id="22" name="防御" pinzhi="4" icon="fang4_png" hp="0" attack="0" Def="1" block="0" hit="0" dodge="0" crit="0" duct="0" counter="0" chushiExp="1000"/>
+	<mount id="23" name="命中" pinzhi="4" icon="ren5_png" hp="0" attack="0" Def="0" block="0" hit="1" dodge="0" crit="0" duct="0" counter="0" chushiExp="1000"/>
+	<mount id="24" name="闪避" pinzhi="4" icon="shan3_png" hp="0" attack="0" Def="0" block="0" hit="0" dodge="1" crit="0" duct="0" counter="0" chushiExp="1000"/>
+	<mount id="25" name="暴击" pinzhi="4" icon="gong3_png" hp="0" attack="0" Def="0" block="0" hit="0" dodge="0" crit="1" duct="0" counter="0" chushiExp="1000"/>
+	<mount id="26" name="抗暴" pinzhi="4" icon="gong4_png" hp="0" attack="0" Def="0" block="0" hit="0" dodge="0" crit="0" duct="1" counter="0" chushiExp="1000"/>
+	<mount id="27" name="格挡" pinzhi="4" icon="po4_png" hp="0" attack="0" Def="0" block="1" hit="0" dodge="0" crit="0" duct="0" counter="0" chushiExp="1000"/>
+	<mount id="28" name="破招" pinzhi="4" icon="po5_png" hp="0" attack="0" Def="0" block="0" hit="0" dodge="0" crit="0" duct="0" counter="1" chushiExp="1000"/>
+</mounts>

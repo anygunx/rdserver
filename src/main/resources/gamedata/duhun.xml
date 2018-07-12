@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<duhuns>
+	<duhun id="1" name="刑天之魂" keeptime="600" doubleStart="2016-01-01 00:00:00" doubleEnd="2016-09-23 00:00:00" gailv="30" jiangli="2,30,1000" jiebiao="2,30,100" beijiebiao="2,30,50" jiebiaoDrop="21"/>
+	<duhun id="2" name="夜叉之魂" keeptime="720" doubleStart="2016-01-01 00:00:00" doubleEnd="2016-09-23 00:00:00" gailv="30" jiangli="2,30,1500" jiebiao="2,30,150" beijiebiao="2,30,75" jiebiaoDrop="21"/>
+	<duhun id="3" name="罗刹之魂" keeptime="900" doubleStart="2016-01-01 00:00:00" doubleEnd="2016-09-23 00:00:00" gailv="20" jiangli="2,30,2000" jiebiao="2,30,200" beijiebiao="2,30,100" jiebiaoDrop="21"/>
+	<duhun id="4" name="无常之魂" keeptime="1080" doubleStart="2016-01-01 00:00:00" doubleEnd="2016-09-23 00:00:00" gailv="10" jiangli="2,30,3000" jiebiao="2,30,300" beijiebiao="2,30,150" jiebiaoDrop="21"/>
+	<duhun id="5" name="阎罗之魂" keeptime="1200" doubleStart="2016-01-01 00:00:00" doubleEnd="2016-09-23 00:00:00" gailv="10" jiangli="2,30,5000" jiebiao="2,30,500" beijiebiao="2,30,250" jiebiaoDrop="21"/>
+</duhuns>

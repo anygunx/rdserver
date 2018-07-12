@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<zhulings>
+	<zhuling level="1" name="麻痹戒指" postion="0" cost="2,14,15" attack="770" paralysis="1200" paralysisre="1000" attackradio="100" time="2"/>
+	<zhuling level="2" name="麻痹戒指" postion="0" cost="2,14,20" attack="1190" paralysis="1400" paralysisre="1150" attackradio="140" time="2"/>
+	<zhuling level="3" name="麻痹戒指" postion="0" cost="2,14,30" attack="1610" paralysis="1600" paralysisre="1300" attackradio="180" time="2"/>
+	<zhuling level="4" name="麻痹戒指" postion="0" cost="2,14,40" attack="1960" paralysis="1800" paralysisre="1450" attackradio="220" time="2"/>
+	<zhuling level="5" name="麻痹戒指" postion="0" cost="2,14,50" attack="2450" paralysis="2000" paralysisre="1600" attackradio="260" time="2"/>
+	<zhuling level="6" name="麻痹戒指" postion="0" cost="2,14,60" attack="2940" paralysis="2200" paralysisre="1750" attackradio="300" time="2"/>
+	<zhuling level="7" name="麻痹戒指" postion="0" cost="2,14,70" attack="3500" paralysis="2400" paralysisre="1900" attackradio="350" time="2"/>
+	<zhuling level="8" name="麻痹戒指" postion="0" cost="2,14,80" attack="4060" paralysis="2600" paralysisre="2050" attackradio="400" time="2"/>
+	<zhuling level="9" name="麻痹戒指" postion="0" cost="2,14,90" attack="4760" paralysis="2800" paralysisre="2200" attackradio="450" time="2"/>
+	<zhuling level="10" name="麻痹戒指" postion="0" cost="2,14,100" attack="5460" paralysis="3000" paralysisre="2350" attackradio="510" time="2"/>
+	<zhuling level="11" name="麻痹戒指" postion="0" cost="2,14,120" attack="6230" paralysis="3200" paralysisre="2500" attackradio="570" time="2"/>
+	<zhuling level="12" name="麻痹戒指" postion="0" cost="2,14,140" attack="7000" paralysis="3400" paralysisre="2700" attackradio="630" time="2"/>
+	<zhuling level="13" name="麻痹戒指" postion="0" cost="2,14,160" attack="7980" paralysis="3600" paralysisre="2900" attackradio="700" time="2"/>
+	<zhuling level="14" name="麻痹戒指" postion="0" cost="2,14,180" attack="8960" paralysis="3900" paralysisre="3100" attackradio="800" time="2"/>
+	<zhuling level="15" name="麻痹戒指" postion="0" cost="2,14,200" attack="10080" paralysis="4200" paralysisre="3300" attackradio="900" time="2"/>
+	<zhuling level="16" name="麻痹戒指" postion="0" cost="2,14,300" attack="11200" paralysis="4500" paralysisre="3500" attackradio="1050" time="2"/>
+	<zhuling level="17" name="麻痹戒指" postion="0" cost="2,14,400" attack="12600" paralysis="4800" paralysisre="3700" attackradio="1200" time="2"/>
+	<zhuling level="18" name="麻痹戒指" postion="0" cost="2,14,600" attack="14000" paralysis="5100" paralysisre="4000" attackradio="1600" time="2"/>
+	<zhuling level="1" name="护身戒指" postion="1" cost="2,15,15" hp="3850" phyDef="385" magicDef="385" dr="500" hpradio="100"/>
+	<zhuling level="2" name="护身戒指" postion="1" cost="2,15,20" hp="5950" phyDef="595" magicDef="595" dr="600" hpradio="140"/>
+	<zhuling level="3" name="护身戒指" postion="1" cost="2,15,30" hp="8050" phyDef="805" magicDef="805" dr="700" hpradio="180"/>
+	<zhuling level="4" name="护身戒指" postion="1" cost="2,15,40" hp="9800" phyDef="980" magicDef="980" dr="800" hpradio="220"/>
+	<zhuling level="5" name="护身戒指" postion="1" cost="2,15,50" hp="12250" phyDef="1225" magicDef="1225" dr="900" hpradio="260"/>
+	<zhuling level="6" name="护身戒指" postion="1" cost="2,15,60" hp="14700" phyDef="1470" magicDef="1470" dr="1000" hpradio="300"/>
+	<zhuling level="7" name="护身戒指" postion="1" cost="2,15,70" hp="17500" phyDef="1750" magicDef="1750" dr="1100" hpradio="350"/>
+	<zhuling level="8" name="护身戒指" postion="1" cost="2,15,80" hp="20300" phyDef="2030" magicDef="2030" dr="1200" hpradio="400"/>
+	<zhuling level="9" name="护身戒指" postion="1" cost="2,15,90" hp="23800" phyDef="2380" magicDef="2380" dr="1300" hpradio="450"/>
+	<zhuling level="10" name="护身戒指" postion="1" cost="2,15,100" hp="27300" phyDef="2730" magicDef="2730" dr="1400" hpradio="510"/>
+	<zhuling level="11" name="护身戒指" postion="1" cost="2,15,120" hp="31150" phyDef="3115" magicDef="3115" dr="1500" hpradio="570"/>
+	<zhuling level="12" name="护身戒指" postion="1" cost="2,15,150" hp="35000" phyDef="3500" magicDef="3500" dr="1600" hpradio="630"/>
+	<zhuling level="13" name="护身戒指" postion="1" cost="2,15,160" hp="39900" phyDef="3990" magicDef="3990" dr="1700" hpradio="700"/>
+	<zhuling level="14" name="护身戒指" postion="1" cost="2,15,180" hp="44800" phyDef="4480" magicDef="4480" dr="1800" hpradio="800"/>
+	<zhuling level="15" name="护身戒指" postion="1" cost="2,15,200" hp="50400" phyDef="5040" magicDef="5040" dr="1900" hpradio="900"/>
+	<zhuling level="16" name="护身戒指" postion="1" cost="2,15,300" hp="56000" phyDef="5600" magicDef="5600" dr="2000" hpradio="1050"/>
+	<zhuling level="17" name="护身戒指" postion="1" cost="2,15,400" hp="63000" phyDef="6300" magicDef="6300" dr="2100" hpradio="1200"/>
+	<zhuling level="18" name="护身戒指" postion="1" cost="2,15,600" hp="70000" phyDef="7000" magicDef="7000" dr="2200" hpradio="1600"/>
+</zhulings>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<biqiranks>
+	<biqirank rank="1" feats="5000" contribution="200"/>
+	<biqirank rank="2" feats="4500" contribution="190"/>
+	<biqirank rank="3" feats="4000" contribution="180"/>
+	<biqirank rank="4" feats="3500" contribution="170"/>
+	<biqirank rank="5" feats="3000" contribution="160"/>
+	<biqirank rank="6" feats="2800" contribution="150"/>
+	<biqirank rank="7" feats="2600" contribution="140"/>
+	<biqirank rank="8" feats="2400" contribution="130"/>
+	<biqirank rank="9" feats="2200" contribution="120"/>
+	<biqirank rank="10" feats="2000" contribution="110"/>
+</biqiranks>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<logics>
+	<logic id="1" times="5" reward="4,0,300000#2,16,10#2,10,50"/>
+	<logic id="2" times="10" reward="4,0,500000#2,9,10#2,17,20#2,16,10"/>
+</logics>

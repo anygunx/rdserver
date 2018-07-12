@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<activities>
+	<activity id="1" exp="10" cost="2" effect="500" pinzhi="2"/>
+	<activity id="2" exp="10" cost="2" effect="1000" pinzhi="2"/>
+	<activity id="3" exp="20" cost="4" effect="2000" pinzhi="2"/>
+	<activity id="4" exp="20" cost="4" effect="3000" pinzhi="3"/>
+	<activity id="5" exp="20" cost="4" effect="4000" pinzhi="3"/>
+	<activity id="6" exp="20" cost="4" effect="5000" pinzhi="3"/>
+	<activity id="7" exp="40" cost="7" effect="6500" pinzhi="4"/>
+	<activity id="8" exp="40" cost="7" effect="8000" pinzhi="4"/>
+	<activity id="9" exp="40" cost="7" effect="9500" pinzhi="4"/>
+	<activity id="10" exp="40" cost="7" effect="11000" pinzhi="4"/>
+</activities>

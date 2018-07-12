@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<shops>
+	<shop id="1" itemType="0" modelId="1" num="1" goldprice="10000" yuanbaoprice="10" gailv="0" discount="0"/>
+	<shop id="2" itemType="0" modelId="10" num="1" goldprice="30000" yuanbaoprice="30" gailv="0" discount="0"/>
+	<shop id="3" itemType="0" modelId="20" num="1" goldprice="50000" yuanbaoprice="50" gailv="0" discount="0"/>
+	<shop id="4" itemType="0" modelId="30" num="1" goldprice="90000" yuanbaoprice="90" gailv="0" discount="0"/>
+	<shop id="5" itemType="0" modelId="40" num="1" goldprice="180000" yuanbaoprice="180" gailv="0" discount="0"/>
+	<shop id="6" itemType="0" modelId="50" num="1" goldprice="400000" yuanbaoprice="400" gailv="0" discount="0"/>
+	<shop id="7" itemType="0" modelId="60" num="1" goldprice="700000" yuanbaoprice="700" gailv="0" discount="0"/>
+	<shop id="8" itemType="0" modelId="70" num="1" goldprice="1200000" yuanbaoprice="1200" gailv="0" discount="0"/>
+	<shop id="9" itemType="0" modelId="80" num="1" goldprice="2200000" yuanbaoprice="2200" gailv="0" discount="0"/>
+	<shop id="10" itemType="0" modelId="90" num="1" goldprice="3800000" yuanbaoprice="3800" gailv="0" discount="0"/>
+	<shop id="11" itemType="0" modelId="100" num="1" goldprice="5800000" yuanbaoprice="5800" gailv="0" discount="0"/>
+	<shop id="12" itemType="0" modelId="110" num="1" goldprice="8200000" yuanbaoprice="8200" gailv="0" discount="0"/>
+	<shop id="13" itemType="0" modelId="120" num="1" goldprice="10800000" yuanbaoprice="10800" gailv="0" discount="0"/>
+	<shop id="14" itemType="0" modelId="130" num="1" goldprice="13500000" yuanbaoprice="13500" gailv="0" discount="0"/>
+	<shop id="15" itemType="0" modelId="140" num="1" goldprice="18500000" yuanbaoprice="18500" gailv="0" discount="0"/>
+	<shop id="16" itemType="0" modelId="150" num="1" goldprice="24500000" yuanbaoprice="24500" gailv="0" discount="0"/>
+	<shop id="17" itemType="0" modelId="160" num="1" goldprice="32500000" yuanbaoprice="32500" gailv="0" discount="0"/>
+	<shop id="18" itemType="0" modelId="170" num="1" goldprice="42000000" yuanbaoprice="42000" gailv="0" discount="0"/>
+	<shop id="19" itemType="0" modelId="180" num="1" goldprice="53500000" yuanbaoprice="53500" gailv="0" discount="0"/>
+	<shop id="20" itemType="0" modelId="190" num="1" goldprice="65600000" yuanbaoprice="65600" gailv="0" discount="0"/>
+	<shop id="21" itemType="0" modelId="200" num="1" goldprice="78500000" yuanbaoprice="78500" gailv="0" discount="0"/>
+	<shop id="22" itemType="2" modelId="17" num="50" goldprice="0" yuanbaoprice="2000" gailv="360" discount="0"/>
+	<shop id="23" itemType="2" modelId="17" num="100" goldprice="0" yuanbaoprice="4000" gailv="873" discount="0"/>
+	<shop id="24" itemType="2" modelId="11" num="1" goldprice="0" yuanbaoprice="6000" gailv="686" discount="0"/>
+	<shop id="25" itemType="2" modelId="11" num="2" goldprice="0" yuanbaoprice="12000" gailv="400" discount="0"/>
+	<shop id="26" itemType="2" modelId="7" num="10" goldprice="0" yuanbaoprice="1000" gailv="672" discount="0"/>
+	<shop id="27" itemType="2" modelId="7" num="20" goldprice="0" yuanbaoprice="2000" gailv="672" discount="0"/>
+	<shop id="28" itemType="2" modelId="7" num="100" goldprice="0" yuanbaoprice="10000" gailv="672" discount="0"/>
+	<shop id="29" itemType="2" modelId="8" num="1" goldprice="0" yuanbaoprice="5000" gailv="483" discount="0"/>
+	<shop id="30" itemType="2" modelId="8" num="2" goldprice="0" yuanbaoprice="10000" gailv="191" discount="0"/>
+	<shop id="31" itemType="2" modelId="20" num="2" goldprice="0" yuanbaoprice="2000" gailv="100" discount="0"/>
+	<shop id="32" itemType="2" modelId="20" num="5" goldprice="0" yuanbaoprice="5000" gailv="50" discount="0"/>
+	<shop id="33" itemType="2" modelId="17" num="10" goldprice="0" yuanbaoprice="400" gailv="383" discount="0"/>
+	<shop id="34" itemType="2" modelId="14" num="5" goldprice="0" yuanbaoprice="5000" gailv="672" discount="0"/>
+	<shop id="35" itemType="2" modelId="14" num="10" goldprice="0" yuanbaoprice="10000" gailv="483" discount="0"/>
+	<shop id="36" itemType="2" modelId="14" num="15" goldprice="0" yuanbaoprice="15000" gailv="483" discount="0"/>
+	<shop id="37" itemType="2" modelId="15" num="5" goldprice="0" yuanbaoprice="5000" gailv="672" discount="0"/>
+	<shop id="38" itemType="2" modelId="15" num="10" goldprice="0" yuanbaoprice="10000" gailv="483" discount="0"/>
+	<shop id="39" itemType="2" modelId="15" num="15" goldprice="0" yuanbaoprice="15000" gailv="483" discount="0"/>
+	<shop id="40" itemType="3" modelId="1" num="1" goldprice="0" yuanbaoprice="1000" gailv="191" discount="0"/>
+	<shop id="41" itemType="3" modelId="2" num="5" goldprice="0" yuanbaoprice="50000" gailv="991" discount="80"/>
+</shops>

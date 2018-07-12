@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mounts>
+	<mount id="1" name="云龙" type="0" appearance="mount13" consume="2,58,1" hp="300" attack="30" Def="30" block="0" hit="0" dodge="0" crit="150" duct="0" counter="0" offY="-90,-90,-90,-90,-90"/>
+	<mount id="2" name="金鸡" type="0" appearance="mount11" consume="2,55,1" hp="100" attack="10" Def="10" block="0" hit="0" dodge="0" crit="50" duct="0" counter="0" offY="-90,-90,-90,-90,-90"/>
+	<mount id="3" name="年兽" type="0" appearance="mount12" consume="2,57,1" hp="0" attack="200" Def="0" block="0" hit="0" dodge="0" crit="1000" duct="0" counter="0" offY="-90,-90,-90,-90,-90"/>
+	<mount id="41" name="宝灯" type="4" appearance="fabao_11" consume="2,63,1" hp="0" attack="150" Def="150" block="0" hit="0" dodge="0" crit="0" duct="0" counter="0"/>
+	<mount id="4" name="爱情羊" type="0" appearance="mount14" consume="2,64,1" hp="1500" attack="150" Def="0" block="0" hit="0" dodge="0" crit="0" duct="0" counter="0"/>
+</mounts>

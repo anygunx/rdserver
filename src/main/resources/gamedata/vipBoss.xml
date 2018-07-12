@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<vipbosss>
+	<vipboss id="1" layer="1" bossid="1" limitLevel="30" bossLevel="30级" listname="魔兽将军" modelId="82" map="10005" reward="2,18,3#2,10,2#2,1,5" show="0,19,4,4#0,145,4,4#0,271,4,4"/>
+	<vipboss id="2" layer="1" bossid="2" limitLevel="40" bossLevel="40级" listname="双头血魔" modelId="83" map="10005" reward="2,18,3#2,10,2#2,1,5" show="0,25,4,4#0,151,4,4#0,277,4,4"/>
+	<vipboss id="3" layer="1" bossid="3" limitLevel="50" bossLevel="50级" listname="蜘蛛女王" modelId="84" map="10005" reward="2,18,3#2,10,2#2,1,5" show="0,31,4,4#0,157,4,4#0,283,4,4"/>
+	<vipboss id="4" layer="1" bossid="4" limitLevel="60" bossLevel="60级" listname="虹魔教主" modelId="85" map="10005" reward="2,18,2#2,10,2#2,1,5" show="0,37,4,4#0,163,4,4#0,289,4,4"/>
+	<vipboss id="5" layer="1" bossid="5" limitLevel="70" bossLevel="70级" listname="祖玛教主" modelId="86" map="10005" reward="2,18,2#2,10,2#2,1,5" show="0,43,4,4#0,169,4,4#0,295,4,4"/>
+	<vipboss id="6" layer="1" bossid="6" limitLevel="80" bossLevel="80级" listname="沃玛教主" modelId="87" map="10005" reward="2,18,2#2,10,2#2,1,5" show="0,49,4,4#0,175,4,4#0,301,4,4"/>
+	<vipboss id="7" layer="1" bossid="7" limitLevel="90" bossLevel="1转" listname="黄泉教主" modelId="88" map="10005" reward="2,18,2#2,10,2#2,1,5" show="0,55,4,4#0,181,4,4#0,307,4,4"/>
+	<vipboss id="8" layer="2" bossid="1" limitLevel="90" bossLevel="1转" listname="黄泉教主" modelId="89" map="10005" reward="2,18,3#2,10,3#2,1,5" show="0,55,4,4#0,181,4,4#0,307,4,4"/>
+	<vipboss id="9" layer="2" bossid="2" limitLevel="100" bossLevel="2转" listname="魔龙教主" modelId="90" map="10005" reward="2,18,3#2,10,3#2,1,5" show="0,61,4,4#0,187,4,4#0,313,4,4"/>
+	<vipboss id="10" layer="2" bossid="3" limitLevel="110" bossLevel="3转" listname="冰霜教主" modelId="91" map="10005" reward="2,18,3#2,10,3#2,1,5" show="0,67,4,4#0,193,4,4#0,319,4,4"/>
+	<vipboss id="11" layer="2" bossid="4" limitLevel="120" bossLevel="4转" listname="牛 魔 王" modelId="92" map="10005" reward="2,18,4#2,10,3#2,1,5" show="0,73,4,4#0,199,4,4#0,325,4,4"/>
+	<vipboss id="12" layer="2" bossid="5" limitLevel="130" bossLevel="5转" listname="双翼天魔" modelId="93" map="10005" reward="2,18,4#2,10,3#2,1,5" show="0,79,4,4#0,205,4,4#0,331,4,4"/>
+	<vipboss id="13" layer="2" bossid="6" limitLevel="140" bossLevel="6转" listname="地穴魔蛛" modelId="94" map="10005" reward="2,18,4#2,10,3#2,1,5" show="0,85,4,4#0,211,4,4#0,337,4,4"/>
+	<vipboss id="14" layer="2" bossid="7" limitLevel="150" bossLevel="7转" listname="毒蟒教主" modelId="95" map="10005" reward="2,18,4#2,10,3#2,1,5" show="0,91,4,4#0,217,4,4#0,343,4,4"/>
+	<vipboss id="15" layer="3" bossid="1" limitLevel="140" bossLevel="6转" listname="地穴魔蛛" modelId="96" map="10005" reward="2,18,5#2,10,4#2,1,5" show="0,85,4,4#0,211,4,4#0,337,4,4"/>
+	<vipboss id="16" layer="3" bossid="2" limitLevel="150" bossLevel="7转" listname="毒蟒教主" modelId="97" map="10005" reward="2,18,5#2,10,3#2,1,5" show="0,91,4,4#0,217,4,4#0,343,4,4"/>
+	<vipboss id="17" layer="3" bossid="3" limitLevel="160" bossLevel="8转" listname="冰霜刀将" modelId="98" map="10005" reward="2,18,4#2,10,3#2,1,5" show="0,97,4,4#0,223,4,4#0,349,4,4"/>
+	<vipboss id="18" layer="3" bossid="4" limitLevel="170" bossLevel="9转" listname="双翼天魔" modelId="99" map="10005" reward="2,18,5#2,10,4#2,1,5" show="0,103,4,4#0,229,4,4#0,355,4,4"/>
+	<vipboss id="19" layer="3" bossid="5" limitLevel="180" bossLevel="10转" listname="地穴魔蛛" modelId="100" map="10005" reward="2,18,5#2,10,4#2,1,5" show="0,109,4,4#0,235,4,4#0,361,4,4"/>
+	<vipboss id="20" layer="3" bossid="6" limitLevel="190" bossLevel="11转" listname="毒蟒教主" modelId="101" map="10005" reward="2,18,5#2,10,4#2,1,5" show="0,115,4,4#0,241,4,4#0,367,4,4"/>
+	<vipboss id="21" layer="3" bossid="7" limitLevel="200" bossLevel="12转" listname="冰霜刀将" modelId="102" map="10005" reward="2,18,5#2,10,4#2,1,5" show="0,121,4,4#0,247,4,4#0,373,4,4"/>
+</vipbosss>

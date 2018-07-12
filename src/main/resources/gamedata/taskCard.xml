@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<list>
+	<task id="1" name="通关天关5次" goType="16" eventType="18" updateType="4" param="5" des="通关天关5次"/>
+	<task id="2" name="参与6次天梯" goType="18" eventType="42" updateType="1" param="6" des="参与6次天梯"/>
+	<task id="3" name="本日登陆" goType="0" eventType="49" updateType="1" param="1" des="本日登陆"/>
+	<task id="4" name="击杀1次个人BOSS" goType="7" eventType="58" updateType="1" param="1" des="击杀1次个人BOSS"/>
+	<task id="5" name="通关10次关卡" goType="2" eventType="2" updateType="4" param="10" des="通关10次关卡"/>
+	<task id="6" name="比奇矿洞挖掘矿源1次" goType="42" eventType="60" updateType="1" param="1" des="比奇矿洞挖掘矿源1次"/>
+	<task id="7" name="参与5次全民BOSS" goType="11" eventType="8" updateType="1" param="5" des="参与5次全民BOSS"/>
+	<task id="8" name="参与1次BOSS之家" goType="48" eventType="59" updateType="1" param="1" des="参与1次BOSS之家"/>
+	<task id="9" name="本日累计充值10000元宝" goType="23" eventType="65" updateType="1" param="10000" des="单笔充值大于10000元宝"/>
+	<task id="10" name="比奇矿洞掠夺矿源5次" goType="42" eventType="61" updateType="1" param="5" des="比奇矿洞掠夺矿源5次"/>
+	<task id="11" name="经脉培养3次" goType="12" eventType="12" updateType="4" param="3" des="经脉培养3次"/>
+	<task id="12" name="攻击8个附近玩家" goType="17" eventType="22" updateType="1" param="8" des="攻击8个附近玩家"/>
+	<task id="13" name="累计消耗10000元宝" goType="47" eventType="64" updateType="1" param="10000" des="累计消耗10000元宝"/>
+	<task id="14" name="完成5次镇魔塔" goType="52" eventType="63" updateType="4" param="5" des="通关5次镇魔塔"/>
+	<task id="15" name="战纹升级1次" goType="37" eventType="107" updateType="1" param="1" des="战纹升级1次"/>
+	<task id="16" name="完成羽翼副本2次" goType="9" eventType="38" updateType="1" param="2" des="完成羽翼副本2次"/>
+	<task id="17" name="参与2次秘境BOSS" goType="41" eventType="56" updateType="1" param="2" des="参与2次秘境BOSS"/>
+	<task id="18" name="参与3次怪物攻城" goType="54" eventType="66" updateType="1" param="3" des="参与3次怪物攻城"/>
+	<task id="19" name="绝世神兵升星1次" goType="38" eventType="104" updateType="1" param="1" des="绝世神兵升星1次"/>
+	<task id="20" name="完成经脉副本2次" goType="9" eventType="11" updateType="1" param="2" des="完成经脉副本2次"/>
+	<task id="21" name="公会捐献10次" goType="43" eventType="67" updateType="1" param="10" des="公会捐献10次"/>
+	<task id="22" name="完成龙鳞副本2次" goType="9" eventType="16" updateType="1" param="2" des="通关龙鳞副本2次"/>
+	<task id="23" name="宝石升级3次" goType="10" eventType="10" updateType="4" param="3" des="宝石升级3次"/>
+	<task id="24" name="本日累计充值2000元宝" goType="23" eventType="65" updateType="1" param="2000" des="累计充值2000元宝"/>
+	<task id="25" name="完成龙纹副本2次" goType="9" eventType="17" updateType="1" param="2" des="完成龙纹副本2次"/>
+	<task id="26" name="完成宝石副本2次" goType="9" eventType="9" updateType="1" param="2" des="完成宝石副本2次"/>
+	<task id="27" name="本日累计充值5000元宝" goType="23" eventType="65" updateType="1" param="5000" des="累计充值5000元宝"/>
+</list>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<zhuhuns>
+	<zhuhun type="0" consume="2,58,1" hp="415" attack="106" phyDef="36" magicDef="36" hit="46" dodge="155" crit="140" duct="31" block="1" counter="1"/>
+	<zhuhun type="1" consume="2,58,1" hp="415" attack="106" phyDef="36" magicDef="36" hit="46" dodge="155" crit="140" duct="31" block="1" counter="1"/>
+	<zhuhun type="2" consume="2,58,1" hp="415" attack="106" phyDef="36" magicDef="36" hit="46" dodge="155" crit="140" duct="31" block="1" counter="1"/>
+	<zhuhun type="3" consume="2,58,1" hp="415" attack="106" phyDef="36" magicDef="36" hit="46" dodge="155" crit="140" duct="31" block="1" counter="1"/>
+	<zhuhun type="4" consume="2,58,1" hp="415" attack="106" phyDef="36" magicDef="36" hit="46" dodge="155" crit="140" duct="31" block="1" counter="1"/>
+	<zhuhun type="5" consume="2,58,1" hp="415" attack="106" phyDef="36" magicDef="36" hit="46" dodge="155" crit="140" duct="31" block="1" counter="1"/>
+	<zhuhun type="6" consume="2,58,1" hp="415" attack="106" phyDef="36" magicDef="36" hit="46" dodge="155" crit="140" duct="31" block="1" counter="1"/>
+	<zhuhun type="7" consume="2,58,1" hp="415" attack="106" phyDef="36" magicDef="36" hit="46" dodge="155" crit="140" duct="31" block="1" counter="1"/>
+</zhuhuns>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config version="1.0">
+    <protocol>http</protocol>
+    <serverID>5</serverID>
+    <gameport>3001</gameport>                        <!-- 游戏端口号 -->
+    <ispublish>false</ispublish>                    <!-- 是否发布 -->
+    <ispvp>false</ispvp>                                <!-- 是否PVP服务器 -->
+    <pvpurl>192.168.0.200:1000</pvpurl>                <!-- PVP服务器 -->
+    <rediscluster>192.168.0.200,6379,7001,7002</rediscluster>        <!-- REDIS配置 -->
+    <paysafeip>/10.163.8.246,/211.159.155.233,/192.168.0.*</paysafeip>            <!-- 充值安全ip -->
+    <urlsafeip>/127.0.0.1,/10.254.149.62,/120.131.0.52,/59.108.46.*,/192.168.0.*</urlsafeip>    <!-- URL安全ip -->
+    <createTime>2018-02-26 10:00:00</createTime>    <!-- 开服时间 活动相关 -->
+</config>

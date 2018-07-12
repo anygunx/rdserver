@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<list>
+    <data id="10010" times="1" countType="0" reward="5,0,4000#3,49,1#2,64,1#0,49,1,4#0,175,1,4#0,301,1,4#2,9,10" goods="pay_icon_0_jpg" title="首充五倍返利豪华礼包" content="恭喜您已完成首次充值，快去领取属于您的专属首充奖励吧！"/>
+    <data id="10020" times="1" countType="0" reward="5,0,8000#3,49,1#2,64,1#0,49,1,4#0,175,1,4#0,301,1,4#2,9,10" goods="pay_icon_0_jpg" title="首充五倍返利豪华礼包" content="恭喜您已完成首次充值，快去领取属于您的专属首充奖励吧！"/>
+    <data id="10050" times="1" countType="0" reward="5,0,20000#3,49,1#2,64,1#0,49,1,4#0,175,1,4#0,301,1,4#2,9,10" goods="pay_icon_0_jpg" title="首充五倍返利豪华礼包" content="恭喜您已完成首次充值，快去领取属于您的专属首充奖励吧！"/>
+    <data id="10100" times="1" countType="0" reward="5,0,40000#3,49,1#2,64,1#0,49,1,4#0,175,1,4#0,301,1,4#2,9,10" goods="pay_icon_0_jpg" title="首充五倍返利豪华礼包" content="恭喜您已完成首次充值，快去领取属于您的专属首充奖励吧！"/>
+	<data id="10200" times="1" countType="0" reward="5,0,80000#3,49,1#2,64,1#0,49,1,4#0,175,1,4#0,301,1,4#2,9,10" goods="pay_icon_0_jpg" title="首充五倍返利豪华礼包" content="恭喜您已完成首次充值，快去领取属于您的专属首充奖励吧！"/>
+    <data id="20010" times="1" countType="1" reward="5,0,1000" goods="pay_icon_0_jpg" title="首充二倍返利大礼包" content="充值成功，快去领取属于您的专属首充奖励吧！"/>
+    <data id="20020" times="1" countType="1" reward="5,0,2000" goods="pay_icon_0_jpg" title="首充二倍返利大礼包" content="充值成功，快去领取属于您的专属首充奖励吧！"/>
+    <data id="20050" times="1" countType="1" reward="5,0,5000" goods="pay_icon_0_jpg" title="首充二倍返利大礼包" content="充值成功，快去领取属于您的专属首充奖励吧！"/>
+    <data id="20100" times="1" countType="1" reward="5,0,10000" goods="pay_icon_0_jpg" title="首充二倍返利大礼包" content="充值成功，快去领取属于您的专属首充奖励吧！"/>
+    <data id="20200" times="1" countType="1" reward="5,0,20000" goods="pay_icon_1_jpg" title="首充二倍返利大礼包" content="充值成功，快去领取属于您的专属首充奖励吧！"/>
+    <data id="20500" times="1" countType="1" reward="5,0,50000" goods="pay_icon_1_jpg" title="首充二倍返利大礼包" content="充值成功，快去领取属于您的专属首充奖励吧！"/>
+    <data id="21000" times="1" countType="1" reward="5,0,100000" goods="pay_icon_1_jpg" title="首充二倍返利大礼包" content="充值成功，快去领取属于您的专属首充奖励吧！"/>
+    <data id="21500" times="1" countType="1" reward="5,0,150000" goods="pay_icon_2_jpg" title="首充二倍返利大礼包" content="充值成功，快去领取属于您的专属首充奖励吧！"/>
+    <data id="22000" times="1" countType="1" reward="5,0,200000" goods="pay_icon_2_jpg" title="首充二倍返利大礼包" content="充值成功，快去领取属于您的专属首充奖励吧！"/>
+    <data id="23000" times="1" countType="1" reward="5,0,300000" goods="pay_icon_2_jpg" title="首充二倍返利大礼包" content="充值成功，快去领取属于您的专属首充奖励吧！"/>
+</list>

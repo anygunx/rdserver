@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<shops>
+	<shop id="1" itemType="0" modelId="1" num="1" jifenprice="10000" yuanbaoprice="1"/>
+	<shop id="2" itemType="0" modelId="10" num="1" jifenprice="10000" yuanbaoprice="3"/>
+	<shop id="3" itemType="0" modelId="20" num="1" jifenprice="10000" yuanbaoprice="5"/>
+	<shop id="4" itemType="0" modelId="30" num="1" jifenprice="10000" yuanbaoprice="9"/>
+	<shop id="5" itemType="0" modelId="40" num="1" jifenprice="10000" yuanbaoprice="18"/>
+	<shop id="6" itemType="0" modelId="50" num="1" jifenprice="10000" yuanbaoprice="40"/>
+	<shop id="7" itemType="0" modelId="60" num="1" jifenprice="10000" yuanbaoprice="70"/>
+	<shop id="8" itemType="0" modelId="70" num="1" jifenprice="10000" yuanbaoprice="120"/>
+	<shop id="9" itemType="0" modelId="80" num="1" jifenprice="10000" yuanbaoprice="220"/>
+	<shop id="10" itemType="0" modelId="90" num="1" jifenprice="10000" yuanbaoprice="380"/>
+	<shop id="11" itemType="0" modelId="100" num="1" jifenprice="10000" yuanbaoprice="580"/>
+	<shop id="12" itemType="0" modelId="110" num="1" jifenprice="10000" yuanbaoprice="820"/>
+	<shop id="13" itemType="0" modelId="120" num="1" jifenprice="10000" yuanbaoprice="1080"/>
+	<shop id="14" itemType="0" modelId="130" num="1" jifenprice="10000" yuanbaoprice="1350"/>
+	<shop id="15" itemType="0" modelId="140" num="1" jifenprice="10000" yuanbaoprice="1850"/>
+	<shop id="16" itemType="0" modelId="150" num="1" jifenprice="10000" yuanbaoprice="2450"/>
+	<shop id="17" itemType="0" modelId="160" num="1" jifenprice="10000" yuanbaoprice="3250"/>
+	<shop id="18" itemType="0" modelId="170" num="1" jifenprice="10000" yuanbaoprice="4200"/>
+	<shop id="19" itemType="0" modelId="180" num="1" jifenprice="10000" yuanbaoprice="5350"/>
+	<shop id="20" itemType="0" modelId="190" num="1" jifenprice="10000" yuanbaoprice="6560"/>
+	<shop id="21" itemType="0" modelId="200" num="1" jifenprice="10000" yuanbaoprice="7850"/>
+	<shop id="22" itemType="2" modelId="9" num="10" jifenprice="10000" yuanbaoprice="100"/>
+	<shop id="23" itemType="2" modelId="16" num="10" jifenprice="10000" yuanbaoprice="100"/>
+	<shop id="24" itemType="2" modelId="7" num="1" jifenprice="10000" yuanbaoprice="100"/>
+	<shop id="25" itemType="2" modelId="8" num="1" jifenprice="10000" yuanbaoprice="2500"/>
+	<shop id="26" itemType="2" modelId="14" num="5" jifenprice="10000" yuanbaoprice="500"/>
+	<shop id="27" itemType="2" modelId="15" num="5" jifenprice="10000" yuanbaoprice="500"/>
+</shops>

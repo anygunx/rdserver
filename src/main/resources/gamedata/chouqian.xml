@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mounts>
+	<mount id="1" chenggonggailv="50" gain="14" cost="150"/>
+	<mount id="2" chenggonggailv="50" gain="15" cost="240"/>
+	<mount id="3" chenggonggailv="50" gain="16" cost="360"/>
+	<mount id="4" chenggonggailv="60" gain="17" cost="600"/>
+	<mount id="5" chenggonggailv="0" gain="18" cost="1800"/>
+</mounts>

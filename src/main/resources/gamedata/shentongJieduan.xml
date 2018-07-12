@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<shentongLvs>
+	<shentongLv jieduan="1" cost="1" effect="5000"/>
+	<shentongLv jieduan="2" cost="2" effect="10000"/>
+	<shentongLv jieduan="3" cost="3" effect="15000"/>
+	<shentongLv jieduan="4" cost="3" effect="20000"/>
+	<shentongLv jieduan="5" cost="4" effect="25000"/>
+	<shentongLv jieduan="6" cost="4" effect="30000"/>
+	<shentongLv jieduan="7" cost="5" effect="35000"/>
+	<shentongLv jieduan="8" cost="5" effect="40000"/>
+	<shentongLv jieduan="9" cost="6" effect="45000"/>
+	<shentongLv jieduan="10" cost="6" effect="50000"/>
+</shentongLvs>

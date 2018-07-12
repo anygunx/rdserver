@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<logics>
+	<logic id="41" consume="2,56,50" reward="2,63,1"/>
+	<logic id="4" consume="2,56,50" reward="2,64,1"/>
+</logics>

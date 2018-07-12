@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<open>
+	<logic id="1" round="0" rewards="0,25,4,4#0,151,4,4#0,277,4,4#2,17,150" price="5,0,880" yuanjia="1760" vip="0" needlevel="36" showlevel="36" icon="0"/>
+	<logic id="2" round="0" rewards="0,41,4,4#0,167,4,4#0,293,4,4#2,17,260" price="5,0,2880" yuanjia="9700" vip="0" needlevel="36" showlevel="50" icon="0"/>
+	<logic id="3" round="0" rewards="0,49,4,4#0,175,4,4#0,301,4,4#2,17,460" price="5,0,8800" yuanjia="24400" vip="0" needlevel="36" showlevel="60" icon="0"/>
+	<logic id="4" round="0" rewards="0,55,4,4#0,181,4,4#0,307,4,4#2,17,820" price="5,0,33000" yuanjia="44800" vip="0" needlevel="36" showlevel="70" icon="0"/>
+	<logic id="5" round="0" rewards="0,61,4,4#0,187,4,4#0,313,4,4#2,17,1100" price="5,0,48000" yuanjia="62000" vip="0" needlevel="36" showlevel="80" icon="0"/>
+	<logic id="6" round="0" rewards="0,67,4,4#0,193,4,4#0,319,4,4#2,17,1400" price="5,0,68000" yuanjia="170000" vip="0" needlevel="36" showlevel="90" icon="0"/>
+	<logic id="7" round="0" rewards="0,73,4,4#0,199,4,4#0,325,4,4#2,17,1800" price="5,0,98000" yuanjia="245000" vip="0" needlevel="36" showlevel="100" icon="0"/>
+	<logic id="1" round="1" rewards="2,9,20" price="5,0,880" yuanjia="12000" vip="0" needlevel="90" showlevel="90" icon="0"/>
+	<logic id="2" round="1" rewards="2,9,50" price="5,0,2880" yuanjia="27000" vip="0" needlevel="90" showlevel="100" icon="0"/>
+	<logic id="3" round="1" rewards="2,9,150" price="5,0,8800" yuanjia="48000" vip="0" needlevel="90" showlevel="110" icon="0"/>
+	<logic id="4" round="1" rewards="3,1,3#2,9,400" price="5,0,33000" yuanjia="109880" vip="0" needlevel="90" showlevel="120" icon="0"/>
+	<logic id="5" round="1" rewards="3,1,10#2,9,500" price="5,0,48000" yuanjia="169800" vip="0" needlevel="90" showlevel="130" icon="0"/>
+	<logic id="1" round="2" rewards="3,86,1#2,12,50" price="5,0,880" yuanjia="25300" vip="0" needlevel="0" showlevel="0" icon="0"/>
+	<logic id="2" round="2" rewards="3,86,2#2,12,100" price="5,0,2880" yuanjia="50600" vip="0" needlevel="0" showlevel="0" icon="0"/>
+	<logic id="3" round="2" rewards="3,87,1#2,12,300" price="5,0,8800" yuanjia="58100" vip="0" needlevel="0" showlevel="0" icon="0"/>
+	<logic id="4" round="2" rewards="3,87,2#2,12,1500" price="5,0,33000" yuanjia="88800" vip="0" needlevel="0" showlevel="0" icon="0"/>
+	<logic id="5" round="2" rewards="3,87,3#2,12,1500" price="5,0,48000" yuanjia="132600" vip="0" needlevel="0" showlevel="0" icon="0"/>
+	<logic id="1" round="3" rewards="2,67,10#2,68,10#2,69,10#2,70,10#2,13,50" price="5,0,880" yuanjia="7700" vip="0" needlevel="0" showlevel="0" icon="0"/>
+	<logic id="2" round="3" rewards="2,67,70#2,68,70#2,69,70#2,70,70#2,13,100" price="5,0,2880" yuanjia="16400" vip="0" needlevel="0" showlevel="0" icon="0"/>
+	<logic id="3" round="3" rewards="2,67,290#2,68,290#2,69,290#2,70,290#2,13,300" price="5,0,8800" yuanjia="28300" vip="0" needlevel="0" showlevel="0" icon="0"/>
+	<logic id="4" round="3" rewards="2,67,880#2,68,880#2,69,880#2,70,880#2,13,1500" price="5,0,33000" yuanjia="77600" vip="0" needlevel="0" showlevel="0" icon="0"/>
+	<logic id="5" round="3" rewards="2,67,1240#2,68,1240#2,69,1240#2,70,1240#2,13,1500" price="5,0,48000" yuanjia="99800" vip="0" needlevel="0" showlevel="0" icon="0"/>
+	<logic id="1" round="4" rewards="2,74,260#2,16,20#3,129,2" price="5,0,880" yuanjia="10900" vip="0" needlevel="0" showlevel="0" icon="0"/>
+	<logic id="2" round="4" rewards="2,74,1108#2,16,80#3,130,1#3,129,2" price="5,0,2880" yuanjia="25956" vip="0" needlevel="0" showlevel="0" icon="0"/>
+	<logic id="3" round="4" rewards="2,74,3255#2,16,100#3,131,2#3,132,2" price="5,0,8800" yuanjia="48691" vip="0" needlevel="0" showlevel="0" icon="0"/>
+	<logic id="4" round="4" rewards="2,74,15000#2,16,200#3,132,2#3,131,4" price="5,0,33000" yuanjia="142776" vip="0" needlevel="0" showlevel="0" icon="0"/>
+	<logic id="5" round="4" rewards="2,74,30000#2,16,400#3,133,3#3,132,6" price="5,0,48000" yuanjia="276392" vip="0" needlevel="0" showlevel="0" icon="0"/>
+	<logic id="1" round="5" rewards="3,190,1#22,0,20000" price="5,0,880" yuanjia="10800" vip="0" needlevel="0" showlevel="0" icon="0"/>
+	<logic id="2" round="5" rewards="3,190,1#22,0,40000" price="5,0,2880" yuanjia="15200" vip="0" needlevel="0" showlevel="0" icon="0"/>
+	<logic id="3" round="5" rewards="3,191,1#22,0,80000" price="5,0,8800" yuanjia="29600" vip="0" needlevel="0" showlevel="0" icon="0"/>
+	<logic id="4" round="5" rewards="3,192,1#22,0,200000" price="5,0,33000" yuanjia="76000" vip="0" needlevel="0" showlevel="0" icon="0"/>
+	<logic id="5" round="5" rewards="3,192,2#22,0,300000" price="5,0,48000" yuanjia="130400" vip="0" needlevel="0" showlevel="0" icon="0"/>
+	<logic id="1" round="6" rewards="2,103,2#3,3,150" price="5,0,880" yuanjia="2000" vip="0" needlevel="0" showlevel="0" icon="0"/>
+	<logic id="2" round="6" rewards="2,94,20#2,103,5#3,3,450" price="5,0,2880" yuanjia="8000" vip="0" needlevel="0" showlevel="0" icon="0"/>
+	<logic id="3" round="6" rewards="2,94,200#3,170,1#3,3,900" price="5,0,8800" yuanjia="16000" vip="0" needlevel="0" showlevel="0" icon="0"/>
+	<logic id="4" round="6" rewards="2,94,500#2,88,1#2,89,1#3,3,1300" price="5,0,33000" yuanjia="65000" vip="0" needlevel="0" showlevel="0" icon="0"/>
+	<logic id="5" round="6" rewards="3,173,1" price="5,0,48000" yuanjia="104000" vip="0" needlevel="0" showlevel="0" icon="0"/>
+</open>

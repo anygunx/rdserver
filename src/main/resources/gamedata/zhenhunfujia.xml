@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<shenqis>
+	<shenqi id="1" name="星·传世套装" hp="28125" attack="5625" phyDef="2812" magicDef="2812"/>
+	<shenqi id="2" name="月·传世套装" hp="56250" attack="11250" phyDef="5625" magicDef="5625"/>
+	<shenqi id="3" name="阳·传世套装" hp="84375" attack="16875" phyDef="8437" magicDef="8437"/>
+	<shenqi id="4" name="宇·传世套装" hp="112500" attack="22500" phyDef="11250" magicDef="11250"/>
+	<shenqi id="5" name="圣·传世套装" hp="140625" attack="28125" phyDef="14062" magicDef="14062"/>
+	<shenqi id="6" name="神·传世套装" hp="168750" attack="33750" phyDef="16875" magicDef="16875"/>
+</shenqis>

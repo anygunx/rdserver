@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<logics>
+	<logic round="0" id="36" type="0" mubiao="3" reward="2,39,10" goType="13"/>
+	<logic round="0" id="37" type="0" mubiao="4" reward="2,39,15" goType="13"/>
+	<logic round="0" id="38" type="0" mubiao="5" reward="2,39,25" goType="13"/>
+	<logic round="0" id="39" type="0" mubiao="6" reward="2,39,40" goType="13"/>
+	<logic round="0" id="40" type="0" mubiao="7" reward="2,39,70" goType="13"/>
+	<logic round="0" id="41" type="0" mubiao="8" reward="2,39,90" goType="13"/>
+	<logic round="0" id="42" type="0" mubiao="9" reward="2,39,110" goType="13"/>
+	<logic round="1" id="43" type="1" mubiao="3" reward="2,40,10" goType="14"/>
+	<logic round="1" id="44" type="1" mubiao="4" reward="2,40,15" goType="14"/>
+	<logic round="1" id="45" type="1" mubiao="5" reward="2,40,25" goType="14"/>
+	<logic round="1" id="46" type="1" mubiao="6" reward="2,40,40" goType="14"/>
+	<logic round="1" id="47" type="1" mubiao="7" reward="2,40,70" goType="14"/>
+	<logic round="1" id="48" type="1" mubiao="8" reward="2,40,90" goType="14"/>
+	<logic round="1" id="49" type="1" mubiao="9" reward="2,40,110" goType="14"/>
+	<logic round="2" id="50" type="2" mubiao="3" reward="2,41,10" goType="15"/>
+	<logic round="2" id="51" type="2" mubiao="4" reward="2,41,15" goType="15"/>
+	<logic round="2" id="52" type="2" mubiao="5" reward="2,41,25" goType="15"/>
+	<logic round="2" id="53" type="2" mubiao="6" reward="2,41,40" goType="15"/>
+	<logic round="2" id="54" type="2" mubiao="7" reward="2,41,70" goType="15"/>
+	<logic round="2" id="55" type="2" mubiao="8" reward="2,41,90" goType="15"/>
+	<logic round="2" id="56" type="2" mubiao="9" reward="2,41,110" goType="15"/>
+	<logic round="3" id="57" type="3" mubiao="3" reward="2,42,10" goType="16"/>
+	<logic round="3" id="58" type="3" mubiao="4" reward="2,42,15" goType="16"/>
+	<logic round="3" id="59" type="3" mubiao="5" reward="2,42,25" goType="16"/>
+	<logic round="3" id="60" type="3" mubiao="6" reward="2,42,40" goType="16"/>
+	<logic round="3" id="61" type="3" mubiao="7" reward="2,42,70" goType="16"/>
+	<logic round="3" id="62" type="3" mubiao="8" reward="2,42,90" goType="16"/>
+	<logic round="3" id="63" type="3" mubiao="9" reward="2,42,110" goType="16"/>
+	<logic round="4" id="64" type="4" mubiao="3" reward="2,43,10" goType="17"/>
+	<logic round="4" id="65" type="4" mubiao="4" reward="2,43,15" goType="17"/>
+	<logic round="4" id="66" type="4" mubiao="5" reward="2,43,25" goType="17"/>
+	<logic round="4" id="67" type="4" mubiao="6" reward="2,43,40" goType="17"/>
+	<logic round="4" id="68" type="4" mubiao="7" reward="2,43,70" goType="17"/>
+	<logic round="4" id="69" type="4" mubiao="8" reward="2,43,90" goType="17"/>
+	<logic round="4" id="70" type="4" mubiao="9" reward="2,43,110" goType="17"/>
+</logics>

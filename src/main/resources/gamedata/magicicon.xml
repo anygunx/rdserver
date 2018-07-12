@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<magicicons>
+	<magicicon id="1100" name="神魄杖" icon1="magic_small_2shenpozhang_png" icon2="magic_big_2shenpozhang_png"/>
+	<magicicon id="2100" name="清心戒" icon1="magic_small_1qingxinjie_png" icon2="magic_big_1qingxinjie_png"/>
+	<magicicon id="3100" name="瀚海盾" icon1="magic_small_3hanhaidun_png" icon2="magic_big_3hanhaidun_png"/>
+	<magicicon id="4100" name="陨星甲" icon1="magic_small_4yunxingjia_png" icon2="magic_big_4yunxingjia_png"/>
+</magicicons>

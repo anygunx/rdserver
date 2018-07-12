@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<shows>
+	<show id="0" name="PK值" icon="shengwang_png" pinzhi="4"/>
+	<show id="1" name="等级兑换" icon="jingyan_png" pinzhi="1"/>
+	<show id="2" name="紫色装备" icon="1_200_3_png" pinzhi="3"/>
+	<show id="3" name="蓝色装备" icon="1_190_3_png" pinzhi="2"/>
+	<show id="4" name="材料" icon="baoshisuipian_png" pinzhi="2"/>
+	<show id="5" name="玲珑塔" icon="legend_icon1_png" pinzhi="2"/>
+	<show id="6" name="上古降魔杵" icon="legend_icon2_png" pinzhi="2"/>
+	<show id="7" name="崆峒印" icon="legend_icon3_png" pinzhi="2"/>
+	<show id="8" name="翼族魔琴" icon="legend_icon4_png" pinzhi="3"/>
+	<show id="9" name="玄武金灯" icon="legend_icon5_png" pinzhi="3"/>
+	<show id="10" name="镇魂卷轴" icon="legend_icon6_png" pinzhi="3"/>
+	<show id="11" name="伏羲琴鞘" icon="legend_icon7_png" pinzhi="4"/>
+	<show id="12" name="封天神印" icon="legend_icon8_png" pinzhi="4"/>
+	<show id="13" name="盘古之握" icon="legend_icon9_png" pinzhi="4"/>
+	<show id="14" name="神照" icon="hong1_png" pinzhi="5"/>
+	<show id="15" name="神照" icon="cheng1_png" pinzhi="4"/>
+	<show id="16" name="威望" icon="weiwang_png" pinzhi="4"/>
+	<show id="17" name="战绩" icon="zhanji_png" pinzhi="4"/>
+</shows>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<suitss>
+	<suits id="1" name="50级套装属性" level="50" pvpindamage="540" pveindamage="1500" reangery="10" cards="1,2,3,4,5,6,7,8"/>
+	<suits id="2" name="1转套装属性" level="90" pvpindamage="600" pveindamage="1950" reangery="20" cards="11,12,13,14,15,16,17,18"/>
+	<suits id="3" name="3转套装属性" level="110" pvpindamage="660" pveindamage="2400" reangery="30" cards="31,32,33,34,35,36,37,38"/>
+	<suits id="4" name="4转套装属性" level="120" pvpindamage="720" pveindamage="2850" reangery="40" cards="41,42,43,44,45,46,47,48"/>
+	<suits id="5" name="5转套装属性" level="130" pvpindamage="780" pveindamage="3300" reangery="50" cards="51,52,53,54,55,56,57,58"/>
+	<suits id="6" name="6转套装属性" level="140" pvpindamage="840" pveindamage="3900" reangery="60" cards="61,62,63,64,65,66,67,68"/>
+	<suits id="7" name="7转套装属性" level="150" pvpindamage="900" pveindamage="4500" reangery="70" cards="71,72,73,74,75,76,77,78"/>
+</suitss>

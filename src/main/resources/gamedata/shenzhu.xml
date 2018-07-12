@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<shenqis>
+	<shenqi id="1" name="神铸武器" cost="2,23,1" hp="3920"/>
+	<shenqi id="2" name="神铸头" cost="2,23,1" hp="1960" attack="3500"/>
+	<shenqi id="3" name="神铸衣服" cost="2,23,1" hp="1960" attack="3500"/>
+	<shenqi id="4" name="神铸项链" cost="2,23,1" hp="1120"/>
+	<shenqi id="5" name="神铸手镯" cost="2,23,1" hp="1680" phyDef="3500"/>
+	<shenqi id="6" name="神铸戒指" cost="2,23,1" hp="840" magicDef="23100"/>
+</shenqis>

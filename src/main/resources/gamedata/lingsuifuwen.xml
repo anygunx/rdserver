@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<lingsuifuwens>
+	<lingsuifuwen id="1" lv="24" attack="3000" hp="15000" phyDef="1500" magicDef="1500"/>
+	<lingsuifuwen id="2" lv="48" attack="5000" hp="25000" phyDef="2500" magicDef="2500"/>
+	<lingsuifuwen id="3" lv="72" attack="9000" hp="45000" phyDef="4500" magicDef="4500"/>
+	<lingsuifuwen id="4" lv="96" attack="15000" hp="75000" phyDef="7500" magicDef="7500"/>
+	<lingsuifuwen id="5" lv="120" attack="19000" hp="95000" phyDef="9500" magicDef="9500"/>
+	<lingsuifuwen id="6" lv="144" attack="24000" hp="120000" phyDef="12000" magicDef="12000"/>
+	<lingsuifuwen id="7" lv="168" attack="30000" hp="150000" phyDef="15000" magicDef="15000"/>
+	<lingsuifuwen id="8" lv="192" attack="37000" hp="185000" phyDef="18500" magicDef="18500"/>
+	<lingsuifuwen id="9" lv="216" attack="41000" hp="205000" phyDef="20500" magicDef="20500"/>
+	<lingsuifuwen id="10" lv="240" attack="45500" hp="227500" phyDef="22750" magicDef="22750"/>
+	<lingsuifuwen id="11" lv="264" attack="50500" hp="252500" phyDef="25250" magicDef="25250"/>
+	<lingsuifuwen id="12" lv="288" attack="56000" hp="280000" phyDef="28000" magicDef="28000"/>
+	<lingsuifuwen id="13" lv="312" attack="62000" hp="310000" phyDef="31000" magicDef="31000"/>
+	<lingsuifuwen id="14" lv="336" attack="68500" hp="342500" phyDef="34250" magicDef="34250"/>
+	<lingsuifuwen id="15" lv="360" attack="75500" hp="377500" phyDef="37750" magicDef="37750"/>
+	<lingsuifuwen id="16" lv="384" attack="83000" hp="415000" phyDef="41500" magicDef="41500"/>
+	<lingsuifuwen id="17" lv="408" attack="91000" hp="455000" phyDef="45500" magicDef="45500"/>
+	<lingsuifuwen id="18" lv="432" attack="99500" hp="497500" phyDef="49750" magicDef="49750"/>
+	<lingsuifuwen id="19" lv="456" attack="108500" hp="542500" phyDef="54250" magicDef="54250"/>
+	<lingsuifuwen id="20" lv="480" attack="118000" hp="590000" phyDef="59000" magicDef="59000"/>
+</lingsuifuwens>

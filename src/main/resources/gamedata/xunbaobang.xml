@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<logics>
+	<logic id="1" round="0" rewards="0,6,1,5" jifen="100" title="寻宝榜至尊奖" content="恭喜您在今日寻宝榜活动中排行第一，唯您独尊！超级天神红装备为您奉上！"/>
+	<logic id="2" round="0" rewards="2,20,120" jifen="100" title="寻宝榜第二名" content="恭喜您在今日寻宝榜活动中排行第二，此处为您奉上120枚天神红装碎片！"/>
+	<logic id="3" round="0" rewards="2,20,100" jifen="100" title="寻宝榜第三名" content="恭喜您在今日寻宝榜活动中排行第三，此处为您奉上100枚天神红装碎片！"/>
+	<logic id="4" round="0" rewards="2,20,80" jifen="100" title="寻宝榜第四名" content="恭喜您在今日寻宝榜活动中排行第四，此处为您奉上80枚天神红装碎片！"/>
+	<logic id="5" round="0" rewards="2,20,60" jifen="100" title="寻宝榜第五名" content="恭喜您在今日寻宝榜活动中排行第五，此处为您奉上60枚天神红装碎片！"/>
+	<logic id="6" round="1" rewards="0,11,1,5" jifen="100" title="寻宝榜至尊奖" content="恭喜您在今日寻宝榜活动中排行第一，唯您独尊！超级天神红装备为您奉上！"/>
+	<logic id="7" round="1" rewards="2,20,120" jifen="100" title="寻宝榜第二名" content="恭喜您在今日寻宝榜活动中排行第二，此处为您奉上120枚天神红装碎片！"/>
+	<logic id="8" round="1" rewards="2,20,100" jifen="100" title="寻宝榜第三名" content="恭喜您在今日寻宝榜活动中排行第三，此处为您奉上100枚天神红装碎片！"/>
+	<logic id="9" round="1" rewards="2,20,80" jifen="100" title="寻宝榜第四名" content="恭喜您在今日寻宝榜活动中排行第四，此处为您奉上80枚天神红装碎片！"/>
+	<logic id="10" round="1" rewards="2,20,60" jifen="100" title="寻宝榜第五名" content="恭喜您在今日寻宝榜活动中排行第五，此处为您奉上60枚天神红装碎片！"/>
+	<logic id="11" round="2" rewards="0,16,1,5" jifen="100" title="寻宝榜至尊奖" content="恭喜您在今日寻宝榜活动中排行第一，唯您独尊！超级天神红装备为您奉上！"/>
+	<logic id="12" round="2" rewards="2,20,120" jifen="100" title="寻宝榜第二名" content="恭喜您在今日寻宝榜活动中排行第二，此处为您奉上120枚天神红装碎片！"/>
+	<logic id="13" round="2" rewards="2,20,100" jifen="100" title="寻宝榜第三名" content="恭喜您在今日寻宝榜活动中排行第三，此处为您奉上100枚天神红装碎片！"/>
+	<logic id="14" round="2" rewards="2,20,80" jifen="100" title="寻宝榜第四名" content="恭喜您在今日寻宝榜活动中排行第四，此处为您奉上80枚天神红装碎片！"/>
+	<logic id="15" round="2" rewards="2,20,60" jifen="100" title="寻宝榜第五名" content="恭喜您在今日寻宝榜活动中排行第五，此处为您奉上60枚天神红装碎片！"/>
+</logics>

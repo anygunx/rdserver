@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<logics>
+	<logic id="1" rmb="100" reward="" title="连充返利1天奖励" content="恭喜您连续充值已达1天，为您献上丰厚返利！"/>
+	<logic id="2" rmb="100" reward="" title="连充返利2天奖励" content="恭喜您连续充值已达2天，为您献上丰厚返利！"/>
+	<logic id="3" rmb="100" reward="30,61,1#30,161,1#30,761,1#2,13,10#2,16,10#2,17,10" title="连充返利3天奖励" content="恭喜您连续充值已达3天，为您献上丰厚返利！"/>
+	<logic id="4" rmb="100" reward="" title="连充返利4天奖励" content="恭喜您连续充值已达4天，为您献上丰厚返利！"/>
+	<logic id="5" rmb="100" reward="32,11,1#32,16,1#2,13,20#2,16,20#2,17,20" title="连充返利5天奖励" content="恭喜您连续充值已达5天，为您献上丰厚返利！"/>
+	<logic id="6" rmb="100" reward="" title="连充返利6天奖励" content="恭喜您连续充值已达6天，为您献上丰厚返利！"/>
+	<logic id="7" rmb="100" reward="0,1,1,5" title="连充返利至尊大奖" content="恭喜您在本次连充返利中完成连续充值7天成就，特此为您奉上至尊大奖！"/>
+</logics>

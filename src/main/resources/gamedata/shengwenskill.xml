@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<shengwenskills>
+	<shengwenskill id="1" name="归灵秘印" icon="lianti_fz_icon_1_png" level="1" limit="4" tips="技能描述啊技能描述啊技能描述啊技能描述啊技能描述啊" des="所有圣纹达到4阶"/>
+	<shengwenskill id="2" name="归灵秘印" icon="lianti_fz_icon_1_png" level="2" limit="5" tips="技能描述啊技能描述啊技能描述啊技能描述啊技能描述啊" des="所有圣纹达到5阶"/>
+	<shengwenskill id="3" name="归灵秘印" icon="lianti_fz_icon_1_png" level="3" limit="6" tips="技能描述啊技能描述啊技能描述啊技能描述啊技能描述啊" des="所有圣纹达到6阶"/>
+	<shengwenskill id="4" name="归灵秘印" icon="lianti_fz_icon_1_png" level="4" limit="7" tips="技能描述啊技能描述啊技能描述啊技能描述啊技能描述啊" des="所有圣纹达到7阶"/>
+	<shengwenskill id="5" name="归灵秘印" icon="lianti_fz_icon_1_png" level="5" limit="8" tips="技能描述啊技能描述啊技能描述啊技能描述啊技能描述啊" des="所有圣纹达到8阶"/>
+</shengwenskills>

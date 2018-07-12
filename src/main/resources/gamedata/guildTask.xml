@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<taskDailys>
+	<taskDaily id="1" goType="17" eventType="22" count="4" guildExp="4" banggong="12" name="每日PK：野战"/>
+	<taskDaily id="2" goType="7" eventType="21" count="3" guildExp="3" banggong="10" name="每日BOSS：击杀个人BOSS"/>
+	<taskDaily id="3" goType="4" eventType="4" count="5" guildExp="3" banggong="10" name="每日锻造：进行装备强化"/>
+	<taskDaily id="4" goType="10" eventType="10" count="3" guildExp="5" banggong="25" name="每日锻造：进行宝石提升"/>
+	<taskDaily id="5" goType="28" eventType="45" count="5" guildExp="3" banggong="10" name="每日锻造：进行装备注灵"/>
+	<taskDaily id="6" goType="33" eventType="7" count="5" guildExp="4" banggong="15" name="每日提升：升级羽翼"/>
+	<taskDaily id="7" goType="12" eventType="12" count="3" guildExp="5" banggong="25" name="每日提升：升级经脉"/>
+	<taskDaily id="8" goType="32" eventType="37" count="3" guildExp="4" banggong="12" name="每日提升：升级龙纹"/>
+	<taskDaily id="9" goType="31" eventType="36" count="3" guildExp="4" banggong="12" name="每日提升：升级龙鳞"/>
+	<taskDaily id="6" goType="6" eventType="6" count="3" guildExp="3" banggong="10" name="每日熔炼：进行装备熔炼"/>
+</taskDailys>

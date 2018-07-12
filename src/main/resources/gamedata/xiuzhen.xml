@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<junxians>
+	<officer lv="1" name="初级筑基" honor="0" hp="0" attack="0" Def="0"/>
+	<officer lv="2" name="中级筑基" honor="100000" hp="130" attack="13" Def="13"/>
+	<officer lv="3" name="高级筑基" honor="130000" hp="260" attack="26" Def="26"/>
+	<officer lv="4" name="初级旋照" honor="180000" hp="390" attack="39" Def="39"/>
+	<officer lv="5" name="中级旋照" honor="240000" hp="520" attack="52" Def="52"/>
+	<officer lv="6" name="高级旋照" honor="300000" hp="680" attack="68" Def="68"/>
+	<officer lv="7" name="初级融合" honor="400000" hp="840" attack="84" Def="84"/>
+	<officer lv="8" name="中级融合" honor="500000" hp="1000" attack="100" Def="100"/>
+	<officer lv="9" name="高级融合" honor="600000" hp="1160" attack="116" Def="116"/>
+	<officer lv="10" name="初级心动" honor="700000" hp="1320" attack="132" Def="132"/>
+	<officer lv="11" name="中级心动" honor="800000" hp="1480" attack="148" Def="148"/>
+	<officer lv="12" name="高级心动" honor="1000000" hp="1710" attack="171" Def="171"/>
+	<officer lv="13" name="初级灵寂" honor="1200000" hp="1940" attack="194" Def="194"/>
+	<officer lv="14" name="中级灵寂" honor="1400000" hp="2170" attack="217" Def="217"/>
+	<officer lv="15" name="高级灵寂" honor="1600000" hp="2400" attack="240" Def="240"/>
+	<officer lv="16" name="初级元婴" honor="1800000" hp="2630" attack="263" Def="263"/>
+	<officer lv="17" name="中级元婴" honor="2000000" hp="2860" attack="286" Def="286"/>
+	<officer lv="18" name="高级元婴" honor="2200000" hp="3090" attack="309" Def="309"/>
+	<officer lv="19" name="初级出窍" honor="2400000" hp="3320" attack="332" Def="332"/>
+	<officer lv="20" name="中级出窍" honor="2600000" hp="3550" attack="355" Def="355"/>
+	<officer lv="21" name="高级出窍" honor="2800000" hp="3780" attack="378" Def="378"/>
+	<officer lv="22" name="初级分神" honor="3000000" hp="4010" attack="401" Def="401"/>
+	<officer lv="23" name="中级分神" honor="3500000" hp="4340" attack="434" Def="434"/>
+	<officer lv="24" name="高级分神" honor="4000000" hp="4670" attack="467" Def="467"/>
+	<officer lv="25" name="初级合体" honor="4500000" hp="5000" attack="500" Def="500"/>
+	<officer lv="26" name="中级合体" honor="5000000" hp="5330" attack="533" Def="533"/>
+	<officer lv="27" name="高级合体" honor="5500000" hp="5660" attack="566" Def="566"/>
+	<officer lv="28" name="初级渡劫" honor="6000000" hp="5990" attack="599" Def="599"/>
+	<officer lv="29" name="中级渡劫" honor="6500000" hp="6320" attack="632" Def="632"/>
+	<officer lv="30" name="高级渡劫" honor="7000000" hp="6650" attack="665" Def="665"/>
+	<officer lv="31" name="初级大乘" honor="7500000" hp="6980" attack="698" Def="698"/>
+	<officer lv="32" name="中级大乘" honor="8000000" hp="7310" attack="731" Def="731"/>
+	<officer lv="33" name="高级大乘" honor="8500000" hp="7640" attack="764" Def="764"/>
+</junxians>

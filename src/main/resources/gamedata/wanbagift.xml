@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gifts>
+	<gift id="901" type="1" week="2" reward="2,1,20#4,0,200000"/>
+	<gift id="902" type="1" week="3" reward="2,12,2#4,0,200000"/>
+	<gift id="903" type="1" week="4" reward="2,13,2#4,0,200000"/>
+	<gift id="904" type="1" week="5" reward="2,1,20#2,17,2"/>
+	<gift id="905" type="1" week="6" reward="2,1,20#2,18,5"/>
+	<gift id="906" type="1" week="7" reward="2,16,5#2,9,5"/>
+	<gift id="907" type="1" week="1" reward="2,19,5#2,29,5"/>
+	<gift id="1001" type="2" week="0" reward="2,1,100#2,18,30#2,16,10#2,17,10"/>
+	<gift id="1002" type="2" week="0" reward="2,18,50#2,17,50#2,19,20#2,12,10#2,13,10#2,1,150"/>
+	<gift id="1003" type="2" week="0" reward="2,18,80#2,17,60#2,16,20#2,12,20#2,13,20#2,1,200"/>
+	<gift id="2001" type="2" week="0" reward="2,18,30#2,13,20#2,39,20#2,16,20"/>
+</gifts>

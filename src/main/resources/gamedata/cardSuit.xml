@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<list>
+	<data id="1" lv="1" name="传世神兵" formula="1011,1021,1031,1041,1051" carAddition="5000" crit="50" duct="0" amp="0" dr="0" dodge="0" hit="0" vipindamage="0"/>
+	<data id="1" lv="2" name="传世神兵" formula="1012,1022,1032,1042,1052" carAddition="6000" crit="150" duct="0" amp="0" dr="0" dodge="0" hit="0" vipindamage="0"/>
+	<data id="1" lv="3" name="传世神兵" formula="1013,1023,1033,1043,1053" carAddition="7000" crit="250" duct="0" amp="0" dr="0" dodge="0" hit="0" vipindamage="0"/>
+	<data id="1" lv="4" name="传世神兵" formula="1014,1024,1034,1044,1054" carAddition="8000" crit="350" duct="0" amp="0" dr="0" dodge="0" hit="0" vipindamage="0"/>
+	<data id="1" lv="5" name="传世神兵" formula="1015,1025,1035,1045,1055" carAddition="9000" crit="450" duct="0" amp="0" dr="0" dodge="0" hit="0" vipindamage="0"/>
+	<data id="2" lv="1" name="美女如云" formula="2011,2021,2031,2041,2051" carAddition="5000" crit="0" duct="50" amp="0" dr="0" dodge="0" hit="0" vipindamage="0"/>
+	<data id="2" lv="2" name="美女如云" formula="2012,2022,2032,2042,2052" carAddition="6000" crit="0" duct="150" amp="0" dr="0" dodge="0" hit="0" vipindamage="0"/>
+	<data id="2" lv="3" name="美女如云" formula="2013,2023,2033,2043,2053" carAddition="7000" crit="0" duct="250" amp="0" dr="0" dodge="0" hit="0" vipindamage="0"/>
+	<data id="2" lv="4" name="美女如云" formula="2014,2024,2034,2044,2054" carAddition="8000" crit="0" duct="350" amp="0" dr="0" dodge="0" hit="0" vipindamage="0"/>
+	<data id="2" lv="5" name="美女如云" formula="2015,2025,2035,2045,2055" carAddition="9000" crit="0" duct="450" amp="0" dr="0" dodge="0" hit="0" vipindamage="0"/>
+	<data id="3" lv="1" name="战神金装" formula="3011,3021,3031,3041,3051" carAddition="5000" crit="0" duct="0" amp="50" dr="0" dodge="0" hit="0" vipindamage="0"/>
+	<data id="3" lv="2" name="战神金装" formula="3012,3022,3032,3042,3052" carAddition="6000" crit="0" duct="0" amp="150" dr="0" dodge="0" hit="0" vipindamage="0"/>
+	<data id="3" lv="3" name="战神金装" formula="3013,3023,3033,3043,3053" carAddition="7000" crit="0" duct="0" amp="250" dr="0" dodge="0" hit="0" vipindamage="0"/>
+	<data id="3" lv="4" name="战神金装" formula="3014,3024,3034,3044,3054" carAddition="8000" crit="0" duct="0" amp="350" dr="0" dodge="0" hit="0" vipindamage="0"/>
+	<data id="3" lv="5" name="战神金装" formula="3015,3025,3035,3045,3055" carAddition="9000" crit="0" duct="0" amp="450" dr="0" dodge="0" hit="0" vipindamage="0"/>
+	<data id="4" lv="1" name="法神金装" formula="4011,4021,4031,4041,4051" carAddition="5000" crit="0" duct="0" amp="0" dr="50" dodge="0" hit="0" vipindamage="0"/>
+	<data id="4" lv="2" name="法神金装" formula="4012,4022,4032,4042,4052" carAddition="6000" crit="0" duct="0" amp="0" dr="150" dodge="0" hit="0" vipindamage="0"/>
+	<data id="4" lv="3" name="法神金装" formula="4013,4023,4033,4043,4053" carAddition="7000" crit="0" duct="0" amp="0" dr="250" dodge="0" hit="0" vipindamage="0"/>
+	<data id="4" lv="4" name="法神金装" formula="4014,4024,4034,4044,4054" carAddition="8000" crit="0" duct="0" amp="0" dr="350" dodge="0" hit="0" vipindamage="0"/>
+	<data id="4" lv="5" name="法神金装" formula="4015,4025,4035,4045,4055" carAddition="9000" crit="0" duct="0" amp="0" dr="450" dodge="0" hit="0" vipindamage="0"/>
+	<data id="5" lv="1" name="天尊金装" formula="5011,5021,5031,5041,5051" carAddition="5000" crit="0" duct="0" amp="0" dr="50" dodge="0" hit="0" vipindamage="0"/>
+	<data id="5" lv="2" name="天尊金装" formula="5012,5022,5032,5042,5052" carAddition="6000" crit="0" duct="0" amp="0" dr="150" dodge="0" hit="0" vipindamage="0"/>
+	<data id="5" lv="3" name="天尊金装" formula="5013,5023,5033,5043,5053" carAddition="7000" crit="0" duct="0" amp="0" dr="250" dodge="0" hit="0" vipindamage="0"/>
+	<data id="5" lv="4" name="天尊金装" formula="5014,5024,5034,5044,5054" carAddition="8000" crit="0" duct="0" amp="0" dr="350" dodge="0" hit="0" vipindamage="0"/>
+	<data id="5" lv="5" name="天尊金装" formula="5015,5025,5035,5045,5055" carAddition="9000" crit="0" duct="0" amp="0" dr="450" dodge="0" hit="0" vipindamage="0"/>
+	<data id="6" lv="1" name="至尊神鉴" formula="6011,6021,6031,6041,6051" carAddition="5000" crit="0" duct="0" amp="0" dr="0" dodge="50" hit="0" vipindamage="0"/>
+	<data id="6" lv="2" name="至尊神鉴" formula="6012,6022,6032,6042,6052" carAddition="6000" crit="0" duct="0" amp="0" dr="0" dodge="150" hit="0" vipindamage="0"/>
+	<data id="6" lv="3" name="至尊神鉴" formula="6013,6023,6033,6043,6053" carAddition="7000" crit="0" duct="0" amp="0" dr="0" dodge="250" hit="0" vipindamage="0"/>
+	<data id="6" lv="4" name="至尊神鉴" formula="6014,6024,6034,6044,6054" carAddition="8000" crit="0" duct="0" amp="0" dr="0" dodge="350" hit="0" vipindamage="0"/>
+	<data id="6" lv="5" name="至尊神鉴" formula="6015,6025,6035,6045,6055" carAddition="9000" crit="0" duct="0" amp="0" dr="0" dodge="450" hit="0" vipindamage="0"/>
+	<data id="7" lv="1" name="传奇之路" formula="7011,7021,7031,7041,7051" carAddition="5000" crit="0" duct="0" amp="0" dr="0" dodge="0" hit="50" vipindamage="0"/>
+	<data id="7" lv="2" name="传奇之路" formula="7012,7022,7032,7042,7052" carAddition="6000" crit="0" duct="0" amp="0" dr="0" dodge="0" hit="150" vipindamage="0"/>
+	<data id="7" lv="3" name="传奇之路" formula="7013,7023,7033,7043,7053" carAddition="7000" crit="0" duct="0" amp="0" dr="0" dodge="0" hit="250" vipindamage="0"/>
+	<data id="7" lv="4" name="传奇之路" formula="7014,7024,7034,7044,7054" carAddition="8000" crit="0" duct="0" amp="0" dr="0" dodge="0" hit="350" vipindamage="0"/>
+	<data id="7" lv="5" name="传奇之路" formula="7015,7025,7035,7045,7055" carAddition="9000" crit="0" duct="0" amp="0" dr="0" dodge="0" hit="450" vipindamage="0"/>
+	<data id="8" lv="1" name="战无不胜" formula="8011,8021,8031,8041,8051" carAddition="5000" crit="0" duct="0" amp="0" dr="0" dodge="0" hit="0" vipindamage="50"/>
+	<data id="8" lv="2" name="战无不胜" formula="8012,8022,8032,8042,8052" carAddition="6000" crit="0" duct="0" amp="0" dr="0" dodge="0" hit="0" vipindamage="150"/>
+	<data id="8" lv="3" name="战无不胜" formula="8013,8023,8033,8043,8053" carAddition="7000" crit="0" duct="0" amp="0" dr="0" dodge="0" hit="0" vipindamage="250"/>
+	<data id="8" lv="4" name="战无不胜" formula="8014,8024,8034,8044,8054" carAddition="8000" crit="0" duct="0" amp="0" dr="0" dodge="0" hit="0" vipindamage="350"/>
+	<data id="8" lv="5" name="战无不胜" formula="8015,8025,8035,8045,8055" carAddition="9000" crit="0" duct="0" amp="0" dr="0" dodge="0" hit="0" vipindamage="450"/>
+</list>

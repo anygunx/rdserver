@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<list>
+	<data id="1" name="炼狱裁决" taskList="1,23" reward="33,1,1"/>
+	<data id="2" name="雷霆怒斩" taskList="3,4" reward="33,2,1"/>
+	<data id="3" name="神圣屠龙" taskList="5,12" reward="33,3,1"/>
+	<data id="4" name="倚天神剑" taskList="7,25" reward="33,4,1"/>
+	<data id="5" name="霸者之刃" taskList="24" reward="33,5,1"/>
+	<data id="6" name="清水芙蓉" taskList="10,11" reward="33,6,1"/>
+	<data id="7" name="娇艳欲滴" taskList="3,4" reward="33,7,1"/>
+	<data id="8" name="沉鱼落雁" taskList="22,6" reward="33,8,1"/>
+	<data id="9" name="闭月羞花" taskList="8,7" reward="33,9,1"/>
+	<data id="10" name="国色天香" taskList="13" reward="33,10,1"/>
+	<data id="11" name="战神手镯" taskList="5,10" reward="33,11,1"/>
+	<data id="12" name="战神项链" taskList="3,4" reward="33,12,1"/>
+	<data id="13" name="战神戒指" taskList="14,15" reward="33,13,1"/>
+	<data id="14" name="战神金盔" taskList="16,17" reward="33,14,1"/>
+	<data id="15" name="凤天魔甲" taskList="27" reward="33,15,1"/>
+	<data id="16" name="法神手镯" taskList="18,7" reward="33,16,1"/>
+	<data id="17" name="法神项链" taskList="3,4" reward="33,17,1"/>
+	<data id="18" name="法神戒指" taskList="8,19" reward="33,18,1"/>
+	<data id="19" name="法神金盔" taskList="20,21" reward="33,19,1"/>
+	<data id="20" name="法神披风" taskList="13" reward="33,20,1"/>
+	<data id="21" name="天尊手镯" taskList="17,11" reward="33,21,1"/>
+	<data id="22" name="天尊项链" taskList="3,4" reward="33,22,1"/>
+	<data id="23" name="天尊戒指" taskList="5,7" reward="33,23,1"/>
+	<data id="24" name="天尊道盔" taskList="22,12" reward="33,24,1"/>
+	<data id="25" name="天尊道袍" taskList="9" reward="33,25,1"/>
+	<data id="26" name="麒麟之主" taskList="14,2" reward="33,26,1"/>
+	<data id="27" name="玄武灵尊" taskList="3,4" reward="33,27,1"/>
+	<data id="28" name="白虎圣兽" taskList="8,23" reward="33,28,1"/>
+	<data id="29" name="凤凰神鸟" taskList="25,10" reward="33,29,1"/>
+	<data id="30" name="青龙至尊" taskList="13" reward="33,30,1"/>
+	<data id="31" name="黄泉教主" taskList="5,7" reward="33,31,1"/>
+	<data id="32" name="沃玛教主" taskList="3,4" reward="33,32,1"/>
+	<data id="33" name="虹魔教主" taskList="8,19" reward="33,33,1"/>
+	<data id="34" name="祖玛教主" taskList="26,10" reward="33,34,1"/>
+	<data id="35" name="触龙神" taskList="9" reward="33,35,1"/>
+</list>

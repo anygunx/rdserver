@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<shentongLvs>
+	<shentongLv level="1" xishuBai="10000" xishuLv="10000" xishuLan="10000" xishuZi="10000" xishuCheng="10000" xishuHong="10000" expBai="0" expLv="0" expLan="0" expZi="0" expCheng="0" expHong="0"/>
+	<shentongLv level="2" xishuBai="11000" xishuLv="10700" xishuLan="10500" xishuZi="10350" xishuCheng="10250" xishuHong="10150" expBai="700" expLv="980" expLan="1120" expZi="1225" expCheng="1364" expHong="1636"/>
+	<shentongLv level="3" xishuBai="12000" xishuLv="11400" xishuLan="11000" xishuZi="10700" xishuCheng="10500" xishuHong="10300" expBai="1000" expLv="1400" expLan="1600" expZi="1750" expCheng="1949" expHong="2338"/>
+	<shentongLv level="4" xishuBai="13000" xishuLv="12100" xishuLan="11500" xishuZi="11050" xishuCheng="10750" xishuHong="10450" expBai="1300" expLv="1820" expLan="2080" expZi="2275" expCheng="2534" expHong="3040"/>
+	<shentongLv level="5" xishuBai="14000" xishuLv="12800" xishuLan="12000" xishuZi="11400" xishuCheng="11000" xishuHong="10600" expBai="1600" expLv="2240" expLan="2560" expZi="2800" expCheng="3119" expHong="3742"/>
+	<shentongLv level="6" xishuBai="15000" xishuLv="13500" xishuLan="12500" xishuZi="11750" xishuCheng="11250" xishuHong="10750" expBai="1900" expLv="2660" expLan="3040" expZi="3325" expCheng="3704" expHong="4444"/>
+	<shentongLv level="7" xishuBai="16000" xishuLv="14200" xishuLan="13000" xishuZi="12100" xishuCheng="11500" xishuHong="10900" expBai="2200" expLv="3080" expLan="3520" expZi="3850" expCheng="4289" expHong="5146"/>
+	<shentongLv level="8" xishuBai="17000" xishuLv="14900" xishuLan="13500" xishuZi="12450" xishuCheng="11750" xishuHong="11050" expBai="2500" expLv="3500" expLan="4000" expZi="4375" expCheng="4874" expHong="5848"/>
+	<shentongLv level="9" xishuBai="18000" xishuLv="15600" xishuLan="14000" xishuZi="12800" xishuCheng="12000" xishuHong="11200" expBai="2800" expLv="3920" expLan="4480" expZi="4900" expCheng="5459" expHong="6550"/>
+	<shentongLv level="10" xishuBai="19000" xishuLv="16300" xishuLan="14500" xishuZi="13150" xishuCheng="12250" xishuHong="11350" expBai="3100" expLv="4340" expLan="4960" expZi="5425" expCheng="6044" expHong="7252"/>
+	<shentongLv level="11" xishuBai="20000" xishuLv="17000" xishuLan="15000" xishuZi="13500" xishuCheng="12500" xishuHong="11500" expBai="3400" expLv="4760" expLan="5440" expZi="5950" expCheng="6629" expHong="7954"/>
+	<shentongLv level="12" xishuBai="21000" xishuLv="17700" xishuLan="15500" xishuZi="13850" xishuCheng="12750" xishuHong="11650" expBai="3700" expLv="5180" expLan="5920" expZi="6475" expCheng="7214" expHong="8656"/>
+	<shentongLv level="13" xishuBai="22000" xishuLv="18400" xishuLan="16000" xishuZi="14200" xishuCheng="13000" xishuHong="11800" expBai="4000" expLv="5600" expLan="6400" expZi="7000" expCheng="7799" expHong="9358"/>
+	<shentongLv level="14" xishuBai="23000" xishuLv="19100" xishuLan="16500" xishuZi="14550" xishuCheng="13250" xishuHong="11950" expBai="4300" expLv="6020" expLan="6880" expZi="7525" expCheng="8384" expHong="10060"/>
+	<shentongLv level="15" xishuBai="24000" xishuLv="19800" xishuLan="17000" xishuZi="14900" xishuCheng="13500" xishuHong="12100" expBai="4600" expLv="6440" expLan="7360" expZi="8050" expCheng="8969" expHong="10762"/>
+	<shentongLv level="16" xishuBai="25000" xishuLv="20500" xishuLan="17500" xishuZi="15250" xishuCheng="13750" xishuHong="12250" expBai="4900" expLv="6860" expLan="7840" expZi="8575" expCheng="9554" expHong="11464"/>
+	<shentongLv level="17" xishuBai="26000" xishuLv="21200" xishuLan="18000" xishuZi="15600" xishuCheng="14000" xishuHong="12400" expBai="5200" expLv="7280" expLan="8320" expZi="9100" expCheng="10140" expHong="12168"/>
+	<shentongLv level="18" xishuBai="27000" xishuLv="21900" xishuLan="18500" xishuZi="15950" xishuCheng="14250" xishuHong="12550" expBai="5500" expLv="7700" expLan="8800" expZi="9625" expCheng="10724" expHong="12868"/>
+	<shentongLv level="19" xishuBai="28000" xishuLv="22600" xishuLan="19000" xishuZi="16300" xishuCheng="14500" xishuHong="12700" expBai="5800" expLv="8120" expLan="9280" expZi="10150" expCheng="11309" expHong="13570"/>
+	<shentongLv level="20" xishuBai="29000" xishuLv="23300" xishuLan="19500" xishuZi="16650" xishuCheng="14750" xishuHong="12850" expBai="6100" expLv="8540" expLan="9760" expZi="10675" expCheng="11894" expHong="14272"/>
+	<shentongLv level="21" xishuBai="30000" xishuLv="24000" xishuLan="20000" xishuZi="17000" xishuCheng="15000" xishuHong="13000" expBai="6400" expLv="8960" expLan="10240" expZi="11200" expCheng="12479" expHong="14974"/>
+	<shentongLv level="22" xishuBai="31000" xishuLv="24700" xishuLan="20500" xishuZi="17350" xishuCheng="15250" xishuHong="13150" expBai="6700" expLv="9380" expLan="10720" expZi="11725" expCheng="13064" expHong="15676"/>
+	<shentongLv level="23" xishuBai="32000" xishuLv="25400" xishuLan="21000" xishuZi="17700" xishuCheng="15500" xishuHong="13300" expBai="7000" expLv="9800" expLan="11200" expZi="12250" expCheng="13649" expHong="16378"/>
+	<shentongLv level="24" xishuBai="33000" xishuLv="26100" xishuLan="21500" xishuZi="18050" xishuCheng="15750" xishuHong="13450" expBai="7300" expLv="10220" expLan="11680" expZi="12775" expCheng="14234" expHong="17080"/>
+	<shentongLv level="25" xishuBai="34000" xishuLv="26800" xishuLan="22000" xishuZi="18400" xishuCheng="16000" xishuHong="13600" expBai="7600" expLv="10640" expLan="12160" expZi="13300" expCheng="14819" expHong="17782"/>
+	<shentongLv level="26" xishuBai="35000" xishuLv="27500" xishuLan="22500" xishuZi="18750" xishuCheng="16250" xishuHong="13750" expBai="7900" expLv="11060" expLan="12640" expZi="13825" expCheng="15404" expHong="18484"/>
+	<shentongLv level="27" xishuBai="36000" xishuLv="28200" xishuLan="23000" xishuZi="19100" xishuCheng="16500" xishuHong="13900" expBai="8200" expLv="11480" expLan="13120" expZi="14350" expCheng="15989" expHong="19186"/>
+	<shentongLv level="28" xishuBai="37000" xishuLv="28900" xishuLan="23500" xishuZi="19450" xishuCheng="16750" xishuHong="14050" expBai="8500" expLv="11900" expLan="13600" expZi="14875" expCheng="16574" expHong="19888"/>
+	<shentongLv level="29" xishuBai="38000" xishuLv="29600" xishuLan="24000" xishuZi="19800" xishuCheng="17000" xishuHong="14200" expBai="8800" expLv="12320" expLan="14080" expZi="15400" expCheng="17159" expHong="20590"/>
+	<shentongLv level="30" xishuBai="39000" xishuLv="30300" xishuLan="24500" xishuZi="20150" xishuCheng="17250" xishuHong="14350" expBai="9100" expLv="12740" expLan="14560" expZi="15925" expCheng="17744" expHong="21292"/>
+</shentongLvs>

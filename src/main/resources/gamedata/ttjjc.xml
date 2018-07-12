@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ttjjcs>
+	<ttjjc lv="1" rewards="3,15,1" ranking="0" title="天梯青铜奖励" content="经过1个赛季的天梯竞技场挑战，您止步于青铜段位，为您发放宝箱奖励，快快查收吧！"/>
+	<ttjjc lv="2" rewards="3,16,1" ranking="0" title="天梯白银奖励" content="经过1个赛季的天梯竞技场挑战，您到达了白银段位，为您发放宝箱奖励，快快查收吧！"/>
+	<ttjjc lv="3" rewards="3,17,1" ranking="0" title="天梯黄金奖励" content="经过1个赛季的天梯竞技场挑战，您飞跃到了黄金段位，为您发放宝箱奖励，快快查收吧！"/>
+	<ttjjc lv="4" rewards="3,18,1" ranking="0" title="天梯钻石奖励" content="经过1个赛季的天梯竞技场挑战，你荣登钻石段位，为您发放宝箱奖励，快快查收吧！"/>
+	<ttjjc lv="5" rewards="3,14,1" ranking="5" title="钻石第五名" content="您在钻石段位的群英中奋力挤进前五名，这是您额外的宝箱奖励，再接再厉！"/>
+	<ttjjc lv="6" rewards="3,13,1" ranking="4" title="钻石第四名" content="您在钻石段位的群英中奋力挤进前五名，这是您额外的宝箱奖励，再接再厉！"/>
+	<ttjjc lv="7" rewards="3,12,1" ranking="3" title="钻石第三名" content="您在钻石段位的群英中奋力挤进前三名，这是您额外的宝箱奖励，再接再厉！"/>
+	<ttjjc lv="8" rewards="3,11,1" ranking="2" title="钻石第二名" content="您在钻石段位的群英中奋力摘下榜眼名位，这是您额外的宝箱奖励，再接再厉！"/>
+	<ttjjc lv="9" rewards="3,10,1" ranking="1" title="钻石第一名" content="您在钻石段位群英中的骄人战绩摘下了桂冠，这是您额外的宝箱奖励！"/>
+</ttjjcs>

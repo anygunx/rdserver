@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<shenqis>
+	<shenqi id="1" name="攻击" icon="1" type="1" des="攻击" effect="0,6" gailv="11"/>
+	<shenqi id="2" name="防御" icon="1" type="1" des="防御" effect="1,6" gailv="11"/>
+	<shenqi id="3" name="生命" icon="1" type="1" des="生命" effect="2,6" gailv="11"/>
+	<shenqi id="4" name="命中" icon="1" type="1" des="命中" effect="3,6" gailv="11"/>
+	<shenqi id="5" name="闪避" icon="1" type="1" des="闪避" effect="4,6" gailv="11"/>
+	<shenqi id="6" name="招架" icon="1" type="1" des="招架" effect="5,6" gailv="11"/>
+	<shenqi id="7" name="破招" icon="1" type="1" des="破招" effect="6,6" gailv="11"/>
+	<shenqi id="8" name="暴击" icon="1" type="1" des="暴击" effect="7,6" gailv="11"/>
+	<shenqi id="9" name="抗暴" icon="1" type="1" des="抗暴" effect="8,6" gailv="12"/>
+	<shenqi id="10" name="攻击" icon="1" type="2" des="攻击" effect="0,10" gailv="11"/>
+	<shenqi id="11" name="防御" icon="1" type="2" des="防御" effect="1,10" gailv="11"/>
+	<shenqi id="12" name="生命" icon="1" type="2" des="生命" effect="2,10" gailv="11"/>
+	<shenqi id="13" name="命中" icon="1" type="2" des="命中" effect="3,10" gailv="11"/>
+	<shenqi id="14" name="闪避" icon="1" type="2" des="闪避" effect="4,10" gailv="11"/>
+	<shenqi id="15" name="招架" icon="1" type="2" des="招架" effect="5,10" gailv="11"/>
+	<shenqi id="16" name="破招" icon="1" type="2" des="破招" effect="6,10" gailv="11"/>
+	<shenqi id="17" name="暴击" icon="1" type="2" des="暴击" effect="7,10" gailv="11"/>
+	<shenqi id="18" name="抗暴" icon="1" type="2" des="抗暴" effect="8,10" gailv="12"/>
+	<shenqi id="19" name="攻击" icon="1" type="3" des="攻击" effect="0,15" gailv="11"/>
+	<shenqi id="20" name="防御" icon="1" type="3" des="防御" effect="1,15" gailv="11"/>
+	<shenqi id="21" name="生命" icon="1" type="3" des="生命" effect="2,15" gailv="11"/>
+	<shenqi id="22" name="命中" icon="1" type="3" des="命中" effect="3,15" gailv="11"/>
+	<shenqi id="23" name="闪避" icon="1" type="3" des="闪避" effect="4,15" gailv="11"/>
+	<shenqi id="24" name="招架" icon="1" type="3" des="招架" effect="5,15" gailv="11"/>
+	<shenqi id="25" name="破招" icon="1" type="3" des="破招" effect="6,15" gailv="11"/>
+	<shenqi id="26" name="暴击" icon="1" type="3" des="暴击" effect="7,15" gailv="11"/>
+	<shenqi id="27" name="抗暴" icon="1" type="3" des="抗暴" effect="8,15" gailv="12"/>
+</shenqis>

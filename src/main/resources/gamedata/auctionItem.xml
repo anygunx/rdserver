@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<auction>
+    <item id="1" reward="2,1,10" basePrice="50" addPrice="10" fixedPrice="100" keepTime="1,3600;2,7200" subscribe="0"/>
+    <item id="2" reward="2,10,1" basePrice="50" addPrice="10" fixedPrice="100" keepTime="1,3600;2,7200" subscribe="1"/>
+    <item id="3" reward="2,1,100" basePrice="500" addPrice="10" fixedPrice="100" keepTime="1,3600;2,7200" subscribe="0"/>
+    <item id="4" reward="2,10,10" basePrice="500" addPrice="10" fixedPrice="100" keepTime="1,3600;2,7200" subscribe="1"/>
+</auction>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xinfahc>
+	<logic id="1" round="0" cost="1" type="0" diaoluo="1000" reward="31,0,1000" prices="5,0,500" prices10="5,0,4500"/>
+	<logic id="2" round="0" cost="1" type="0" diaoluo="500" reward="31,0,1500" prices="5,0,500" prices10="5,0,4500"/>
+	<logic id="3" round="0" cost="1" type="0" diaoluo="500" reward="31,0,2000" prices="5,0,500" prices10="5,0,4500"/>
+	<logic id="4" round="0" cost="1" type="0" diaoluo="500" reward="2,17,30" prices="5,0,500" prices10="5,0,4500"/>
+	<logic id="5" round="0" cost="1" type="0" diaoluo="2000" reward="2,17,20" prices="5,0,500" prices10="5,0,4500"/>
+	<logic id="6" round="0" cost="1" type="0" diaoluo="2450" reward="2,17,10" prices="5,0,500" prices10="5,0,4500"/>
+	<logic id="7" round="0" cost="1" type="0" diaoluo="100" reward="3,1,1" prices="5,0,500" prices10="5,0,4500"/>
+	<logic id="8" round="0" cost="1" type="0" diaoluo="1000" reward="2,74,200" prices="5,0,500" prices10="5,0,4500"/>
+	<logic id="9" round="0" cost="1" type="0" diaoluo="1000" reward="2,9,10" prices="5,0,500" prices10="5,0,4500"/>
+	<logic id="10" round="0" cost="1" type="0" diaoluo="800" reward="2,9,15" prices="5,0,500" prices10="5,0,4500"/>
+	<logic id="11" round="0" cost="1" type="0" diaoluo="70" reward="2,85,1" prices="5,0,500" prices10="5,0,4500"/>
+	<logic id="12" round="0" cost="1" type="0" diaoluo="80" reward="3,207,1" prices="5,0,500" prices10="5,0,4500"/>
+	<logic id="13" round="0" cost="400" type="0" diaoluo="1000" reward="31,0,1000" prices="5,0,500" prices10="5,0,4500"/>
+	<logic id="14" round="0" cost="400" type="0" diaoluo="500" reward="31,0,1500" prices="5,0,500" prices10="5,0,4500"/>
+	<logic id="15" round="0" cost="400" type="0" diaoluo="500" reward="31,0,2000" prices="5,0,500" prices10="5,0,4500"/>
+	<logic id="16" round="0" cost="400" type="0" diaoluo="500" reward="2,17,30" prices="5,0,500" prices10="5,0,4500"/>
+	<logic id="17" round="0" cost="400" type="0" diaoluo="2000" reward="2,17,20" prices="5,0,500" prices10="5,0,4500"/>
+	<logic id="18" round="0" cost="400" type="0" diaoluo="1500" reward="2,17,10" prices="5,0,500" prices10="5,0,4500"/>
+	<logic id="19" round="0" cost="400" type="0" diaoluo="100" reward="3,1,1" prices="5,0,500" prices10="5,0,4500"/>
+	<logic id="20" round="0" cost="400" type="0" diaoluo="1000" reward="2,74,200" prices="5,0,500" prices10="5,0,4500"/>
+	<logic id="21" round="0" cost="400" type="0" diaoluo="1000" reward="2,9,10" prices="5,0,500" prices10="5,0,4500"/>
+	<logic id="22" round="0" cost="400" type="0" diaoluo="800" reward="2,9,15" prices="5,0,500" prices10="5,0,4500"/>
+	<logic id="23" round="0" cost="400" type="0" diaoluo="100" reward="2,85,1" prices="5,0,500" prices10="5,0,4500"/>
+	<logic id="24" round="0" cost="400" type="2" diaoluo="1000" reward="3,210,1" prices="5,0,500" prices10="5,0,4500"/>
+</xinfahc>

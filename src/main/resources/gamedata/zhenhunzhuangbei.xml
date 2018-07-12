@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<zhzb>
+	<z pos="0" lv="1" name="星·镇魂之刃" cost="2,86,1" compos="2,94,0" dis="2,94,600" hp="60000" attack="12000" phyDef="6000" magicDef="6000" shensheng="6000" sspower="24000" buffId="20" bufftime="3000" pram="500" tips="造成伤害时，{pram}%施放圣光打击，使目标{bufftime}秒内所有攻击落空"/>
+	<z pos="0" lv="2" name="月·镇魂之刃" cost="2,94,1000" compos="2,94,0" dis="2,94,0" hp="120000" attack="24000" phyDef="12000" magicDef="12000" shensheng="12000" sspower="48000" buffId="20" bufftime="3000" pram="800" tips="造成伤害时，{pram}%施放圣光打击，使目标{bufftime}秒内所有攻击落空"/>
+	<z pos="0" lv="3" name="阳·镇魂之刃" cost="2,94,1500" compos="2,94,0" dis="2,94,0" hp="180000" attack="36000" phyDef="18000" magicDef="18000" shensheng="18000" sspower="72000" buffId="20" bufftime="3000" pram="1000" tips="造成伤害时，{pram}%施放圣光打击，使目标{bufftime}秒内所有攻击落空"/>
+	<z pos="0" lv="4" name="宇·镇魂之刃" cost="2,94,2000" compos="2,94,0" dis="2,94,0" hp="240000" attack="48000" phyDef="24000" magicDef="24000" shensheng="24000" sspower="96000" buffId="20" bufftime="3000" pram="1200" tips="造成伤害时，{pram}%施放圣光打击，使目标{bufftime}秒内所有攻击落空"/>
+	<z pos="0" lv="5" name="圣·镇魂之刃" cost="2,94,2500" compos="2,94,0" dis="2,94,0" hp="300000" attack="60000" phyDef="30000" magicDef="30000" shensheng="30000" sspower="120000" buffId="20" bufftime="3000" pram="1500" tips="造成伤害时，{pram}%施放圣光打击，使目标{bufftime}秒内所有攻击落空"/>
+	<z pos="0" lv="6" name="神·镇魂之刃" cost="2,94,3000" compos="2,94,0" dis="2,94,0" hp="360000" attack="72000" phyDef="36000" magicDef="36000" shensheng="36000" sspower="144000" buffId="20" bufftime="3000" pram="1800" tips="造成伤害时，{pram}%施放圣光打击，使目标{bufftime}秒内所有攻击落空"/>
+	<z pos="1" lv="1" name="星·镇魂神甲" cost="2,87,1" compos="2,94,0" dis="2,94,600" hp="60000" attack="12000" phyDef="6000" magicDef="6000" shensheng="6000" sspower="24000" buffId="21" bufftime="3000" pram="2000" tips="角色生命值低于{pram}%时，有几率免疫所有控制技能，且伤害减免增加{pram1}%，持续{bufftime}秒" pram1="1000"/>
+	<z pos="1" lv="2" name="月·镇魂神甲" cost="2,94,1000" compos="2,94,0" dis="2,94,0" hp="120000" attack="24000" phyDef="12000" magicDef="12000" shensheng="12000" sspower="48000" buffId="21" bufftime="3000" pram="2000" tips="角色生命值低于{pram}%时，有几率免疫所有控制技能，且伤害减免增加{pram1}%，持续{bufftime}秒" pram1="2000"/>
+	<z pos="1" lv="3" name="阳·镇魂神甲" cost="2,94,1500" compos="2,94,0" dis="2,94,0" hp="180000" attack="36000" phyDef="18000" magicDef="18000" shensheng="18000" sspower="72000" buffId="21" bufftime="3000" pram="2000" tips="角色生命值低于{pram}%时，有几率免疫所有控制技能，且伤害减免增加{pram1}%，持续{bufftime}秒" pram1="3000"/>
+	<z pos="1" lv="4" name="宇·镇魂神甲" cost="2,94,2000" compos="2,94,0" dis="2,94,0" hp="240000" attack="48000" phyDef="24000" magicDef="24000" shensheng="24000" sspower="96000" buffId="21" bufftime="3000" pram="2000" tips="角色生命值低于{pram}%时，有几率免疫所有控制技能，且伤害减免增加{pram1}%，持续{bufftime}秒" pram1="4000"/>
+	<z pos="1" lv="5" name="圣·镇魂神甲" cost="2,94,2500" compos="2,94,0" dis="2,94,0" hp="300000" attack="60000" phyDef="30000" magicDef="30000" shensheng="30000" sspower="120000" buffId="21" bufftime="3000" pram="2000" tips="角色生命值低于{pram}%时，有几率免疫所有控制技能，且伤害减免增加{pram1}%，持续{bufftime}秒" pram1="5000"/>
+	<z pos="1" lv="6" name="神·镇魂神甲" cost="2,94,3000" compos="2,94,0" dis="2,94,0" hp="360000" attack="72000" phyDef="36000" magicDef="36000" shensheng="36000" sspower="144000" buffId="21" bufftime="3000" pram="2000" tips="角色生命值低于{pram}%时，有几率免疫所有控制技能，且伤害减免增加{pram1}%，持续{bufftime}秒" pram1="6000"/>
+	<z pos="2" lv="1" name="星·镇魂护腕" cost="2,90,1" compos="2,94,200" dis="2,94,100" hp="18750" attack="3750" phyDef="1875" magicDef="1875" shensheng="3000" sspower="12000"/>
+	<z pos="2" lv="2" name="月·镇魂护腕" cost="2,94,400" compos="2,94,0" dis="2,94,0" hp="37500" attack="7500" phyDef="3750" magicDef="3750" shensheng="6000" sspower="24000"/>
+	<z pos="2" lv="3" name="阳·镇魂护腕" cost="2,94,600" compos="2,94,0" dis="2,94,0" hp="56250" attack="11250" phyDef="5625" magicDef="5625" shensheng="9000" sspower="36000"/>
+	<z pos="2" lv="4" name="宇·镇魂护腕" cost="2,94,800" compos="2,94,0" dis="2,94,0" hp="75000" attack="15000" phyDef="7500" magicDef="7500" shensheng="12000" sspower="48000"/>
+	<z pos="2" lv="5" name="圣·镇魂护腕" cost="2,94,1000" compos="2,94,0" dis="2,94,0" hp="93750" attack="18750" phyDef="9375" magicDef="9375" shensheng="15000" sspower="60000"/>
+	<z pos="2" lv="6" name="神·镇魂护腕" cost="2,94,1200" compos="2,94,0" dis="2,94,0" hp="112500" attack="22500" phyDef="11250" magicDef="11250" shensheng="18000" sspower="72000"/>
+	<z pos="3" lv="1" name="星·镇魂戒指" cost="2,92,1" compos="2,94,200" dis="2,94,100" hp="18750" attack="3750" phyDef="1875" magicDef="1875" shensheng="3000" sspower="12000"/>
+	<z pos="3" lv="2" name="月·镇魂戒指" cost="2,94,400" compos="2,94,0" dis="2,94,0" hp="37500" attack="7500" phyDef="3750" magicDef="3750" shensheng="6000" sspower="24000"/>
+	<z pos="3" lv="3" name="阳·镇魂戒指" cost="2,94,600" compos="2,94,0" dis="2,94,0" hp="56250" attack="11250" phyDef="5625" magicDef="5625" shensheng="9000" sspower="36000"/>
+	<z pos="3" lv="4" name="宇·镇魂戒指" cost="2,94,800" compos="2,94,0" dis="2,94,0" hp="75000" attack="15000" phyDef="7500" magicDef="7500" shensheng="12000" sspower="48000"/>
+	<z pos="3" lv="5" name="圣·镇魂戒指" cost="2,94,1000" compos="2,94,0" dis="2,94,0" hp="93750" attack="18750" phyDef="9375" magicDef="9375" shensheng="15000" sspower="60000"/>
+	<z pos="3" lv="6" name="神·镇魂戒指" cost="2,94,1200" compos="2,94,0" dis="2,94,0" hp="112500" attack="22500" phyDef="11250" magicDef="11250" shensheng="18000" sspower="72000"/>
+	<z pos="4" lv="1" name="星·镇魂头盔" cost="2,88,1" compos="2,94,200" dis="2,94,100" hp="18750" attack="3750" phyDef="1875" magicDef="1875" shensheng="3000" sspower="12000"/>
+	<z pos="4" lv="2" name="月·镇魂头盔" cost="2,94,400" compos="2,94,0" dis="2,94,0" hp="37500" attack="7500" phyDef="3750" magicDef="3750" shensheng="6000" sspower="24000"/>
+	<z pos="4" lv="3" name="阳·镇魂头盔" cost="2,94,600" compos="2,94,0" dis="2,94,0" hp="56250" attack="11250" phyDef="5625" magicDef="5625" shensheng="9000" sspower="36000"/>
+	<z pos="4" lv="4" name="宇·镇魂头盔" cost="2,94,800" compos="2,94,0" dis="2,94,0" hp="75000" attack="15000" phyDef="7500" magicDef="7500" shensheng="12000" sspower="48000"/>
+	<z pos="4" lv="5" name="圣·镇魂头盔" cost="2,94,1000" compos="2,94,0" dis="2,94,0" hp="93750" attack="18750" phyDef="9375" magicDef="9375" shensheng="15000" sspower="60000"/>
+	<z pos="4" lv="6" name="神·镇魂头盔" cost="2,94,1200" compos="2,94,0" dis="2,94,0" hp="112500" attack="22500" phyDef="11250" magicDef="11250" shensheng="18000" sspower="72000"/>
+	<z pos="5" lv="1" name="星·镇魂项链" cost="2,93,1" compos="2,94,200" dis="2,94,100" hp="18750" attack="3750" phyDef="1875" magicDef="1875" shensheng="3000" sspower="12000"/>
+	<z pos="5" lv="2" name="月·镇魂项链" cost="2,94,400" compos="2,94,0" dis="2,94,0" hp="37500" attack="7500" phyDef="3750" magicDef="3750" shensheng="6000" sspower="24000"/>
+	<z pos="5" lv="3" name="阳·镇魂项链" cost="2,94,600" compos="2,94,0" dis="2,94,0" hp="56250" attack="11250" phyDef="5625" magicDef="5625" shensheng="9000" sspower="36000"/>
+	<z pos="5" lv="4" name="宇·镇魂项链" cost="2,94,800" compos="2,94,0" dis="2,94,0" hp="75000" attack="15000" phyDef="7500" magicDef="7500" shensheng="12000" sspower="48000"/>
+	<z pos="5" lv="5" name="圣·镇魂项链" cost="2,94,1000" compos="2,94,0" dis="2,94,0" hp="93750" attack="18750" phyDef="9375" magicDef="9375" shensheng="15000" sspower="60000"/>
+	<z pos="5" lv="6" name="神·镇魂项链" cost="2,94,1200" compos="2,94,0" dis="2,94,0" hp="112500" attack="22500" phyDef="11250" magicDef="11250" shensheng="18000" sspower="72000"/>
+	<z pos="6" lv="1" name="星·镇魂腰带" cost="2,91,1" compos="2,94,200" dis="2,94,100" hp="18750" attack="3750" phyDef="1875" magicDef="1875" shensheng="3000" sspower="12000"/>
+	<z pos="6" lv="2" name="月·镇魂腰带" cost="2,94,400" compos="2,94,0" dis="2,94,0" hp="37500" attack="7500" phyDef="3750" magicDef="3750" shensheng="6000" sspower="24000"/>
+	<z pos="6" lv="3" name="阳·镇魂腰带" cost="2,94,600" compos="2,94,0" dis="2,94,0" hp="56250" attack="11250" phyDef="5625" magicDef="5625" shensheng="9000" sspower="36000"/>
+	<z pos="6" lv="4" name="宇·镇魂腰带" cost="2,94,800" compos="2,94,0" dis="2,94,0" hp="75000" attack="15000" phyDef="7500" magicDef="7500" shensheng="12000" sspower="48000"/>
+	<z pos="6" lv="5" name="圣·镇魂腰带" cost="2,94,1000" compos="2,94,0" dis="2,94,0" hp="93750" attack="18750" phyDef="9375" magicDef="9375" shensheng="15000" sspower="60000"/>
+	<z pos="6" lv="6" name="神·镇魂腰带" cost="2,94,1200" compos="2,94,0" dis="2,94,0" hp="112500" attack="22500" phyDef="11250" magicDef="11250" shensheng="18000" sspower="72000"/>
+	<z pos="7" lv="1" name="星·镇魂战靴" cost="2,89,1" compos="2,94,200" dis="2,94,100" hp="18750" attack="3750" phyDef="1875" magicDef="1875" shensheng="3000" sspower="12000"/>
+	<z pos="7" lv="2" name="月·镇魂战靴" cost="2,94,400" compos="2,94,0" dis="2,94,0" hp="37500" attack="7500" phyDef="3750" magicDef="3750" shensheng="6000" sspower="24000"/>
+	<z pos="7" lv="3" name="阳·镇魂战靴" cost="2,94,600" compos="2,94,0" dis="2,94,0" hp="56250" attack="11250" phyDef="5625" magicDef="5625" shensheng="9000" sspower="36000"/>
+	<z pos="7" lv="4" name="宇·镇魂战靴" cost="2,94,800" compos="2,94,0" dis="2,94,0" hp="75000" attack="15000" phyDef="7500" magicDef="7500" shensheng="12000" sspower="48000"/>
+	<z pos="7" lv="5" name="圣·镇魂战靴" cost="2,94,1000" compos="2,94,0" dis="2,94,0" hp="93750" attack="18750" phyDef="9375" magicDef="9375" shensheng="15000" sspower="60000"/>
+	<z pos="7" lv="6" name="神·镇魂战靴" cost="2,94,1200" compos="2,94,0" dis="2,94,0" hp="112500" attack="22500" phyDef="11250" magicDef="11250" shensheng="18000" sspower="72000"/>
+</zhzb>

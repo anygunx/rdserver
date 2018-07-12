@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pays>
+    <pay id="10" diamond="1000" type="0" goods="cz_yuanbao1_png" additions="10010,20010"/>
+    <pay id="20" diamond="2000" type="0" goods="cz_yuanbao2_png" additions="20020"/>
+    <pay id="28" diamond="0" type="1" goods="pay_icon_0_jpg" additions=""/>
+    <pay id="50" diamond="5000" type="0" goods="cz_yuanbao3_png" additions="10050,20050"/>
+    <pay id="88" diamond="0" type="2" goods="pay_icon_0_jpg" additions=""/>
+    <pay id="100" diamond="10000" type="0" goods="cz_yuanbao4_png" additions="10100,20100"/>
+    <pay id="200" diamond="20000" type="0" goods="cz_yuanbao5_png" additions="10200,20200"/>
+    <pay id="500" diamond="50000" type="0" goods="cz_yuanbao6_png" additions="20500"/>
+    <pay id="1000" diamond="100000" type="0" goods="cz_yuanbao7_png" additions="21000"/>
+    <pay id="1500" diamond="150000" type="0" goods="cz_yuanbao8_png" additions="21500"/>
+    <pay id="2000" diamond="200000" type="0" goods="cz_yuanbao9_png" additions="22000"/>
+    <pay id="3000" diamond="300000" type="0" goods="cz_yuanbao10_png" additions="23000"/>
+</pays>

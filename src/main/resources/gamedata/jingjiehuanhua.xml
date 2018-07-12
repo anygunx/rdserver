@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<jingjiehuanhuas>
+	<jingjiehuanhua id="1"  name="牛C光环" waixing1="50" cost="2,1000,1" time="-1" hp="27300" attack="5460" phyDef="2732" magicDef="2732" issuit="1" hit="0" dodge="0" crit="0" duct="0" block="0" counter="0"/>
+</jingjiehuanhuas>

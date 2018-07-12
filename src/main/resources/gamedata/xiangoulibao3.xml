@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<zhuhuns>
+	<logic id="1" round="0" name="1" yuanjia="5000" price="5,0,3888" rewards="3,1,5" vip="1" max="1" zhekou="7.8"/>
+	<logic id="2" round="0" name="3" yuanjia="9980" price="5,0,6888" rewards="3,2,1" vip="3" max="1" zhekou="6.9"/>
+	<logic id="3" round="0" name="5" yuanjia="19960" price="5,0,8888" rewards="3,2,2" vip="5" max="1" zhekou="4.5"/>
+	<logic id="4" round="1" name="1" yuanjia="5000" price="5,0,3888" rewards="2,103,10" vip="1" max="1" zhekou="7.8"/>
+	<logic id="5" round="1" name="3" yuanjia="10000" price="5,0,6888" rewards="2,103,20" vip="3" max="1" zhekou="6.9"/>
+	<logic id="6" round="1" name="5" yuanjia="15000" price="5,0,8888" rewards="2,103,30" vip="5" max="1" zhekou="5.9"/>
+	<logic id="7" round="2" name="0" yuanjia="5100" price="5,0,3888" rewards="31,0,17000" vip="0" max="1" zhekou="7.6"/>
+	<logic id="8" round="2" name="1" yuanjia="1700000" price="4,0,9630000" rewards="31,0,17000" vip="1" max="1" zhekou="5.7"/>
+	<logic id="9" round="2" name="3" yuanjia="18000" price="5,0,8888" rewards="31,0,60000" vip="3" max="1" zhekou="4.9"/>
+	<logic id="10" round="3" name="1" yuanjia="5000" price="5,0,3888" rewards="3,4,1" vip="1" max="1" zhekou="7.8"/>
+	<logic id="11" round="3" name="3" yuanjia="15000" price="5,0,6888" rewards="3,4,3" vip="3" max="1" zhekou="4.6"/>
+	<logic id="12" round="3" name="5" yuanjia="20000" price="5,0,8888" rewards="3,5,1" vip="5" max="1" zhekou="4.4"/>
+	<logic id="13" round="4" name="1" yuanjia="5000" price="5,0,3888" rewards="2,74,1000" vip="1" max="1" zhekou="7.8"/>
+	<logic id="14" round="4" name="3" yuanjia="10000" price="5,0,6888" rewards="2,74,2000" vip="3" max="1" zhekou="6.9"/>
+	<logic id="15" round="4" name="5" yuanjia="18000" price="5,0,8888" rewards="2,74,3600" vip="5" max="1" zhekou="4.9"/>
+	<logic id="16" round="5" name="0" yuanjia="5000" price="5,0,3888" rewards="3,158,1" vip="0" max="1" zhekou="7.8"/>
+	<logic id="17" round="5" name="1" yuanjia="1700000" price="4,0,9630000" rewards="3,159,1" vip="1" max="1" zhekou="5.8"/>
+	<logic id="18" round="5" name="3" yuanjia="20000" price="5,0,8888" rewards="3,179,1" vip="3" max="1" zhekou="4.4"/>
+	<logic id="19" round="6" name="0" yuanjia="5100" price="5,0,3888" rewards="31,0,17000" vip="0" max="1" zhekou="7.6"/>
+	<logic id="20" round="6" name="1" yuanjia="1700000" price="4,0,9630000" rewards="31,0,17000" vip="1" max="1" zhekou="5.7"/>
+	<logic id="21" round="6" name="3" yuanjia="18000" price="5,0,8888" rewards="31,0,60000" vip="3" max="1" zhekou="4.9"/>
+</zhuhuns>

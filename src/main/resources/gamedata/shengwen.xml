@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<shengwens>
+	<shengwen id="1" name="龙纹·壹" icon="lianti_shwen_icon_1_png" level="1" quality="4" limit="6" pos="1" cost="2,106,20" yuanbao="5,0,20" attack="1400" phyDef="1200" magicDef="0" hp="0" dodge="120" hit="0"/>
+	<shengwen id="2" name="龙纹·贰" icon="lianti_shwen_icon_1_png" level="2" quality="4" limit="8" pos="1" cost="36,1,3" yuanbao="5,0,50" attack="2800" phyDef="2400" magicDef="0" hp="0" dodge="240" hit="0"/>
+	<shengwen id="3" name="龙纹·叁" icon="lianti_shwen_icon_1_png" level="3" quality="4" limit="10" pos="1" cost="36,2,3" yuanbao="5,0,100" attack="5600" phyDef="4800" magicDef="0" hp="0" dodge="360" hit="0"/>
+	<shengwen id="4" name="龙纹·肆" icon="lianti_shwen_icon_1_png" level="4" quality="4" limit="12" pos="1" cost="36,3,3" yuanbao="5,0,200" attack="11200" phyDef="9600" magicDef="0" hp="0" dodge="480" hit="0"/>
+	<shengwen id="5" name="龙纹·伍" icon="lianti_shwen_icon_1_png" level="5" quality="4" limit="15" pos="1" cost="36,4,3" yuanbao="5,0,400" attack="22400" phyDef="19200" magicDef="0" hp="0" dodge="600" hit="0"/>
+	<shengwen id="6" name="龙纹·陆" icon="lianti_shwen_icon_1_png" level="6" quality="4" limit="15" pos="1" cost="36,5,3" yuanbao="5,0,400" attack="44800" phyDef="38400" magicDef="0" hp="0" dodge="720" hit="0"/>
+	<shengwen id="7" name="龙纹·柒" icon="lianti_shwen_icon_1_png" level="7" quality="4" limit="15" pos="1" cost="36,6,3" yuanbao="5,0,400" attack="67200" phyDef="57600" magicDef="0" hp="0" dodge="840" hit="0"/>
+	<shengwen id="8" name="龙纹·捌" icon="lianti_shwen_icon_1_png" level="8" quality="4" limit="15" pos="1" cost="36,7,3" yuanbao="5,0,400" attack="100800" phyDef="86400" magicDef="0" hp="0" dodge="850" hit="0"/>
+	<shengwen id="9" name="凤纹·壹" icon="lianti_shwen_icon_2_png" level="1" quality="4" limit="6" pos="2" cost="2,106,20" yuanbao="5,0,20" attack="1400" phyDef="0" magicDef="1200" hp="0" dodge="0" hit="120"/>
+	<shengwen id="10" name="凤纹·贰" icon="lianti_shwen_icon_2_png" level="2" quality="4" limit="8" pos="2" cost="36,9,3" yuanbao="5,0,50" attack="2800" phyDef="0" magicDef="2400" hp="0" dodge="0" hit="240"/>
+	<shengwen id="11" name="凤纹·叁" icon="lianti_shwen_icon_2_png" level="3" quality="4" limit="10" pos="2" cost="36,10,3" yuanbao="5,0,100" attack="5600" phyDef="0" magicDef="4800" hp="0" dodge="0" hit="360"/>
+	<shengwen id="12" name="凤纹·肆" icon="lianti_shwen_icon_2_png" level="4" quality="4" limit="12" pos="2" cost="36,11,3" yuanbao="5,0,200" attack="11200" phyDef="0" magicDef="9600" hp="0" dodge="0" hit="480"/>
+	<shengwen id="13" name="凤纹·伍" icon="lianti_shwen_icon_2_png" level="5" quality="4" limit="15" pos="2" cost="36,12,3" yuanbao="5,0,400" attack="22400" phyDef="0" magicDef="19200" hp="0" dodge="0" hit="600"/>
+	<shengwen id="14" name="凤纹·陆" icon="lianti_shwen_icon_2_png" level="6" quality="4" limit="15" pos="2" cost="36,13,3" yuanbao="5,0,400" attack="44800" phyDef="0" magicDef="38400" hp="0" dodge="0" hit="720"/>
+	<shengwen id="15" name="凤纹·柒" icon="lianti_shwen_icon_2_png" level="7" quality="4" limit="15" pos="2" cost="36,14,3" yuanbao="5,0,400" attack="67200" phyDef="0" magicDef="57600" hp="0" dodge="0" hit="840"/>
+	<shengwen id="16" name="凤纹·捌" icon="lianti_shwen_icon_2_png" level="8" quality="4" limit="15" pos="2" cost="36,15,3" yuanbao="5,0,400" attack="100800" phyDef="0" magicDef="86400" hp="0" dodge="0" hit="850"/>
+	<shengwen id="17" name="玄纹·壹" icon="lianti_shwen_icon_3_png" level="1" quality="4" limit="6" pos="3" cost="2,106,20" yuanbao="5,0,20" attack="0" phyDef="800" magicDef="800" hp="12000" dodge="120" hit="0"/>
+	<shengwen id="18" name="玄纹·贰" icon="lianti_shwen_icon_3_png" level="2" quality="4" limit="8" pos="3" cost="36,17,3" yuanbao="5,0,50" attack="0" phyDef="1600" magicDef="1600" hp="24000" dodge="240" hit="0"/>
+	<shengwen id="19" name="玄纹·叁" icon="lianti_shwen_icon_3_png" level="3" quality="4" limit="10" pos="3" cost="36,18,3" yuanbao="5,0,100" attack="0" phyDef="3200" magicDef="3200" hp="48000" dodge="360" hit="0"/>
+	<shengwen id="20" name="玄纹·肆" icon="lianti_shwen_icon_3_png" level="4" quality="4" limit="12" pos="3" cost="36,19,3" yuanbao="5,0,200" attack="0" phyDef="6400" magicDef="6400" hp="96000" dodge="480" hit="0"/>
+	<shengwen id="21" name="玄纹·伍" icon="lianti_shwen_icon_3_png" level="5" quality="4" limit="15" pos="3" cost="36,20,3" yuanbao="5,0,400" attack="0" phyDef="12800" magicDef="12800" hp="192000" dodge="600" hit="0"/>
+	<shengwen id="22" name="玄纹·陆" icon="lianti_shwen_icon_3_png" level="6" quality="4" limit="15" pos="3" cost="36,21,3" yuanbao="5,0,400" attack="0" phyDef="25600" magicDef="25600" hp="384000" dodge="720" hit="0"/>
+	<shengwen id="23" name="玄纹·柒" icon="lianti_shwen_icon_3_png" level="7" quality="4" limit="15" pos="3" cost="36,22,3" yuanbao="5,0,400" attack="0" phyDef="38400" magicDef="38400" hp="576000" dodge="840" hit="0"/>
+	<shengwen id="24" name="玄纹·捌" icon="lianti_shwen_icon_3_png" level="8" quality="4" limit="15" pos="3" cost="36,23,3" yuanbao="5,0,400" attack="0" phyDef="57600" magicDef="57600" hp="864000" dodge="850" hit="0"/>
+	<shengwen id="25" name="虎纹·壹" icon="lianti_shwen_icon_4_png" level="1" quality="4" limit="6" pos="4" cost="2,106,20" yuanbao="5,0,20" attack="1200" phyDef="0" magicDef="0" hp="8000" dodge="0" hit="120"/>
+	<shengwen id="26" name="虎纹·贰" icon="lianti_shwen_icon_4_png" level="2" quality="4" limit="8" pos="4" cost="36,25,3" yuanbao="5,0,50" attack="2400" phyDef="0" magicDef="0" hp="16000" dodge="0" hit="240"/>
+	<shengwen id="27" name="虎纹·叁" icon="lianti_shwen_icon_4_png" level="3" quality="4" limit="10" pos="4" cost="36,26,3" yuanbao="5,0,100" attack="4800" phyDef="0" magicDef="0" hp="32000" dodge="0" hit="360"/>
+	<shengwen id="28" name="虎纹·肆" icon="lianti_shwen_icon_4_png" level="4" quality="4" limit="12" pos="4" cost="36,27,3" yuanbao="5,0,200" attack="9600" phyDef="0" magicDef="0" hp="64000" dodge="0" hit="480"/>
+	<shengwen id="29" name="虎纹·伍" icon="lianti_shwen_icon_4_png" level="5" quality="4" limit="15" pos="4" cost="36,28,3" yuanbao="5,0,400" attack="19200" phyDef="0" magicDef="0" hp="128000" dodge="0" hit="600"/>
+	<shengwen id="30" name="虎纹·陆" icon="lianti_shwen_icon_4_png" level="6" quality="4" limit="15" pos="4" cost="36,29,3" yuanbao="5,0,400" attack="38400" phyDef="0" magicDef="0" hp="256000" dodge="0" hit="720"/>
+	<shengwen id="31" name="虎纹·柒" icon="lianti_shwen_icon_4_png" level="7" quality="4" limit="15" pos="4" cost="36,30,3" yuanbao="5,0,400" attack="57600" phyDef="0" magicDef="0" hp="384000" dodge="0" hit="840"/>
+	<shengwen id="32" name="虎纹·捌" icon="lianti_shwen_icon_4_png" level="8" quality="4" limit="15" pos="4" cost="36,31,3" yuanbao="5,0,400" attack="86400" phyDef="0" magicDef="0" hp="576000" dodge="0" hit="850"/>
+</shengwens>

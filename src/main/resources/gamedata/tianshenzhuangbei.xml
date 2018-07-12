@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<equipments>
+	<equipment id="1" name="盛世神剑" des="武器" next="2" level="110" Appearance="100" cost="200" position="0" effct="0,104004#1,31265" addEffect="0,15601#1,4690" icon="1_200_1_png" Dropicon="DE001_png"/>
+	<equipment id="2" name="盛世神剑" des="武器" next="3" level="130" Appearance="100" cost="400" position="0" effct="0,156006#1,46898" addEffect="0,23402#1,7036" icon="1_200_1_png" Dropicon="DE002_png"/>
+	<equipment id="3" name="盛世神剑" des="武器" next="4" level="150" Appearance="100" cost="650" position="0" effct="0,207488#1,62374" addEffect="0,31124#1,9357" icon="1_200_1_png" Dropicon="DE003_png"/>
+	<equipment id="4" name="盛世神剑" des="武器" next="5" level="170" Appearance="100" cost="1050" position="0" effct="0,255210#1,76720" addEffect="0,38283#1,11509" icon="1_200_1_png" Dropicon="DE004_png"/>
+	<equipment id="5" name="盛世神剑" des="武器" next="0" level="180" Appearance="100" cost="1450" position="0" effct="0,306252#1,92064" addEffect="0,45939#1,13811" icon="1_200_1_png" Dropicon="DE005_png"/>
+	<equipment id="6" name="盛世神冠" des="帽子" next="7" level="110" Appearance="0" cost="200" position="1" effct="0,51323#1,17756#3,7406#12,500" addEffect="0,7699#1,2664#3,1111#12,10" icon="1_200_2_png" Dropicon="DE001_png"/>
+	<equipment id="7" name="盛世神冠" des="帽子" next="8" level="130" Appearance="0" cost="400" position="1" effct="0,82117#1,28410#3,11850#12,500" addEffect="0,12318#1,4262#3,1778#12,10" icon="1_200_2_png" Dropicon="DE002_png"/>
+	<equipment id="8" name="盛世神冠" des="帽子" next="9" level="150" Appearance="0" cost="650" position="1" effct="0,114964#1,39774#3,16590#12,500" addEffect="0,17246#1,5967#3,2489#12,10" icon="1_200_2_png" Dropicon="DE003_png"/>
+	<equipment id="9" name="盛世神冠" des="帽子" next="10" level="170" Appearance="0" cost="1050" position="1" effct="0,149453#1,51706#3,21567#12,500" addEffect="0,22419#1,7757#3,3236#12,10" icon="1_200_2_png" Dropicon="DE004_png"/>
+	<equipment id="10" name="盛世神冠" des="帽子" next="0" level="180" Appearance="0" cost="1450" position="1" effct="0,179344#1,62047#3,25880#12,500" addEffect="0,26903#1,9308#3,3883#12,10" icon="1_200_2_png" Dropicon="DE005_png"/>
+	<equipment id="11" name="盛世神甲" des="衣服" next="12" level="110" Appearance="9" cost="200" position="2" effct="0,104004#1,5190#2,20758#3,20758" addEffect="0,15601#1,779#2,3115#3,3115" icon="1_200_3_png" Dropicon="DE006_png"/>
+	<equipment id="12" name="盛世神甲" des="衣服" next="13" level="130" Appearance="9" cost="400" position="2" effct="0,156006#1,7785#2,31137#3,31137" addEffect="0,23402#1,1168#2,4672#3,4672" icon="1_200_3_png" Dropicon="DE007_png"/>
+	<equipment id="13" name="盛世神甲" des="衣服" next="14" level="150" Appearance="9" cost="650" position="2" effct="0,207488#1,10354#2,41412#3,41412" addEffect="0,31124#1,1554#2,6213#3,6213" icon="1_200_3_png" Dropicon="DE008_png"/>
+	<equipment id="14" name="盛世神甲" des="衣服" next="15" level="170" Appearance="9" cost="1050" position="2" effct="0,255210#1,12735#2,50936#3,50936" addEffect="0,38283#1,1911#2,7642#3,7642" icon="1_200_3_png" Dropicon="DE001_png"/>
+	<equipment id="15" name="盛世神甲" des="衣服" next="0" level="180" Appearance="9" cost="1450" position="2" effct="0,306252#1,15282#2,61123#3,61123" addEffect="0,45939#1,2293#2,9170#3,9170" icon="1_200_3_png" Dropicon="DE002_png"/>
+	<equipment id="16" name="盛世神靴" des="鞋子" next="17" level="110" Appearance="0" cost="200" position="3" effct="0,51323#1,17756#3,7406#12,500" addEffect="0,7699#1,2664#3,1111#12,10" icon="1_200_4_png" Dropicon="DE006_png"/>
+	<equipment id="17" name="盛世神靴" des="鞋子" next="18" level="130" Appearance="0" cost="400" position="3" effct="0,82117#1,28410#3,11850#12,500" addEffect="0,12318#1,4262#3,1778#12,10" icon="1_200_4_png" Dropicon="DE007_png"/>
+	<equipment id="18" name="盛世神靴" des="鞋子" next="19" level="150" Appearance="0" cost="650" position="3" effct="0,114964#1,39774#3,16590#12,500" addEffect="0,17246#1,5967#3,2489#12,10" icon="1_200_4_png" Dropicon="DE008_png"/>
+	<equipment id="19" name="盛世神靴" des="鞋子" next="20" level="170" Appearance="0" cost="1050" position="3" effct="0,149453#1,51706#3,21567#12,500" addEffect="0,22419#1,7757#3,3236#12,10" icon="1_200_4_png" Dropicon="DE001_png"/>
+	<equipment id="20" name="盛世神靴" des="鞋子" next="0" level="180" Appearance="0" cost="1450" position="3" effct="0,179344#1,62047#3,25880#12,500" addEffect="0,26903#1,9308#3,3883#12,10" icon="1_200_4_png" Dropicon="DE002_png"/>
+	</equipments>

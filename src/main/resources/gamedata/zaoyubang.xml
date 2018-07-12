@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<logics>
+	<logic id="1" rankMin="1" rankMax="1" reward="27,0,8000#2,10,200" title="野战排名奖" content="恭喜您在今日的野战中获得第1名，以下是为您奉上的丰厚奖励"/>
+	<logic id="2" rankMin="2" rankMax="2" reward="27,0,5500#2,10,180" title="野战排名奖" content="恭喜您在今日的野战中获得第2名，以下是为您奉上的丰厚奖励"/>
+	<logic id="3" rankMin="3" rankMax="3" reward="27,0,4000#2,10,150" title="野战排名奖" content="恭喜您在今日的野战中获得第3名，以下是为您奉上的丰厚奖励"/>
+	<logic id="4" rankMin="4" rankMax="4" reward="27,0,3000#2,10,140" title="野战排名奖" content="恭喜您在今日的野战中获得第4名，以下是为您奉上的丰厚奖励"/>
+	<logic id="5" rankMin="5" rankMax="5" reward="27,0,2000#2,10,130" title="野战排名奖" content="恭喜您在今日的野战中获得第5名，以下是为您奉上的丰厚奖励"/>
+	<logic id="6" rankMin="6" rankMax="10" reward="27,0,1500#2,10,120" title="野战排名奖" content="恭喜您在今日的野战中获得第6-10名，以下是为您奉上的丰厚奖励"/>
+	<logic id="11" rankMin="11" rankMax="50" reward="27,0,1000#2,10,110" title="野战排名奖" content="您在今日的野战中排行前50，为您奉上以下奖励"/>
+	<logic id="12" rankMin="51" rankMax="100" reward="27,0,500#2,10,100" title="野战排名奖" content="您在今日的野战中排行前100，为您奉上以下奖励"/>
+</logics>

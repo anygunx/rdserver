@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<shanggujinjie>
+	<jinjie id="1" jieji="0" hp="10000" attack="10000" phyDef="0" magicDef="0" crit="10000" duct="0" position="0" cost="2,8,10"/>
+	<jinjie id="2" jieji="1" hp="12500" attack="12500" phyDef="0" magicDef="0" crit="10300" duct="0" position="0" cost="2,8,20"/>
+	<jinjie id="3" jieji="2" hp="16000" attack="16000" phyDef="0" magicDef="0" crit="10600" duct="0" position="0" cost="2,8,30"/>
+	<jinjie id="4" jieji="3" hp="20000" attack="20000" phyDef="0" magicDef="0" crit="10900" duct="0" position="0" cost="2,8,40"/>
+	<jinjie id="5" jieji="4" hp="25000" attack="25000" phyDef="0" magicDef="0" crit="11200" duct="0" position="0" cost="2,8,50"/>
+	<jinjie id="6" jieji="5" hp="30000" attack="30000" phyDef="0" magicDef="0" crit="11500" duct="0" position="0"/>
+	<jinjie id="7" jieji="0" hp="0" attack="10000" phyDef="10000" magicDef="0" crit="0" duct="10000" position="1" cost="2,8,10"/>
+	<jinjie id="8" jieji="1" hp="0" attack="12500" phyDef="12500" magicDef="0" crit="0" duct="10300" position="1" cost="2,8,20"/>
+	<jinjie id="9" jieji="2" hp="0" attack="16000" phyDef="16000" magicDef="0" crit="0" duct="10600" position="1" cost="2,8,30"/>
+	<jinjie id="10" jieji="3" hp="0" attack="20000" phyDef="20000" magicDef="0" crit="0" duct="10900" position="1" cost="2,8,40"/>
+	<jinjie id="11" jieji="4" hp="0" attack="25000" phyDef="25000" magicDef="0" crit="0" duct="11200" position="1" cost="2,8,50"/>
+	<jinjie id="12" jieji="5" hp="0" attack="30000" phyDef="30000" magicDef="0" crit="0" duct="11500" position="1"/>
+	<jinjie id="13" jieji="0" hp="0" attack="10000" phyDef="0" magicDef="10000" crit="10000" duct="0" position="2" cost="2,8,10"/>
+	<jinjie id="14" jieji="1" hp="0" attack="12500" phyDef="0" magicDef="12500" crit="10300" duct="0" position="2" cost="2,8,20"/>
+	<jinjie id="15" jieji="2" hp="0" attack="16000" phyDef="0" magicDef="16000" crit="10600" duct="0" position="2" cost="2,8,30"/>
+	<jinjie id="16" jieji="3" hp="0" attack="20000" phyDef="0" magicDef="20000" crit="10900" duct="0" position="2" cost="2,8,40"/>
+	<jinjie id="17" jieji="4" hp="0" attack="25000" phyDef="0" magicDef="25000" crit="11200" duct="0" position="2" cost="2,8,50"/>
+	<jinjie id="18" jieji="5" hp="0" attack="30000" phyDef="0" magicDef="30000" crit="11500" duct="0" position="2"/>
+	<jinjie id="19" jieji="0" hp="10000" attack="10000" phyDef="0" magicDef="0" crit="0" duct="10000" position="3" cost="2,8,10"/>
+	<jinjie id="20" jieji="1" hp="12500" attack="12500" phyDef="0" magicDef="0" crit="0" duct="10300" position="3" cost="2,8,20"/>
+	<jinjie id="21" jieji="2" hp="16000" attack="16000" phyDef="0" magicDef="0" crit="0" duct="10600" position="3" cost="2,8,30"/>
+	<jinjie id="22" jieji="3" hp="20000" attack="20000" phyDef="0" magicDef="0" crit="0" duct="10900" position="3" cost="2,8,40"/>
+	<jinjie id="23" jieji="4" hp="25000" attack="25000" phyDef="0" magicDef="0" crit="0" duct="11200" position="3" cost="2,8,50"/>
+	<jinjie id="24" jieji="5" hp="30000" attack="30000" phyDef="0" magicDef="0" crit="0" duct="11500" position="3"/>
+</shanggujinjie>
